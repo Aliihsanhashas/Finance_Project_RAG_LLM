@@ -18,13 +18,20 @@ def generate_report(query, symbol):
 
     final_prompt = """ {COMMAND_PROMPT} """
 
-    haber_agent_output = haber_agent(query=query, symbol=symbol)
-
+    haber_agent_output = haber_agent(query=query, stock_name=symbol)
     stock_agent_output = stock_agent(query=query, symbol=symbol)
 
-    final_prompt += haber_agent_output 
-    final_prompt += stock_agent_output 
+    if haber_agent_output is not None:
+        final_prompt += haber_agent_output
+    else:
+        final_prompt += "İlgili haber bilgisi alınamadı.\n"
 
+    if stock_agent_output is not None:
+        final_prompt += stock_agent_output
+    else:
+        final_prompt += "İlgili hisse senedi verisi bulunamadı.\n"
+
+    return final_prompt
 
 
     response = openai_client.chat.completions.create(

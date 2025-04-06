@@ -40,19 +40,18 @@ def get_stock_data(symbols, start_date, end_date=None, exchange="0", frequency="
     frequency : "dd-mm-yyyy" , '18-03-2025'
     observation : observation (str, varsayılan 'last'): Haftalık, aylık ve yıllık frekanslarda istenen gözlem ('last': Son, 'mean': Ortalama).
     return_type : return_type (str, varsayılan '0'): Ham veriler mi kullanılacak yoksa getiri mi hesaplanacak? ('0': Ham, '1': Logaritmik Getiri, '2': Basit Getiri)
-
-
     """
     stock_data = StockData().get_data(symbols, start_date, end_date, exchange, frequency, observation, return_type)
+    if stock_data is None:
+        return "Belirtilen kriterlere uygun hisse senedi verisi bulunamadı."
     return stock_data_prompt_builder(stock_data.to_dict())
-
 
 def stock_query_generator(query, stock_name):
     """
     Kullanıcının sorusuna göre get_stock_data fonksiyonuna uygun parametreleri belirleyen ajan.
     """
 
-    todays_date = datetime.now().strftime('%-d %B %Y')
+    todays_date = datetime.now().strftime('%#d %B %Y')
       
     class StockAPIDataModel(BaseModel):
         start_date: str
@@ -136,5 +135,5 @@ def stock_agent(query, symbol):
 
     query_params = stock_query_generator(query, symbol)
 
-    stock_data_llm_query = stock_data_api_agent_output.dict() 
+    stock_data_llm_query = query_params.dict()
     return get_stock_data(symbols=symbol,  **stock_data_llm_query )
