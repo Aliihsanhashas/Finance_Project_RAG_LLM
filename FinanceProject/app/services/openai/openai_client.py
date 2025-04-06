@@ -1,0 +1,6 @@
+import openai
+
+
+OPENAI_API_KEY = "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"
+
+openai_client = openai.OpenAI(api_key=OPENAI_API_KEY)  # OpenAI istemcisi
