@@ -36,15 +36,15 @@ def get_stock_data(symbols, start_date, end_date=None, exchange="0", frequency="
     exchange : The options are '0' for TL columns, '1' for USD columns, or '2' for both TL and USD columns.")
     symbols : "THYAO" or ["THYAO", "KCHOL"]
     start_date : "dd-mm-yyyy" , '18-03-2025'
-    end_date : 'The options are '1d', '1w', '1mo', '3mo', or '1y'."
-    frequency : "dd-mm-yyyy" , '18-03-2025'
+    end_date : "dd-mm-yyyy" , '18-03-2025'
+    frequency : 'The options are '1d' for daily, '1w' : for weekly freq.  , '1mo' : monthly freq, '3mo' : quarterly freq. , or '1y' : for annual freq.  
     observation : observation (str, varsayılan 'last'): Haftalık, aylık ve yıllık frekanslarda istenen gözlem ('last': Son, 'mean': Ortalama).
     return_type : return_type (str, varsayılan '0'): Ham veriler mi kullanılacak yoksa getiri mi hesaplanacak? ('0': Ham, '1': Logaritmik Getiri, '2': Basit Getiri)
     """
     stock_data = StockData().get_data(symbols, start_date, end_date, exchange, frequency, observation, return_type)
     if stock_data is None:
         return "Belirtilen kriterlere uygun hisse senedi verisi bulunamadı."
-    return stock_data_prompt_builder(stock_data.to_dict())
+    return stock_data_prompt_builder(stock_data.to_dict()), stock_data
 
 def stock_query_generator(query, stock_name):
     """
@@ -132,8 +132,9 @@ def stock_query_generator(query, stock_name):
 
 
 def stock_agent(query, symbol):
-
     query_params = stock_query_generator(query, symbol)
-
     stock_data_llm_query = query_params.dict()
-    return get_stock_data(symbols=symbol,  **stock_data_llm_query )
+    prompt_compatible_stock_data, raw_stock_data = get_stock_data(symbols=symbol,  **stock_data_llm_query )
+    raw_stock_data['DATE'] = raw_stock_data['DATE'].astype(str)
+    raw_stock_data = raw_stock_data.T.to_dict()
+    return raw_stock_data, prompt_compatible_stock_data

@@ -16,10 +16,10 @@ def get_news(q: str = "SASA"):
     response = requests.get(BASE_URL, params=params)
     
     if response.status_code == 200:
-        data = response.json()
-        return haber_data_prompt_builder(data)
+        raw_news_data = response.json()
+        return haber_data_prompt_builder(raw_news_data), raw_news_data["articles"]
     else:
-        return {"error": f"Hata oluştu: {response.status_code}, {response.text}"}
+        return "Son haberlere ulaşamıyorum", []
 
 
 def haber_data_prompt_builder(haber_data):
@@ -72,5 +72,6 @@ def haber_query_generator(query, stock_name):
 
 
 def haber_agent(query, stock_name): 
-    haber_queries = haber_query_generator(query, stock_name)
-    news = get_news(haber_queries)
+    # haber_queries = haber_query_generator(stock_name, stock_name)
+    prompt_compatible_news_data, raw_news_data = get_news(stock_name)
+    return prompt_compatible_news_data, raw_news_data 

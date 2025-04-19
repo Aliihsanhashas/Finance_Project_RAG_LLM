@@ -12,7 +12,7 @@ class RaporCevabi(BaseModel):
     rapor: str
 
 @stock_router.get("/stock-agent", response_model=RaporCevabi)
-async def loginUser(query : str, symbol: str):
+async def stock_agent(query : str, symbol: str):
     rapor_icerigi = stock_agent(query=query, symbol=symbol)
     return {"rapor": rapor_icerigi}
 

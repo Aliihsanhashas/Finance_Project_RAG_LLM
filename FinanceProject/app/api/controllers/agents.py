@@ -11,7 +11,6 @@ agent_router = APIRouter(
 class RaporCevabi(BaseModel):
     rapor: str
 
-@agent_router.post("/generate-report", response_model=RaporCevabi)
+@agent_router.post("/generate-report" ) # response_model=RaporCevabi
 async def loginUser(query : str, symbol: str = "THYAO"):
-    rapor_icerigi = generate_report(query=query, symbol=symbol)
-    return {"rapor": rapor_icerigi}
+    return generate_report(query=query, symbol=symbol)
