@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 
-from app.api.controllers.agents import agent_router as agent_api
-from app.api.controllers.stock import stock_router as stock_api
+from backend.api.controllers.agents import agent_router as agent_api
+from backend.api.controllers.stock import stock_router as stock_api
 
 router = APIRouter()
 

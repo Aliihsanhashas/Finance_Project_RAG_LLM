@@ -1,5 +1,5 @@
 from isyatirimhisse import StockData
-from app.services.openai.openai_client import openai_client
+from backend.services.openai.openai_client import openai_client
 from datetime import datetime
 from pydantic import BaseModel
 

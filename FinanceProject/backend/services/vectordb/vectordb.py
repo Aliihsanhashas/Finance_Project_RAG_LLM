@@ -1,5 +1,5 @@
 from database.vectordb_client import chroma_client 
-from app.services.openai.openai_client import openai_client
+from backend.services.openai.openai_client import openai_client
 
 from typing import List
 from datetime import datetime

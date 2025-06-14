@@ -1,8 +1,8 @@
 from fastapi import Depends, FastAPI
 # from fastapi.middleware.cors import CORSMiddleware
-# from app.middlewares.loggerMiddleware import LoggerMiddleware
+# from backend.middlewares.loggerMiddleware import LoggerMiddleware
 
-from app.routes.api import router
+from backend.routes.api import router
 
 # from settings import settings
 

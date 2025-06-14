@@ -1,6 +1,6 @@
-from app.services.news.news import haber_agent
-from app.services.stock.stock import stock_agent
-from app.services.openai.openai_client import openai_client
+from backend.services.news.news import haber_agent
+from backend.services.stock.stock import stock_agent
+from backend.services.openai.openai_client import openai_client
 
 
 

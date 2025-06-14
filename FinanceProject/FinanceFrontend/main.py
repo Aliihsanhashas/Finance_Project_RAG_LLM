@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 def generate_report(symbol, question):
-    url = "http://localhost:8000/rapor/generate-report"
+    url = "http://backend:8000/rapor/generate-report"
     params = {"symbol": symbol, "query":question}
     headers = {"accept": "application/json"}
     response = requests.post(url, params=params, headers=headers).json()

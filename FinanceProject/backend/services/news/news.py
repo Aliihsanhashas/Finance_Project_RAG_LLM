@@ -1,6 +1,6 @@
 import requests
 
-from app.services.openai.openai_client import openai_client
+from backend.services.openai.openai_client import openai_client
 
 
 BASE_URL = "https://newsapi.org/v2/everything"

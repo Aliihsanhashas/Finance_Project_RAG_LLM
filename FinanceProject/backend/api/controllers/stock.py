@@ -1,7 +1,7 @@
 ###  günlük aylık ya da yıllık, verilen hisse adına göre veri veren endpoint
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
-from app.services.stock.stock import stock_agent
+from backend.services.stock.stock import stock_agent
 
 stock_router = APIRouter(
     prefix="/stocks", 

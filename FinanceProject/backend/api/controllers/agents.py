@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 
-from app.services.generate_report import generate_report
+from backend.services.generate_report import generate_report
 
 agent_router = APIRouter(
     tags=["Rapor"],
