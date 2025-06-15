@@ -73,20 +73,20 @@ def update_news_display(symbol, question):
     return ai_resp, stock_df, gr.update(choices=titles, value=titles[0] if titles else None), news_map.get(titles[0], ""), news_map, stock_df
 
 with gr.Blocks() as demo:
-    gr.Markdown("# 📊 Financial RAG Assistant")
+    gr.Markdown("# 📊 AI Finansal Danışman")
 
     with gr.Row():
-        symbol_input = gr.Textbox(label="Ticker Symbol (e.g., THYAO)", value="THYAO")
-        question_input = gr.Textbox(label="Ask a question", placeholder="How is THYAO doing?")
-        submit_btn = gr.Button("Research")
+        symbol_input = gr.Textbox(label="Hisse Sembolü (e.g., THYAO)", value="THYAO")
+        question_input = gr.Textbox(label="Soru Sorun", placeholder="THYOA gidişatı nasıl?")
+        submit_btn = gr.Button("ARAŞTIR")
 
     with gr.Row():
         with gr.Column(scale=1):
             with gr.Tabs():
-                with gr.TabItem("📊 Stock Plot"):
-                    stock_plot = gr.Plot(label="Stock Price Plot")
-                with gr.TabItem("📰 News"):
-                    news_dropdown = gr.Dropdown(label="Select a News Headline", choices=[], value=None)
+                with gr.TabItem("📊 Hisse Grafiği"):
+                    stock_plot = gr.Plot(label="Hisse Senedi Grafiği")
+                with gr.TabItem("📰 HABERLER"):
+                    news_dropdown = gr.Dropdown(label="Haber başlığı seçin", choices=[], value=None)
                     selected_news_output = gr.Markdown()
 
         with gr.Column(scale=1):
