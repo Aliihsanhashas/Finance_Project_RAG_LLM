@@ -1,0 +1,606 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">MAVİ GİYİM SANAYİ VE TİCARET A.Ş.</h1>
+  <h4 class="type-normal vcell exportTitle"> Merkez Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Sultan Selim Mahallesi, Eski Büyükdere Cad. No: 53 İç Kapı No:2, 34418 Kağıthane, İstanbul</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İletişim Adresi, Telefon ve Faks Bilgileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Faks </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Sultan Selim Mahallesi, Eski Büyükdere Cad. No: 53 İç Kapı No:2, 34418 Kağıthane, İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 2123712000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 2122844963 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Üretim Tesislerinin Bulunduğu Adresler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Elektronik Posta Adresi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> yatirimciliskileri@mavi.com </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> investorrelations@mavi.com </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İnternet Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>www.mavi.com www.maviyatirimciliskileri.com www.mavicompany.com</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ad-Soyad </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevlendirme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> E-posta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belge No </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Duygu İnceöz </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 26/07/2017 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0212 3712000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> duygu.inceoz@mavi.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> SPK İleri Düzey </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 206081 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Faaliyet Konusu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605" style="border: none;"> 
+    <tbody> 
+     <tr style="mso-yfti-iro0;mso-yfti-firstroyes;height:4.9pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:4.9pt"> <p class="Default"><b><span style="fontsize:11.0pt">AMAÇ VE KONU </span></b><span style="fontsize:11.0pt"></span></p><p></p><p></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro1;height:4.9pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:4.9pt"> <p class="Default"><b><span style="fontsize:11.0pt">A ? FAALİYET KONUSU</span></b></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro2;height:26.95pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:26.95pt"> <p class="Default"><span style="fontsize:11.0pt">Şirket, 6102 sayılı Türk Ticaret Kanunu ve 6362 sayılı Sermaye Piyasası Kanunu ve ilgili mevzuata uymak kaydıyla, </span></p><p></p><p></p> <p class="Default"><span style="fontsize: 11pt; lineheight: 1.42857; backround-colr: transparent;">a) Her cins tabii ve sun'i kumaştan üretilmiş hazır giyim eşyalarının ve tekstil ürünlerinin tasarımı, imalatı, ithalatı, ihracatı ve pazarlaması ile uğraşmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro3;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="fontsize: 11pt; lineheight: 1.42857; backround-colr: transparent;">b) Yurt içinde ve yurt dışında özel markalar altında üretilen hazır giyim eşyaları, iç ve dış giysilerinin, çocuk eşyalarının, gençlik için üretilen özel giyim eşyalarının, özellikle "Mavi, Mavi Jeans" markası ve/veya başka markalar ile üretilen her nev'i giysinin alım satımı iç ve dış pazarlaması ile uğraşmak, bununla ilgili mağazalar açmak ve işletmek, bu ürünlerin toptan ve perakende, yurt içinde veya yurt dışında pazarlamasını temin amacıyla satış organizasyonları kurmak ve işletmek.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro4;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr: windowtext; lineheight: 1.42857; backround-colr: transparent;">c) Örme ve tekstil sanayi ürünlerinin imalatı için gerekli aksesuar, fermuar, düğme, dar dokuma, şerit, lastik, kordon ve benzeri malzemeler ile bunların imalat makinalarının, aksam ve edevatının, paketleme makinaları, üretim bantları, konveyürler ile kimyevi maddeler, boyalar, apreleme, ütüleme, kasarlama malzemelerinin, madeni yağların imalatı, ithalatı, ihracatı ve pazarlaması ile uğraşmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro5;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">d) Konu ile ilgili model çıkartmaya yarayan özel plakalar, mumlar, parafinler, sabunlar, organik kimyevi müstabzarlar, petrol türevlerinin imalat, ithalat, ihracat ve pazarlaması ile uğraşmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro6;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">e) Tekstil ve örme sanayinde kullanılan model ve kalıp çıkarmaya yarayan uygulamalı bilgisayarlar, büro makinaları, kırtasiye ve hırdavat malzemeleri, triko ve konfeksiyon imalatına yarayan özel örme, dokuma, nakış, dikiş ve trikotaj makinaları, bilgi işlemli makinelerin ithalat, ihracat ve ticareti ile uğraşmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro7;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">f) Hazır giyim mağazalarında satılabilecek deri ve tekstil aksesuar malzemeleri, giyim kuşam aksesuar ve süs malzemeleri, kravat, eşarp, mendil, çorap ve benzeri tuhafiye sanayi ürünleri parfümeri ve bijuteri malzemelerinin, kırtasiye eşyalarının ve büro araç gereçlerinin tasarımı, imalatı, ithalatı, ihracatı, iç ve dış pazarlaması ile uğraşmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro8;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">g) Gıda sanayi ürünlerinin paketlenmesi, iç ve dış ticaretiyle uğraşmak, lokanta, kafeterya, self servis hizmetleri verecek mahaller kurmak ve işletmek, yurt dışında tescilli gıda sanayi ile ilgili markaların Türkiye temsilciliklerini almak ve işletmek.</span><span style="colr: windowtext; lineheight: 1.42857; backround-colr: transparent;"> </span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro9;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">h) Turizm sanayi ile ilgili ürünler, hediyelik eşyalar, halı, kilim, bakır ve benzeri turistik ticaret emtiaları, cam ve camdan mamul eşyalar, otel ve motellerin komple döşeme ve dekorasyon malzemeleri, deriden mamul ürünler, ayakkabılar, kemerler ve çantalarla, deri giysilerin tasarımı, imalat, ithalat, ihracat ve pazarlaması ile uğraşmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro10;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">i) Şirket yukarıda sayılan mal ve ürünlerin doğrudan doğruya imalatı ile uğraşabilir, bu mal ve ürünleri kısmen veya tamamen başka kuruluşlara fason işçilik vermek suretiyle imal ettirebilir imalat, montaj, paketleme ile ilgili tesisleri kurar ve işletir, bu mal ve ürünlerin tasarımı, ithalatı, ihracatı, iç ve dış pazarlaması ile iştigal eder, yurt içi ve yurt dışı fuarlara iştirak eder.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro11;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">j) Kamunun aydınlatılmasını teminen sermaye piyasası mevzuatı çerçevesinde gerekli özel durum açıklamalarını ve mevzuatın gerektirdiği gerekli işlemleri yapmak ve sermaye piyasası mevzuatının örtülü kazanç aktarıma ilişkin düzenlemeleri saklı kalmak kaydıyla; konu ile ilgili mevcut veya ileride kurulacak yerli veya yabancı hakiki ve hükmi şahıslarla işbirlikleri yapmak, ortaklıklar kurmak, kurulmuş ortaklıklara katılmak, aracılık yapmamak kaydı ile bu şirketlerin paylarını devralmak ve devretmek, ihalelere, açık arttırmalara katılmak, taahhütlere girmek, teminatlar yatırmak, konu ile ilgili dış ticaret şirketleri ile işbirliği yapmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro12;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">k) Sermaye piyasası mevzuatı ile düzenlenen yatırım hizmetleri ve faaliyetleri niteliğinde olmamak kaydıyla özel ve kamu hukuku tüzel kişiler tarafından ihraç olunmuş veya olunacak pay senedi, borçlanma aracı, intifa senedi gibi bilcümle menkul kıymetleri ve her çeşit ortaklık hak ve paylarını satın almak, satmak, devretmek, mevzuattaki sınırlamalar dâhilinde ve usullere uymak koşuluyla bunları teminat göstermek, üzerlerinde intifa hakkı tesis edebilmek veya bunların intifaından yararlanmak veya bunlarla ilgili sair hukuki tasarruflarda bulunmak.</span></p> <p class="Default"><span style="colr:windowtext">l) Şirket'in kendi paylarını geri alması söz konusu olduğunda Sermaye Piyasası Mevzuatı ve ilgili mevzuata uygun olarak hareket etmek ve gerekli özel durum açıklamalarını yapmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro13;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">m) Türkiye'de çeşitli amaçlarla kurulmuş vakıflara katılmak, vakıf kurmak, bu vakıflara malvarlığı tahsis etmek, bu gibi kişi ve/veya kurumlara kardan pay ayırmak, kar dağıtımı yapmak.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro14;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">n) Şirket uğraşma konusu içindeki faaliyetlerin gerçekleştirmek için yurt içinde ve yurt dışında dergi, mecmua, resimli, resimsiz kitap gibi yazılı ve görsel araçların basımını, çoğaltılmasını, dağıtımını ve pazarlamasını organize edebilir. Baskı işleri ile uğraşan kuruluşlarla işbirliği yapar, koleksiyonunun görsel şekilde alıcılara sunulabilmesi için gereken film, video, internet CD, DVD, görüntülerinin hazırlanması işlemleri gerçekleştirir, bu araçların çoğaltılması, dağıtılması ve pazarlamasını organize edebilir. Bu husustaki stüdyolarla işbirliği yapabilir, bu basılı ve görsel araçların sunumu ile ilgili gereken yasal izinleri alabilir ve barkodlandırılmasını isteyebilir.</span></p> </td> 
+     </tr> 
+     <tr style="mso-yfti-iro15;mso-yfti-lastroyes;height:36.6pt"> 
+      <td width="605" valign="top" style="width:453.45pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;   height:36.6pt"> <p class="Default"><span style="colr:windowtext">o) Şirket uğraşma konusu içindeki faaliyetlerini gerçekleştirmek üzere aşağıda tanımı yapılan elektronik büro malzemeleri ile iletişim malzemelerinin ithalatı ile de iştigal eder: Bilgisayar, bilgisayar parçası, yazılım, donanım, yan ürün, ekipman, sarf malzemesi. Elektronik cihaz, elektronik cihaz parçaları ve sarf malzemeleri. Güvenlik için kullanılan ekipmanlar ve bu ekipmanların yedek parçaları ve sarf malzemeleri. Data hattı, networklar için kullanılan ekipman, elektronik parça ve sarf malzemeleri iletişim cihazları ile bu cihazların yedek parça aksam ve edevatı ile sarf malzemeleri. </span></p><p></p><p></p> <p class="Default"><span style="backround-colr: transparent;">B ? FAALİYET KONUSUNUN GERÇEKLEŞTİRİLMESİ</span></p><p class="Default">a) Şirket yukarıda yazılı amaç ve konusunu elde edebilmek için bütün hakları iktisap ve borçları iltizam edebilir, lüzum göreceği menkul ve gayrimenkul malları alabilir ve satabilir, bunlar üzerinde her türlü ayni ve şahsi haklar ve mükellefiyetler tesis edebilir.</p><p class="Default">b) Dış ve iç kaynaklı, kısa, orta ve uzun vadeli kredi sözleşmeleri akdedebilir, ödünç alabilir, kısa, orta ve uzun vadeli karz akitleri akdedebilir ve kambiyo senedi tanzim, kabul ve ciro edebilir.</p><p class="Default">c) Şirket alacakları için rehin ve ipotek kabul edebilir. Bu ipotek ve rehinin kaldırılmasını isteyebilir. Her nevi teminat ipoteği alabilir ve verebilir.</p><p class="Default">d) Şu kadar ki, Şirket'in kendi adına ve üçüncü kişiler lehine, garanti, kefalet, teminat vermesi veya ipotek dâhil rehin hakkı tesis etmesi hususlarında sermaye piyasası mevzuatı çerçevesinde belirlenen esaslara uyulur ve üçüncü kişiler lehine yapılacak işlemlerde, yatırımcıların aydınlatılmasını teminen; özel haller kapsamında Sermaye Piyasası Kurulu'nca gerekli görülen açıklamalar yapılır.</p><p class="Default">e) Konu ile sınırlı marka, patent, ihtira beratı, know ?how, royalty alabilir.</p><p class="Default">f) Konu ile ilgili acentelik, komisyonculuk, bayilik ve mümessillik anlaşmaları yapabilir.</p><p class="Default">g) Türk Ticaret Kanunu ve sermaye piyasası mevzuatına uygun olarak yönetim kurulu kararı ile her türlü menkul kıymet ve diğer sermaye piyasası araçlarını yurt içinde ve yurt dışında ihraç edebilir, bu kapsamda gerekli her türlü işlemi gerçekleştirebilir, şirketin faaliyet konusuna giren işlerin finansmanını temin etmek amacıyla sermaye piyasası mevzuatı çerçevesinde kira sertifikası çıkartılmasını sağlamak adına varlık kiralama şirketi ile bu konuda sözleşmeler imzalayabilir, Şirketin sahip olduğu menkul ve gayrimenkul malları varlık kiralama şirketine devredebilir veya kiralayabilir, devrettiği malların kiralanması ve geri alımı sözleşmesini imzalayabilir.</p><p class="Default">Sermaye Piyasası Kanununun örtülü kazanç aktarımı düzenlemelerine ve sair ilgili mevzuat hükümlerine aykırılık teşkil etmemesi, gerekli özel durum açıklamalarının yapılması ve yıl içinde yapılan bağışların Genel Kurulda ortakların bilgisine sunulması şartıyla, kendi amaç ve konusunu aksatmayacak şekilde her türlü bağış ve yardım yapabilir. Yapılacak bağışların yıllık üst sınırı Genel Kurul tarafından belirlenir, aynı yıl içinde bu sınırı aşan tutarda bağış yapılamaz.</p><p class="Default">Şirketin amaç ve konusunda değişiklik yapılması halinde Gümrük ve Ticaret Bakanlığı ile Sermaye Piyasası Kurulu'ndan gerekli izinlerin alınması gerekmektedir.</p><p class="Default">h) Şirket faaliyet konusuyla ilgili olarak tasarımcıları, teknisyenleri, makinecileri, makine ustalarını ve faaliyet gösterdiği sektörün altyapısını oluşturan diğer kadroları yetiştirmek üzere eğitim tesisleri kurabilir.</p><p class="Default">i) Şirket faaliyet konusuyla ilgili olarak ve ilgili mevzuatın gereklerini yerine getirmek suretiyle kalite kontrol laboratuvarları kurabilir, yönetebilir ve işletebilir, teknolojik, teknik ve ekonomik yapılabilirlik etüdü geliştiren kavramdan tasarıma geçiş sürecinde yer alan laboratuvar çalışmaları vb. çalışmalar, tasarım ve çizim çalışmaları, prototip üretimi, pilot tesisin kurulması, deneme üretimi, patent ve lisans çalışmaları ile satış sonrası sorun giderme hizmetlerini kapsayan araştırma ve geliştirme faaliyetlerini gerçekleştirebilir.</p><p class="Default">j) Şirket faaliyet konusu ile ilgili her türlü mali, hukuki, ticari ve sınai işlemleri icra edebilir, teknik yardım, müşavirlik, mühendislik, mimari hizmetleri sağlayabilir; proje, lisans, patent, faydalı model, marka, endüstriyel tasarım, ticaret unvanı, model, resim, iş yapışı ya da teknik bilgi, peştemaliye, şerefiye, franchising gibi gayri maddi ve fikri hakları iktisap edebilir, üzerinde her türlü tasarrufta bulunabilir, bu hakları tescil ve iptal ettirebilir, ilgili anlaşmaları ve diğer sınai mülkiyet hakkı veren anlaşmaları yerli ve yabancı firmalarla yapabilir, devir ve ferağ edebilir, alabilir.</p> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Süresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Ana Sözleşme Madde 5: ŞİRKETİN SÜRESİ Şirket süresiz olarak kurulmuştur.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağımsız Denetim Kuruluşu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Sektörü </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>TOPTAN VE PERAKENDE TİCARET / PERAKENDE TİCARET</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Aracının İşlem Gördüğü Pazar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>YILDIZ PAZAR / KESİN ALIM SATIM PAZARI-(NİTELİKLİ YATIRIMCILAR ARASINDA)</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Dahil Olduğu Endeksler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BIST KATILIM TEMETTU / BIST KATILIM TUM / BIST TEMETTÜ / BIST SÜRDÜRÜLEBİLİRLİK 25 / BIST HİZMETLER / BIST SÜRDÜRÜLEBİLİRLİK KATILIM / BIST TEMETTÜ 25 / BIST TİCARET / BIST 100 / BIST KATILIM 50 / BIST 500 / BIST TÜM / BIST SÜRDÜRÜLEBİLİRLİK / BIST YILDIZ / BIST KATILIM 100 / BIST KATILIM 30 / BIST 50 / BIST 100-30</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote <br>Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ortaklık Hakkı Vermeyen Sermaye Piyasası Araçlarına İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sermaye Piyasası Aracının Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavan Tutarı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi/Yurtdışı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Başlangıç Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Bitiş Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Satış Yöntemi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"> Varsa Fon Kullanıcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Borçlanma Aracı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"> 5000000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 27/10/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 27/10/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Nitelikli Yatırımcıya Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Memurluğu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Tescil Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>13/01/1994</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Numarası </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>309315</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi No </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>6130027985</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi Dairesi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL - Büyük Mükellefler Vergi Dairesi Müdürlüğü</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetim Kurulu Üyeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> Tüzel Kişi Üye Adına Hareket Eden Kişi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Cinsiyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetim Kuruluna İlk Seçilme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son Durum itibariyle Ortaklık Dışında Aldığı Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Sermayedeki Payı (%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Temsil Ettiği Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlık Beyanının Yer Aldığı KAP Duyurusunun Bağlantısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üyenin Aday Gösterme Komitesi Tarafından Değerlendirilip Değerlendirilmediği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlığını Kaybeden Üye Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yer Aldığı Komiteler ve Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> RAGIP ERSİN AKARLILAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İş Adamı / İş Kadını </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 12/01/1994 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Mavi Amerika-Başkan, Mavi Almanya-Denetleme Kurulu Üyesi, Mavi Kanada- Şirket Sekreteri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 0 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Riskin Erken Saptanması Komitesi, Kurumsal Yönetim Komitesi / Early Identification of Risks Committee, Corporate Governance Committee </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FATMA ELİF AKARLILAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 12/01/1994 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Global Marka Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 9.06 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AHMET CÜNEYT YAVUZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 22/03/2017 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> CEO, Mavi Hollanda- Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Arzum Elektirkli Ev Aletleri Bağımsız YK Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 0 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> NEDİM NAHMİAS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 17/07/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yemeksepeti (Delivery Hero) - COO (Chief Operating Officer) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 0 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1173559 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Denetim Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BETÜL EBRU EDİN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/04/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Fibabanka A.Ş., Zorlu Enerji, MLP Sağlık Yönetim Kurulu Üyesi, Yüzde 30 Kulübü Yönetim Kurulu Üyesi, </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1263982 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Denetim Komitesi Başkanı, Riskin Erken Saptanması Komitesi Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> RİNA AZADUHİ ONUR ŞİRİNOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/04/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Spyke Games Kurucu Ortak ve CEO,500 Istanbul Girişim Sermayesi Fonu Kurucusu ve Yönetici Ortağı, </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1263982 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetimde Söz Sahibi Olan Personel </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AHMET CÜNEYT YAVUZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> CEO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> CEO, Mavi Hollanda, Mavi Almanya - Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BİGE İŞCAN AKSARAY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> CFO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> OKAN GÜRSAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Commercial Officer (Turkiye &amp; Export Markets) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FATMA ELİF AKARLILAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Brand Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUSTAFA BARIŞ AKYÜREK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Ecommerce Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ONUR KARNABAT </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Category Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEHMET SİNAN SEFAİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Supply Chain and Logistics Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BURAK ÖVÜNÇ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Commercial Officer Mavi NA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BÜLENT ALİ DURSUN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Information Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SERPİL BERKAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Marketing Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> EKREM GÜNEY OKTAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Chief Design Officer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ödenmiş/Çıkarılmış Sermaye </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">397256000.00</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Kayıtlı Sermaye Tavanı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">4000000000</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayede Doğrudan %5 veya Daha Fazla Paya veya Oy Hakkına Sahip Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Oy Hakkı Oranı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SEYHAN AKARLILAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 36.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 9,06 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 9,06 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FATMA ELİF AKARLILAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 36.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 9,06 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 9,06 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HAYRİYE FETHİYE AKARLILAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 36.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 9,06 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 9,06 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DİĞER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 289.256.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 72,82 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 72,82 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TOPLAM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 397.256.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Akarlılar Ailesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 25%;"> 866344 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 25%;"> 0,22 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Fiili Dolaşımdaki Paylar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayeyi Temsil Eden Paylara İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama / Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Beher Payın Nominal Değeri (TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Payların Nominal Değeri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Sermayeye Oranı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> İmtiyaz Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Borsada İşlem Görüp Görmediği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 866344 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 0,22 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> VAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görmüyor </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 396389656 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 99,78 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> YOK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görüyor </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağlı Ortaklıklar, Finansal Duran Varlıklar ile Finansal Yatırımlar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Faaliyet Konusu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödenmiş/Çıkarılmış Sermayesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket ile Olan İlişkinin Niteliği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mavi Limited Liability Company (Mavi Rusya) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hazır Giyim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 350000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 350000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RUB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mavi Europe AG </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hazır Giyim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1534000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1534000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Eflatun Giyim Yatırım Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hazır Giyim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 11105025 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5663600 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 51 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mavi Jeans Inc.(Mavi Kanada) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hazır Giyim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1800200 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1138626 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CAD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 63,25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mavi Jeans, Inc.(Mavi Amerika) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hazır Giyim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1275000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 47,69 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> DİĞER HUSUSLAR </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+ </body>
+</html>

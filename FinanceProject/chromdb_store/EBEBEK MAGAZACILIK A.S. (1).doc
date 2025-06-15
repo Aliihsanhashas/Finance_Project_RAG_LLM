@@ -1,0 +1,284 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">EBEBEK MAĞAZACILIK A.Ş.</h1>
+  <div class="exportDiv" style="width: 100%;
+            overflow: auto;
+            margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow" style="width: 100%;
+            font-weight: bold;"> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 28%;" title="FİNANSAL DURUM TABLOSU"> FİNANSAL DURUM TABLOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title=""> </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title=""> </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title="2023/12"> 2023/12 </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title="2024/12"> 2024/12 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow" style="width: 100%;
+        font-weight: bold;"> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 28%;text-align: left;" title="Sunum Para Birimi"> Sunum Para Birimi </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="TL"> TL </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="TL"> TL </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow" style="width: 100%;
+        font-weight: bold;"> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 28%;text-align: left;" title="Finansal Tablo Niteliği"> Finansal Tablo Niteliği </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="Konsolide"> Konsolide </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="Konsolide"> Konsolide </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Dönen Varlıklar"> Dönen Varlıklar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="4.428.442.442"> 4.428.442.442 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="6.502.991.775"> 6.502.991.775 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Duran Varlıklar"> Duran Varlıklar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="1.832.074.034"> 1.832.074.034 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.551.157.409"> 3.551.157.409 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Varlıklar"> Toplam Varlıklar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="6.260.516.476"> 6.260.516.476 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="10.054.149.184"> 10.054.149.184 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Kısa Vadeli Yükümlülükler"> Kısa Vadeli Yükümlülükler </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.094.857.984"> 3.094.857.984 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="5.410.057.044"> 5.410.057.044 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Uzun Vadeli Yükümlülükler"> Uzun Vadeli Yükümlülükler </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="633.299.887"> 633.299.887 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="1.019.889.102"> 1.019.889.102 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Yükümlülükler"> Toplam Yükümlülükler </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.728.157.871"> 3.728.157.871 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="6.429.946.146"> 6.429.946.146 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Ana Ortaklığa Ait Özkaynaklar"> Ana Ortaklığa Ait Özkaynaklar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="2.531.105.858"> 2.531.105.858 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.653.775.952"> 3.653.775.952 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Ödenmiş Sermaye"> Ödenmiş Sermaye </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="160.000.000"> 160.000.000 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="160.000.000"> 160.000.000 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Kontrol Gücü Olmayan Paylar"> Kontrol Gücü Olmayan Paylar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="1.252.747"> 1.252.747 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-29.572.914"> -29.572.914 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Özkaynaklar"> Toplam Özkaynaklar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="2.532.358.605"> 2.532.358.605 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.624.203.038"> 3.624.203.038 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Kaynaklar"> Toplam Kaynaklar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="6.260.516.476"> 6.260.516.476 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="10.054.149.184"> 10.054.149.184 </td> 
+    </tr> 
+    <br> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow" style="width: 100%;
+            font-weight: bold;"> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 28%;" title="KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU"> KAR VEYA ZARAR VE DİĞER KAPSAMLI GELİR TABLOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title=""> </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title=""> </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title="2023/12"> 2023/12 </td> 
+     <td class="comp-cell-row-div vtable infoColumn compareItemsHeader" style="width: 18%;text-align: center;" title="2024/12"> 2024/12 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow" style="width: 100%;
+        font-weight: bold;"> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 28%;text-align: left;" title="Sunum Para Birimi"> Sunum Para Birimi </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="TL"> TL </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="TL"> TL </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow" style="width: 100%;
+        font-weight: bold;"> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 28%;text-align: left;" title="Finansal Tablo Niteliği"> Finansal Tablo Niteliği </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="Konsolide"> Konsolide </td> 
+     <td class="comp-cell-row-div vtable itemsColumn compareItemsHeader" style="width: 18%;text-align: center;padding-left: 10px!important;padding-right: 10px!important;" title="Konsolide"> Konsolide </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Hasılat"> Hasılat </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="11.359.056.626"> 11.359.056.626 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="18.322.394.564"> 18.322.394.564 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Satışların Maliyeti"> Satışların Maliyeti </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-8.159.265.254"> -8.159.265.254 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-11.809.750.739"> -11.809.750.739 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Ticari Faaliyetlerden Brüt Kar (Zarar)"> Ticari Faaliyetlerden Brüt Kar (Zarar) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.199.791.372"> 3.199.791.372 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="6.512.643.825"> 6.512.643.825 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Finans Sektörü Faaliyetleri Hasılatı"> Finans Sektörü Faaliyetleri Hasılatı </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Finans Sektörü Faaliyetleri Maliyeti"> Finans Sektörü Faaliyetleri Maliyeti </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Finans Sektörü Faaliyetlerinden Brüt Kâr (Zarar)"> Finans Sektörü Faaliyetlerinden Brüt Kâr (Zarar) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Brüt Kâr (Zarar)"> Brüt Kâr (Zarar) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="3.199.791.372"> 3.199.791.372 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="6.512.643.825"> 6.512.643.825 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Esas Faaliyet Kârı (Zararı)"> Esas Faaliyet Kârı (Zararı) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-416.170.064"> -416.170.064 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-21.971.592"> -21.971.592 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Finansman Geliri (Gideri) Öncesi Faaliyet Kârı (Zararı)"> Finansman Geliri (Gideri) Öncesi Faaliyet Kârı (Zararı) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-345.399.720"> -345.399.720 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="41.565.441"> 41.565.441 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Sürdürülen Faaliyetler Vergi Öncesi Kârı (Zararı)"> Sürdürülen Faaliyetler Vergi Öncesi Kârı (Zararı) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="453.677.308"> 453.677.308 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="336.571.114"> 336.571.114 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Sürdürülen Faaliyetler Dönem Kârı (Zararı) "> Sürdürülen Faaliyetler Dönem Kârı (Zararı) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="302.394.605"> 302.394.605 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="84.602.819"> 84.602.819 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Durdurulan Faaliyetler Dönem Kârı  (Zararı)"> Durdurulan Faaliyetler Dönem Kârı (Zararı) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Net Dönem Kârı (Zararı)"> Net Dönem Kârı (Zararı) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="302.394.605"> 302.394.605 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="84.602.819"> 84.602.819 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Dönem Kârının (Zararının) Dağılımı, Kontrol Gücü Olmayan Paylar"> Dönem Kârının (Zararının) Dağılımı, Kontrol Gücü Olmayan Paylar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="295.239"> 295.239 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-31.381.615"> -31.381.615 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Dönem Kârının (Zararının) Dağılımı, Ana Ortaklık Payları"> Dönem Kârının (Zararının) Dağılımı, Ana Ortaklık Payları </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="302.099.366"> 302.099.366 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="115.984.434"> 115.984.434 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Diğer Kapsamlı Gelir (Gider)"> Diğer Kapsamlı Gelir (Gider) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="55.821.966"> 55.821.966 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-35.269.942"> -35.269.942 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Kapsamlı Gelir (Gider) "> Toplam Kapsamlı Gelir (Gider) </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="358.216.571"> 358.216.571 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="49.332.877"> 49.332.877 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Kapsamlı Gelirin Dağılımı, Kontrol Gücü Olmayan Paylar"> Toplam Kapsamlı Gelirin Dağılımı, Kontrol Gücü Olmayan Paylar </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="295.239"> 295.239 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="-31.381.615"> -31.381.615 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block compareItems-row infoRow"> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 28%;text-align: left;padding-left: 30px;" title="Toplam Kapsamlı Gelirin Dağılımı, Ana Ortaklık Payları"> Toplam Kapsamlı Gelirin Dağılımı, Ana Ortaklık Payları </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title=""> </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="357.921.332"> 357.921.332 </td> 
+     <td class="comp-cell-row-div vtable itemsColumn" style="width: 18%;text-align: right;padding-right: 10px;" title="80.714.492"> 80.714.492 </td> 
+    </tr> 
+    <br> 
+   </table> 
+  </div>
+ </body>
+</html>

@@ -1,0 +1,1135 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">GEDİK YATIRIM MENKUL DEĞERLER A.Ş.</h1>
+  <h4 class="type-normal vcell exportTitle"> İşletme Adı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>GEDİK YATIRIM MENKUL DEĞERLER A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Merkez Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Altayçeşme Mahallesi Çamlı Sokak Pasco Plaza No: 21 İç Kapı No: 45 Kat: 10-11-12 Maltepe/ İstanbul</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İletişim Adresi, Telefon ve Faks Bilgileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Faks </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Altayçeşme Mahallesi Çamlı Sokak Pasco Plaza No:21 İç Kapı No: 45 Kat: 10-11-12 Maltepe/ İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> (216) 453 00 00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> (216) 377 11 36 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Üretim Tesislerinin Bulunduğu Adresler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Elektronik Posta Adresi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> gedik@gedik.com </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İnternet Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>www.gedik.com</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ad-Soyad </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevlendirme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> E-posta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belge No </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Melek Melis Taşkanal Işık </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri Yöneticisi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 16/03/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 453 00 32 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> gedikyatirimciiliskileri@gedik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 3 Lisansı - Kurumsal Yönetim Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 923799 - 906816 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Diğdem Erdoğan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri Yöneticisi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 01/02/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 453 00 32 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> gedikyatirimciiliskileri@gedik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Hakan Duran </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri Uzman Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 18/12/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 453 00 32 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> gedikyatirimciiliskileri@gedik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 1 Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 932685 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Özlem Göç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri Bölümü Görevlisi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 25/07/2018 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 453 00 32 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> gedikyatirimciiliskileri@gedik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 2 Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 111989 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Merkez Dışı Örgütleri (Şube, İrtibat Bürosu) </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Müdür veya Sorumlunun Adı ve Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Faks </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Faaliyete Başlanmasına İlişkin İzin Tarihi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ankara/Çankaya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yıldızevler Mahallesi 714. Sokak Dış Kapı No:5 İç Kapı No: 38 Vizyon Plaza Çankaya/Ankara </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Zeynep Sefa Karayazıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (312) 438 27 00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (312) 438 27 47 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ankara / Kızılay </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Mustafa Kemal Mah. 2157 Sk. Dış Kapı No : 2 İç Kapı No : 11 Çankaya/ ANKARA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Gürbüz Kaya Üstün </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (312) 232 09 49 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (312) 231 46 27 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Antalya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Elmalı Mah. Cumhuriyet Cad. Dış Kapı No : 40 Gültekin İşhanı Kat: 3 İç Kapı No : 301 Muratpaşa / ANTALYA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Osman Yıldıran </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (242) 248 35 20 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (242) 244 29 10 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bakırköy </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Cevizlik Mah. Muhasebeci Sok. Neşe Han No:1 Kat:3 Bakırköy İSTANBUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Neslihan Ayrancıoğlu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (212) 660 85 25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (212) 570 03 03 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bursa </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İhsaniye Mah. İlknur Sok. Dış Kapı No : 1D İç Kapı No : 8 Nilüfer / BURSA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Burak Dalkılıç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (224) 220 51 50 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (224) 220 50 99 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Denizli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Saraylar Mah.İkinci Ticari Yol Cad. Kımıl İş Merkezi No: 24 Kat:4 D:8 DENİZLİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ömer Seyfettin Paksoy </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (258) 263 80 15 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (258) 241 91 01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Elazığ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Cumhuriyet Mah. Beyzade Efendi Bul. No: 1 İç Kapı No: 3 Merkez / Elazığ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Veysel Arpaca </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (424) 233 28 01/237 09 98 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (424) 233 27 35 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Eskişehir </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Akarbaşı Mah. Atatürk Bulvarı No : 77 A Odunpazarı / ESKİŞEHİR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ali Kavas </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (222) 230 09 08 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (222) 220 37 02 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Gebze </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hacı Halil Mah. Hükümet Cad. No: 95 Gebze KOCAELİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Halil Kaya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (262) 642 34 00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (262) 641 82 01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İzmir </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Akdeniz Mah. Akdeniz Cad. Dış Kapı No : 1 İç Kapı No : 303 Konak / İZMİR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Gediz Taylan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (232) 465 10 20 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (232) 464 66 22 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Konya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Beyazıt Mahallesi Hüsnü Aşk Sok. Bezirci İş Merkezi Kat:4 D:403 Selçuklu / KONYA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ebru Öçgüder </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (332) 238 59 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (332) 238 59 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Malatya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özalper Mah. Kemal Tahir Sk. Milano Plaza No : 1 İç Kapı No : 12 Yeşilyurt / MALATYA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Atilla Umaç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (422) 325 62 67 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (422) 322 23 72 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İstanbul Ulus </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kültür Mah. Ahmet Adnan Saygun Cad. Gündeş Sitesi Saray Apartmanı No: 21B İç Kapı No:2 Beşiktaş / İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Mustafa Kahraman </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Manisa </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Anafartalar Mah. Mustafa Kemal Paşa Cad. Kamil Menteş Apt. No:34/1 MANİSA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Nejat Arusan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (236) 239 42 98 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (236) 239 43 02 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mersin </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Çankaya Mah. Atatürk Cad. Adil Kanun İş Hanı Kat: 2 Akdeniz / Mersin </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Mehmet Zihni Kafkas </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (324) 238 18 18 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> ( 324) 231 22 52 / 238 18 24 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bağdat Caddesi Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Caddebostan Mah. Kantarcı Rıza Sk. Dış Kapı No : 1 İç Kapı No : 8 Kadıköy / İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Engin Çulha </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (216) 411 13 67 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 411 31 59 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Şişli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Esentepe Mah. Büyükdere Cad. Dış Kapı N0: 201 Loft Residance İç Kapı No: 50 Şişli /İSTANBUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ali Sunay Yetiş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (212) 385 4200 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (212) 283 9280 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Merkez </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Altayçeşme Mah. Çamlı Sk. Pasco Plaza No : 21 İç Kapı No : 45 Maltepe / İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yasemin Yılmaz </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (216) 453 00 00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 377 11 36 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Uşak </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İsmetpaşa Cad. No: 45 K:2 Mavi Plaza UŞAK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Vedat Özalp </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (276) 227 27 44 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (276) 227 27 37 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ümraniye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İnkılap Mah. Küçüksu Cad. Çeşminaz Sok. No: 2 Daire: 7 Ümraniye / İSTANBUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Uğur Uryan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (216) 461 33 90 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (216) 461 33 92 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adana </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Çınarlı Mah. Ziyapaşa Bulvarı No: 78 Günep Ziyapaşa İş Merkezi Kat :5 No :504 SEYHAN/ADANA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Nihan Atak </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0322) 355 03 50 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0322) 290 35 26 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Kuşadası </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Türkmen Mah. Atatürk Bulvarı Dış Kapı No : 68/2 İç Kapı No : 3 Kuşadası / AYDIN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Orçun Demirsar </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0256) 618 44 77 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0256) 618 44 91 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Trabzon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kemerkaya Mah. K.Maraş Cad. Ticaret Mektep Sk. Ustaömeroğlu İş Merkezi No: 9/9 Ortahisar/Trabzon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özer Gençosmanoğlu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0462) 326 09 97 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0462) 326 38 67 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Edirne </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İstasyon Mah. Hakim Çağlar Işık Cad. Dış Kapı No: 1 İç Kapı No: 30 Merkez / Edirne </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kenan Başarangil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0284) 212 25 30 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0284) 213 37 78 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Batı Ataşehir </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Barbaros Mah. Ihlamur Bulvarı Sarkaç Sok. Ağaoğlu My Prestige No:1 D: 12-13 Ataşehir/İSTANBUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Erdal Aydın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0216) 560 37 00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0216) 688 67 86 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bodrum Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Çırkan Mahallesi Atatürk Bulvarı No :16C Bodrum /MUĞLA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Cem Turkan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0252) 319 54 80-319 28 40 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bursa Nilüfer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Odunluk Mah. Liman Cad. No : 7 Nilüfer / BURSA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Eyüp Topyürek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0224) 453 22 30 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0224) 451 79 66 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Fethiye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Taşyaka Mah. Ölüdeniz (TSY) Cad. No : 21 İç Kapı No : 3 Fethiye / Muğla </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Süleyman Koca </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0252) 612 07 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0252) 612 36 46 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Samsun </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hançerli Mah. Dervişzade sok. Albayrak İş Merkezi No:12 Kat:6 İç Kapı No:5 İlkadım /Samsun </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Cemil Turgut </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> (0362) 431 63 43 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> (0362) 431 33 89 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Çorum </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Üçtutlar Mah. Alaybey Sk. No : 51 İç Kapı No : 7 Merkez/ÇORUM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Aytuğ Şahin </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0364 211 11 45 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0364 201 05 63 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Karadeniz Ereğli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Müftü Mahallesi Süheyla Erel Sokak. No:2/1 Ay City İş Merkezi 7. Kat Ofis No:85 Karadeniz Ereğli / ZONGULDAK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Derya Bekar </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0(372)3291000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0(372)3166630 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adapazarı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Tığcılar Mah. Yenicami Sok. Dış Kapı No:5 İç Kapı No: 201 Adapazarı- Sakarya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Nursel Tezcan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0(264) 279 8389 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0(264) 281 0388 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Alanya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şekerhane Mah. 1100 Sok. Dış Kapı No : 9 İç Kapı No : 206 Alanya - Antalya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Murat Aktaş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0(242) 5192317 / 5139381 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Kayseri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hunat Mah. Postalar Geçidi Sok. Dış Kapı No :1 İç Kapı No : 206 Melikgazi - Kayseri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Mustafa Varol </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0(352) 2213629 - 2214827 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ordu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Düz Mah. Yıldırım Cad. Dış Kapı No : 4 İç Kapı No : 503 Altınordu / ORDU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dilek Temur </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0452 2220749 / 0452 2220746 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0452 2220750 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Karabük </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bayır Mah. Menderes Cad. Çebioğlu Twin Towers B Blok Dış Kapı No :2 İç Kapı No : 107 Merkez / Karabük </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Zafer Şimşek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0370 5021590 / 0370 5021600 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0370 5021593 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Çanakkale </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kemalpaşa Mah. Şair Ece Ayhan Meydanı Dış Kapı No: 22 Kat: 2 İç Kapı No:2 Merkez / ÇANAKKALE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Gülcan Gökçe </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0286 9991702 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bandırma </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dere Mah. Ordu Cad. Dış Kapı No: 3 İç Kapı No: 2 Bandırma / BALIKESİR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Eylem Ongun </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 0266 9991075 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Çorlu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Zafer Mah. Cumhuriyet Bulvarı Dış Kapı No : 9T1 İç Kapı No : 114 Çorlu TEKİRDAĞ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Oğuz Barış Erpençe </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02828889620 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Balıkesir </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Eski Kuyumcular Mah. Anafartalar Cad. Acarlar İş Merkezi Dış Kapı No : 23 İç Kapı No : 1 Karesi -BALIKESİR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lale Sencer </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02669991240 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Aydın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hasanefendi-Ramazan Paşa Mah. İstiklal Cad. Dış Kapı No : 23 İç Kapı No : 1 Efeler/AYDIN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Zeliha Kaplan Hürriyet </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02569991764 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Etiler Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kültür Mah. Ahmet Adnan Saygun Cad. Gündeş Sitesi Saray Apartmanı No: 21B İç Kapı No:2 Beşiktaş / İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hasan Evrim Ekici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02129995011 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İzmit </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Körfez Mahallesi Ankara Karayolu Cad. Dış Kapı No : 123/ 2 İç Kapı No : 9 İzmit / Kocaeli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özer Sevimli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02629991814 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Yeşilköy Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yeşilköy Mah. İstasyon Cad. No : 30 Kat: 1 İç Kapı No : 1 Bakırköy / İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yıldız Pamukçu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02129999895/02129997792 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Gaziantep </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İncili Pınar Mah. Nail Bilen Cad. Ugur Plaza Sitesi Uğur Plaza Blok No : 5 İç Kapı No : 35 Şehitkamil / Gaziantep </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Nihal Erel </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 03429090152 / 03429090154 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Afyon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dumlupınar Mahallesi Süleyman Gönçer Cadde No: 8 ATSO İş Merkezi Kat: 3 İç Kapı No: 7 Merkez - AFYONKARAHİSAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Mehmet Çolak </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02729991409 / 02729991427 / 02729991435 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Tekirdağ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yavuz Mahallesi Hükümet Caddesi No: 167 İç Kapı No: 4 Süleymanpaşa/ Tekirdağ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hatice Tuğba Bahadır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02829991276 / 02828889278 / 02828889244 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Başkent Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Büyükesat Mahallesi Kemer Sokak No:6 İç Kapı No:4 Çankaya/Ankara </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Fatih Akşam </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 03126660791 / 03126660878 / 03126661026 / 03126661072 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ege Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bostanlı Mahallesi Nebil Susup Sokak No : 109A Karşıyaka / İZMİR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Keziban Ertokuş Sezen </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02325206141/ 02325700219/ 02325700226/ 02325700363 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Akdeniz Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yeşilbahçe Mah. Çınarlı Cad. No : 1 Kat:3 İç Kapı No : 5 Muratpaşa / Antalya </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Emrah Kılınç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02429661451/ 02429661452/ 02429661453/ 02429661454/ 02429661455 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Isparta Private </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yayla Mah. 111 Cad. No : 16-18 İç Kapı No : 4 Merkez / Isparta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ayşegül Yıldırım </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 02469991760/ 02469991761/ 02469991762/ 02469991763 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bolu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şube </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Büyükcami Mah. İzzet Baysal Cad. Teraslı Çarşı 1 No: 97 İç Kapı No: 12 Merkez / Bolu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Onur Can </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> 03749991641 / 03749991642 / 03749991643 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Faaliyet Konusu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p class="MsoNormal"><span style="font-size:9.0pt;line-height:107%;font-family:
+&quot;Arial&quot;,sans-serif;color:#333333;background:#FBFBFC">Gedik Yatırım, 1991 yılında kurulmuştur. Şirketin amacı, 6362 Sayılı Sermaye Piyasası Kanunu</span> ve ilgili mevzuat hükümlerine uygun olarak sermaye piyasası faaliyetlerinde bulunmaktır.<span style="font-size:9.0pt;line-height:107%"> 
+     <o:p></o:p></span></p> 
+   <p><br></p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Süresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Süresiz</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağımsız Denetim Kuruluşu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>PKF ADAY BAĞIMSIZ DENETİM A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Sektörü </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>MALİ KURULUŞLAR / ARACI KURUMLAR</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Faaliyet Durumu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Faaliyette</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yetki Belgeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Yetki Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Numarası </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Geniş Yetkili Aracı Kurum </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 27/08/2015 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 009 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Borsa Üyelik Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Faaliyet Gösterilen Pazarlar ve Piyasalar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Borsa İstanbul Pay Piyasası ve Borçlanma Araçları Piyasası</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Aracının İşlem Gördüğü Pazar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>KESİN ALIM SATIM PAZARI-(NİTELİKLİ YATIRIMCILAR ARASINDA) / ANA PAZAR</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Dahil Olduğu Endeksler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BIST TÜM-100 / BIST MALİ / BIST ANA / BIST GERİ ALIM / BIST 500 / BIST TÜM / BIST ARACI KURUM</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote <br>Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Kote Edilen/İşlem Gören Sermaye Piyasası Aracının Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kotasyon/İşlem Görmeye Başlama Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın Bulunduğu Ülke </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın İsmi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Piyasanın/Borsanın İlgili Pazarı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HİSSE SENEDİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 29/07/2010 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> YILDIZ PAZAR </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FİNANSMAN BONOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 23/09/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORÇLANMA ARAÇLARI PİYASASI KESİN ALIM SATIM PAZARI </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FİNANSMAN BONOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 30/09/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORÇLANMA ARAÇLARI PİYASASI KESİN ALIM SATIM PAZARI </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FİNANSMAN BONOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 07/10/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORÇLANMA ARAÇLARI PİYASASI KESİN ALIM SATIM PAZARI </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ortaklık Hakkı Vermeyen Sermaye Piyasası Araçlarına İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sermaye Piyasası Aracının Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavan Tutarı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi/Yurtdışı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Başlangıç Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Bitiş Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Satış Yöntemi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"> Varsa Fon Kullanıcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TAHVİL / FİNANSMAN BONOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"> 2000000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 05/10/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 04/10/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Nitelikli Yatırımcıya Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"> Yoktur </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TAHVİL / FİNANSMAN BONOSU </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"> 5000000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 14/11/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 13/11/2025 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Nitelikli Yatırımcıya Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"> Yoktur </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Memurluğu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Tescil Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>02/05/1991</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Numarası </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>274860-222442</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi No </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>3900021827</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi Dairesi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL - Anadolu Kurumlar Vergi Dairesi Müdürlüğü</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetim Kurulu Üyeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> Tüzel Kişi Üye Adına Hareket Eden Kişi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Cinsiyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetim Kuruluna İlk Seçilme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son Durum itibariyle Ortaklık Dışında Aldığı Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Sermayedeki Payı (%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Temsil Ettiği Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlık Beyanının Yer Aldığı KAP Duyurusunun Bağlantısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üyenin Aday Gösterme Komitesi Tarafından Değerlendirilip Değerlendirilmediği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlığını Kaybeden Üye Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yer Aldığı Komiteler ve Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Onur Topaç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 15/04/2015 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> CEO, Yönetim Kurulu Başkan Vekili ve Murahhas Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Inveo Yatırım Holding Grup Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 1.48 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ERSAN AKPINAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 07/01/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 0.046 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GÖKHAN TOSUN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/03/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Inveo Yatırım Holding Grup Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> RÜYA ESER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Ekonomist </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 27/10/2021 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Inveo Yatırım Holding A.Ş. Bağımsız Yönetim Kurulu Üyesi, Marbaş Menkul Değerler A.Ş. Bağımsız Yönetim Kurulu Üyesi, Kartonsan Karton Sanayi ve Ticaret A.Ş. Bağımsız Yönetim Kurulu Üyesi, MSGSU Üniversitesi yarı zamanlı öğretim görevlisi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1254129 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Riskin Erken Saptanması Komitesi Başkanı, Denetimden Sorumlu Komite Başkanı, Kurumsal Yönetim Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AHMET AKA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 26/03/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Inveo Yatırım Holding A.Ş. Bağımsız Yönetim Kurulu Üyesi, Marbaş Menkul Değerler A.Ş. Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 0.31 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1254129 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi Başkanı, Denetimden Sorumlu Komite Üyesi, Riskin Erken Saptanması Komitesi Üyesi </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetimde Söz Sahibi Olan Personel </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Onur Topaç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yönetim Kurulu Başkanı ve CEO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yönetim Kurulu Başkan Yardımcısı, CEO ve Murahhas Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> INVEO Yatırım Holding A.Ş. Yönetim Kurulu Başkan Yardımcısı ve Genel Müdür, Misyon Yatırım Bankası A.Ş. Yönetim Kurulu Başkan Yardımcısı, HiVC Girişim Sermayesi Yatırım Ortaklığı A.Ş. Yönetim Kurulu Başkanı, Inveo Ventures Girişim Sermayesi Yatırım Ortaklığı A.Ş. Yönetim Kurulu Başkanı, ICHAIN Yatırım Holding A.Ş. Yönetim Kurulu Başkanı, Inveo Araç Kiralama Hizmetleri A.Ş. Yönetim Kurulu Başkanı, BV Teknoloji İş Geliştirme Danışmanlık ve Organizasyon Hizmetleri A.Ş. Tüzel Kişi Adına Yönetim Kurulu Üyesi, GYT Bilişim ve Ticaret A.Ş. Yönetim Kurulu Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ERSAN AKPINAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yönetim Kurulu Başkan Yardımcısı ve Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Faaliyetleri ile ilgili İmza Yetkisine Sahip Şahıslar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Onur Topaç </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Yönetim Kurulu Başkanı ve CEO </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ersan Akpınar </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Yönetim Kurulu Başkan Yardımcısı ve Genel Müdür </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Gökhan Tosun </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Yönetim Kurulu Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Enes Bilgin </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Teftiş Kurulu Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ergün Koşucu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Satış Yönetimi Kıdemli Genel Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Coşan Yeğenoğlu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Hazineden Sorumlu Genel Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mehmet Şengün </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Pazarlama Bölümü'nden Sorumlu Genel Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mehmet Emir Tayman </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Uluslararası Kurumsal Satış' tan Sorumlu Genel Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Gülten Esen </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Merkezi Satış Yönetimi Genel Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ersen Işık Akıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Mali İşler Genel Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Anıl Abbak </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Uluslararası Piyasalar Direktörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Murat Efe Alok </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Gedik Operasyon Merkezi Direktörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Serdar Akcasu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Hukuk Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Hasan Vidin </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Uygulama Operasyonları Direktörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sibel Çetindemir </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Dijital Pazarlama ve CRM Direktörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ufuk Kıran </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Uluslararası Piyasalar Direktörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bülent Nuri Çalak </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Hazine Pazarlama Direktörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Gülseren Apaydın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> İç Kontrol Müdürü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Burak Ünal </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Operasyon Çözüm Merkezi Müdürü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Lalehan Doğruol </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Bordro ve Özlük İşlemleri Müdür Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mehmet Barış Ürkün </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Kurumsal Finansman Müdürü </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ödenmiş/Çıkarılmış Sermaye </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">1000000000.00</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Kayıtlı Sermaye Tavanı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">3000000000</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayede Doğrudan %5 veya Daha Fazla Paya veya Oy Hakkına Sahip Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Oy Hakkı Oranı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> INVEO YATIRIM HOLDİNG ANONİM ŞİRKETİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 848.660.599,2 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 84,87 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 84,87 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DİĞER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 151.339.400,8 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 15,13 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 15,13 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TOPLAM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 1.000.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Erhan Topaç </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 25%;"> 687618759,26 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 25%;"> 68,76 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Fiili Dolaşımdaki Paylar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayeyi Temsil Eden Paylara İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama / Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Beher Payın Nominal Değeri (TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Payların Nominal Değeri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Sermayeye Oranı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> İmtiyaz Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Borsada İşlem Görüp Görmediği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1000000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görüyor </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağlı Ortaklıklar, Finansal Duran Varlıklar ile Finansal Yatırımlar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Faaliyet Konusu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödenmiş/Çıkarılmış Sermayesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket ile Olan İlişkinin Niteliği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Marbaş Menkul Değerler A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> SPK Lisanslı Yatırım Kuruluşu </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 150000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 150000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GYT Bilişim ve Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Finansal Teknolojiler </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ichain Yatırım Holding AŞ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kripto varlık ve merkeziyetsiz finans </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HiVC Girişim Sermayesi Yatırım Ortaklığı A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Girişim Sermayesi Yatırımları </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 37878790,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 33408714,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 88,2 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Misyon Yatırım Bankası A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırım Bankacılığı Faaliyetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 230000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 23,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Inveo Ventures Girişim Sermayesi Yatırım Ortaklığı A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Girişim Sermayesi Yatırım Ortaklığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 65000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9750000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 15,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> DİĞER HUSUSLAR </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+ </body>
+</html>

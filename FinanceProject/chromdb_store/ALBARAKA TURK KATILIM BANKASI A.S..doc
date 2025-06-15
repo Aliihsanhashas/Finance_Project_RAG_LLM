@@ -1,0 +1,663 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">ALBARAKA TÜRK KATILIM BANKASI A.Ş.</h1>
+  <h4 class="type-normal vcell exportTitle"> İşletme Adı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>ALBARAKA TÜRK KATILIM BANKASI A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Merkez Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İnkılap Mah. Dr. Adnan Büyükdeniz Cad. Albaraka Türk Sitesi 1. Blok No :6 İç Kapı No :1 Ümraniye/İstanbul</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İletişim Adresi, Telefon ve Faks Bilgileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Faks </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> İnkılap Mah. Dr. Adnan Büyükdeniz Cad. Albaraka Türk Sitesi 1. Blok No :6 İç Kapı No :1 Ümraniye/İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 0 216 666 01 01 (Genel Müdürlük-Head Office) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 0 216 666 16 00 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> İnkılap Mah. Dr. Adnan Büyükdeniz Cad. Albaraka Türk Sitesi 1. Blok No :6 İç Kapı No :1 Ümraniye/İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 0 216 666 03 03 (Yatırımcı İlişkileri-Investor Relations) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 0 216 666 03 03 (Yatırımcı İlişkileri-Investor Relations) </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Üretim Tesislerinin Bulunduğu Adresler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>-</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Elektronik Posta Adresi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> yim@albarakaturk.com.tr </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> ir@albarakaturk.com.tr </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İnternet Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>www.albaraka.com.tr</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ad-Soyad </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevlendirme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> E-posta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belge No </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Seyfullah Demirlek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri ve Sürdürülebilirlik Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 07/08/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0216 666 03 03 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> sdemirlek@albarakaturk.com.tr </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> SPF Düzey 3 Lisansı / Kurumsal Yönetim Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 206465/ 700920 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Emre Sipahi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 14/02/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0 216 666 03 03 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> esipahi@albarakaturk.com.tr </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> SPF Düzey 3 Lisansı / Kredi Derecelendirme Lisansı / Kurumsal Yönetim Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 916984/604020/933267 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Merkez Dışı Örgütleri (Şube, İrtibat Bürosu) </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Müdür veya Sorumlunun Adı ve Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Faks </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Faaliyete Başlanmasına İlişkin İzin Tarihi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Tüm Şubeler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Faaliyet Konusu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p><span style="fontsize:10.0pt;lineheight:107%; fontfamily:&quot;Arial&quot;,sans-serif;mso-fareast-fontfamily:Calibri;mso-fareast-theme-font: minor-latin;colr:#323232;mso-ansi-language:TR;mso-fareast-language:EN-US; mso-bidi-language:AR-SA">Amaç ve Konu<br> Madde 3:<br> (1) Banka'nın başlıca amacı ve konusu; Bankacılık Kanunu, Sermaye Piyasası Kanunu,ilgili diğer mevzuat hükümleri ile katılım bankacılığı, faizsiz bankacılık esas ve ilkeleri<br> çerçevesinde her türlü bankacılık faaliyetlerinde bulunmak ve mevzuatın bankalar tarafından yapılmasına imkan verdiği her türlü konularda faaliyette bulunmaktır.<br> (2) Banka'nın amaç ve konusunda değişiklik yapılması halinde, Gümrük ve Ticaret Bakanlığı, Bankacılık Düzenleme ve Denetleme Kurumu ve Sermaye Piyasası kurulu'ndan gerekli izinlerin alınması gerekir.<br> Faaliyetler<br> Madde 4:<br> (1) Banka'nın amacına ulaşmak için gerçekleştireceği faaliyetlerinin başlıcaları şunlardır;<br> a) Katılım fonu kabul etmek,<br> b) Nakdi krediler ile teminat mektupları, garantiler, kontrgarantiler, kefaletler, aval, ciro, kabul gibi diğer her türlü gayrinakdi krediler ve bu niteliği haiz taahhütler verilmesi, sermaye piyasası araçları satın alınması, tevdiatta bulunmak suretiyle ya da herhangi bir şekil ve surette ödünç verilmesi, varlıkların vadeli satılması, vadeli işlem ve opsiyon sözleşmeleri ile benzeri diğer sözleşmeler nedeniyle riskler üstlenilmesi, ortaklık paylarının edinilmesi ve Sermaye Piyasası Kanunu'nun 21/1 maddesi saklı kalmak kaydıyla Bankacılık Düzenleme ve Denetleme Kurulu'nca kredi olarak kabul edilen diğer işlemlerin yapılması ve yine taşınır ve taşınmaz mal ile hak ve hizmet bedellerinin ödenmesi veya kar ve zarar ortaklığı yatırımları, taşınmaz, ekipman veya emtia temini veya finansal kiralama, mal karşılığı vesaikin finansmanı, ortak yatırımlar veya benzer yöntemler başta olmak üzere Bankacılık Kanunu ve ilgili mevzuatta yer alan her tür ve yöntemle finansman/fon/kredi kullandırmak,<span class="apple-converted-space"> </span><br> c) Bankacılık Kanunu ve ilgili diğer mevzuat hükümleri çerçevesinde finansman sağlanması ve benzer faaliyetler nedeniyle üstlenilen yükümlülüklerden, alacaklarından veya kendi ihtiyacından dolayı yurt içinde veya yurt dışında; ham veya mamul madde, makine, ekipman, teçhizat, uçak, gemi ve taşınır mülkiyetine konu olabilecek her türlü taşınır mallar ile arsa, arazi, bina ve taşınmaz mülkiyetine konu olabilecek her türlü taşınmaz malları satış vaadi veya kesin satış sözleşmeleri ile satın alma, trampa/değişim, bağış, takas ve diğer her türlü suretle mülkiyetini edinmek, inşa etmek, işletmek, bu haklarla ilgili tescil, beyan, şerh, terkin/fek, değişiklik, düzeltme ve diğer her türlü işlemleri yapmak,<br> ç) Aşağıda sayılanlar dahil ancak bunlarla sınırlı olmamak üzere; mevzuat hükümleri çerçevesinde yurt içinde ve yurt dışında her türlü ayni , sınırlı ayni, kişisel ve sair hakları ve alacakları edinmek, bu haklar ve alacaklarla ilgili tescil, beyan, şerh, terkin/fek, değişiklik, düzeltme, teslim, iade ve diğer her türlü işlemleri yapmak;<br> 1. Taşınır, taşınmaz, hak, alacak ve diğer her türlü eşyaya/varlığa ilişkin mülkiyet hakkı,<br> 2. Taşınmaz lehine irtifak hakkı, intifa hakkı, oturma hakkı, üst hakkı, kaynak hakkı ve diğer her türlü irtifak hakları,<br> 3. Taşınmaz yükü,<br> 4. İpotek, ipotekli borç senedi, irat senedi ve diğer her türlü taşınmaz rehni,<br> 5. Teslime bağlı rehin, hapis hakkı, alacaklar ve diğer haklar üzerinde rehin, teslimsiz rehin ve sair her türlü taşınır rehni,<br> 6. Ticari işletme, uçak, gemi, maden, marka, patent, fikir ve sanat eserleri, maden, hayvan ve bunlarla sınırlı olmamak üzere rehne konu olabilecek eşya/varlık, hak, alacaklara ilişkin diğer her türlü rehinler,<br> 7. Alım ve geri alım, önalım, geçit gibi her türlü haklar,<br> 8. Adi, ürün, finansal kiralama ve diğer her türlü yöntemlerle kiralama,<br> 9. Arsa payı karşılığı inşaat, satış vaadi ile diğer her türlü kişisel haklar,<br> 10. Kefalet, aval, garanti gibi her türlü kişisel teminatlar.<br> d) Maliki ve zilyedi bulunduğu taşınmazları, taşınırları, hak ve alacakları ve diğer her türlü malvarlıkların; satış vaadi veya kesin satış sözleşmeleri ile satış, trampa/değişim, bağış, takas ve diğer her türlü suretle mülkiyet ve zilyetliğini devretmek, intifa, oturma, üst, kaynak, irtifak, rehin, ipotek ve diğer her türlü ayni haklarla ve yine alım ve geri alım, önalım, geçit, arsa payı karşılığı inşaat, satış vaadi ile diğer her türlü kişisel haklarla sınırlamak, adi, ürün, finansal kiralama ve diğer her türlü yöntemlerle kiraya vermek, tüm bunlarla ilgili tescil, beyan, şerh, terkin/fek, değişiklik, düzeltme, teslim, iade ve diğer her türlü işlemleri yapmak,<br> e) Bankacılık Kanunu ve Sermaye Piyasası Kanunu sınırlamaları ve hükümleri çerçevesinde bağış yapmak ve bağış kabul etmek,<br> f) Nakdi ve kaydi ödeme ve fon transferi işlemlerini, muhabir bankacılık veya çek hesaplarının kullanılması dahil her türlü ödeme ve tahsilat işlemlerini yapmak,<br> g) Çek ve diğer kambiyo senetlerinin işlemlerini yapmak, yine her türlü saklama hizmetleri vermek,<br> ğ) Kredi kartları, banka kartları ve seyahat çekleri gibi ödeme vasıtalarının ihracı ve bunlarla ilgili faaliyetlerin yürütülmesi işlemlerini gerçekleştirmek,<br> h) Efektif dahil kambiyo işlemlerini; para piyasası araçlarının alım ve satımını; kıymetli maden ve taşların alımı, satımı veya bunların emanete alınması işlemlerini yapmak,<br> ı) Ekonomik ve finansal göstergelere, sermaye piyasası araçlarına, mala, kıymetli madenlere ve dövize dayalı; vadeli işlem sözleşmelerinin, opsiyon sözleşmeleri ile benzeri diğer sözleşmeler nedeniyle riskler üstlenmek, birden fazla türev aracı içeren basit veya karmaşık yapıdaki finansal araçların alımı, satımı ve aracılık işlemleri yapmak, tevdiatta bulunmak suretiyle ya da herhangi bir şekil ve surette ödünçler vermek,<br> i) Bankacılık Kanunu, Sermaye Piyasası Kanunu ve ilgili diğer mevzuat hükümleri çerçevesinde sermaye piyasası araçlarının alım ve satımı ile geri alım veya tekrar satım<br> taahhüdü işlemleri, sermaye piyasası araçlarının ihraç veya halka arz yoluyla satışına aracılık işlemlerini, daha önce ihraç edilmiş olan sermaye piyasası araçlarının aracılık maksadıyla alım satımının yürütülmesi işlemlerini yapmak,<br> j) Kamuyu aydınlatma bağlamında gerekli açıklamaları yapmak şartıyla, başkaları lehine teminat, garanti, kontrgaranti ve diğer yükümlülüklerin üstlenilmesi işlemleri gibi garanti işlerini yapmak,<br> k) Bankacılık Kanunu, Sermaye Piyasası Kanunu ve ilgili mevzuat hükümleri çerçevesinde; yatırım danışmanlığı işlemleri yapmak, portföy işletmeciliği ve yönetimi<br> yapmak, yine sigorta acenteliği ve bireysel emeklilik aracılık hizmetleri yapmak, ayrıca gayrimenkul ve emtiayı esas alan sözleşmelere ilişkin işlemler yapmak,<br> l) Hazine Müsteşarlığı ve/veya Merkez Bankası ve kuruluş birlikleri nezdinde oluşturulan sözleşme kapsamında üstlenilen yükümlülükler çerçevesinde alım ve satım<br> işlemlerine ilişkin piyasa yapıcılığı işlemleri yapmak,<br> m) Finansal kiralama işlemleri yapmak,<br> n) Uluslararası gözetim faaliyetinde bulunmak, uluslararası gözetim şirketi statüsü almak,<br> o) Bankacılık Kanunu, Sermaye Piyasası Kanunu ve ilgili mevzuat hükümleri çerçevesinde; bankalar, kredi kuruluşları, finansal kuruluşlar, şirketler, ortaklıklar dahil yurt<br> içindeki ve yurt dışındaki kamu ve özel her türlü tüzel kişilere kurucu olarak veya paylarını yahut pay senetlerini devir almak suretiyle iştirak etmek, yönetim ve denetimlerini üstlenmek, ayrıca iştiraki olsun olmasın bankalar, kredi kuruluşları, finansal kuruluşlar, şirketler,ortaklıklar dahil yurt içindeki ve yurt dışındaki kamu ve özel her türlü tüzel kişiler ve gerçek kişiler ile ortaklıklar, konsorsiyumlar kurmak, yatırımlar yapmak, ortaklıklara, konsorsiyumlara ve yatırımlara iştirak etmek, ortaklık payları ve diğer menkul kıymetleri edinmek, bunları devretmek, rehin ve diğer her türlü haklarla sınırlamak,<br> ö) Marka, patent, ihtira beratı, lisans, know-how, tasarım, ticaret unvanı, işletme adı, telif hakkı, fikir ve sanat eserleri, sınai mülkiyet dahil ilmi, teknik ve diğer her türlü fikri ve sınai hakları; meydana getirme, satın alma, trampa/değişim, bağış, takas ve diğer her türlü suretle mülkiyetini edinmek ve aynı suretlerle mülkiyetini devretmek, tüm bu hakları geliştirmek, kullanmak, işletmek, kiralamak veya kiraya vermek, rehin ve diğer haklarla sınırlamak,<br> p) Yurt içindeki ve yurt dışındaki bankalarda, finansal kuruluşlarda ve diğer kuruluşlar nezdinde; her türlü hesap açma ve diğer suretlerle para, kıymetli maden, kıymetli evrak başta olmak üzere her türlü varlıkları bulundurmak, yine ulusal ve uluslararası para, sermaye ve emtia piyasalarında işlemler yapmak, aracılık etmek, her türlü türev ürünlerin kendisi ve müşterileri adına ticaretini yapmak,<br> r) Banka'nın sahip olduğu taşınır, taşınmaz mallar ile hak, alacak ve diğer her türlü eşyalarını/varlıklarını tamamen veya kısmen ipotek, rehin veya diğer suretlerle teminat göstermek suretiyle veya teminatsız veya diğer suretlerle Bankacılık Kanunu, Sermaye Piyasası Kanunu ve ilgili mevzuat hükümleri çerçevesinde sermaye piyasası araçlarının ihracı dahil her türlü yöntemlerle yurt içinde ve yurt dışında istikrazda bulunmak, borç almak, avans kabul etmek, para temin etmek,<br> s) Poliçe, bono, çek, konişmento, makbuz senedi, varant, taşıma senedi, yük senedi ve diğer her türlü kıymetli evrak ve senet düzenlemek, kabul ve ciro etmek, çek defteri vermek, gerek Banka'nın gerekse müşterilerinin senet, çek, fatura ve her türlü kıymetli evrak, akreditif, teminat mektubu ve diğer belgelerinin bedellerini tahsil etmek, havale, transfer, kiralık kasa, kredi kartı ve diğer her türlü bankacılık işlem ve hizmetlerini yapmak,<br> ş) Bankacılık Kanunu, Sermaye Piyasası Kanunu ve ilgili mevzuat hükümleri çerçevesinde her çeşit döviz, altın ve sair kıymetli madenler ile kıymetli taşların alım ve satımını yapmak, emanete almak, bunlarla işleyen hesaplar açmak, bunlar üzerinden kredi kullandırmak, her türlü türev ürünlerin kendisi ve müşterileri adına ticaretini yapmak, döviz pozisyonu tutmak,akreditif açmak ve teyit etmek, kambiyo, ithalat, ihracat ve her türlü dış ticaret işlemlerini bizzat yapmak veya bunları tamamen veya kısmen finanse etmek,<br> t) Her türlü iç ve dış ticaret, sanayi, tarım, bayındırlık ve sair mali ve ekonomik alanda, para ve ticaret piyasasında mevzuat hükümlerine uygun faaliyette bulunmak, mevcut faaliyetlere iştirak etmek,<br> u) Vekil, mümessil, acente, yediemin, tasfiye ve tenfiz memuru ve diğer sıfatlarla her türlü hizmetlerde bulunmak, yine fizibilite etütleri hazırlamak, yatırım, yönetim, teknik mali ve diğer konularda müşavirlik yapmak,<br> ü) Banka amaç ve konularının gerçekleştirilmesi için yurt içinde ve yurt dışında; akit, mukavele, protokol, taahhüt, anlaşma, sözleşme ve hangi biçim ve ad altında olursa olsun Banka'yı bağlayan her türlü hukuki ve fiili işlem, faaliyet, tasarruf ve eylemlerde bulunmak,<br> v) Bankacılık Kanunu, Sermaye Piyasası Kanunu ve diğer mevzuatın verdiği imkanlar çerçevesinde her türlü işlemler yapmak,<br> y) Bankacılık Düzenleme ve Denetleme Kurulu'nca belirlenecek diğer faaliyetleri gerçekleştirmek.<br> (2) Banka, yukarı sayılan hususlar dahil ancak bunlarla sınırlı olmamak üzere, Bankacılık Kanunu, Sermaye Piyasası Kanunu, Türk Ticaret Kanunu ve diğer mevzuat hükümleri çerçevesinde çalışmak suretiyle amaç ve konusunu elde etmeyi mümkün kılacak her türlü faaliyeti gerçekleştirebilecektir.</span><br> </p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Süresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Süresiz</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağımsız Denetim Kuruluşu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Sektörü </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>MALİ KURULUŞLAR / BANKALAR</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Faaliyet Durumu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Faaliyette</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yetki Belgeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Yetki Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Numarası </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Yatırım Hizmet ve Faaliyetleri Yetki Belgesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 22/01/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> BNK-028 (115) </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Borsa Üyelik Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>27/06/2007</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Faaliyet Gösterilen Pazarlar ve Piyasalar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Pay Piyasası - Yıldız Pazar, Borçlanma Araçları Piyasası - Kesin Alım Satım Pazarı, Kıymetli Madenler ve Taşlar Piyasası</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Aracının İşlem Gördüğü Pazar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>YILDIZ PAZAR</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Dahil Olduğu Endeksler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BIST KATILIM 100 / BIST KURUMSAL YÖNETİM / BIST YILDIZ / BIST TÜM / BIST TÜM-100 / BIST 500 / BIST KATILIM TUM / BIST SÜRDÜRÜLEBİLİRLİK KATILIM / BIST SÜRDÜRÜLEBİLİRLİK / BIST MALİ / BIST BANKA</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote <br>Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ortaklık Hakkı Vermeyen Sermaye Piyasası Araçlarına İlişkin Bilgi </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Memurluğu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Tescil Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>05/10/1984</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Numarası </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>206671154214</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi No </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>0470008702</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi Dairesi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL - Büyük Mükellefler Vergi Dairesi Müdürlüğü</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetim Kurulu Üyeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> Tüzel Kişi Üye Adına Hareket Eden Kişi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Cinsiyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetim Kuruluna İlk Seçilme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son Durum itibariyle Ortaklık Dışında Aldığı Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Sermayedeki Payı (%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Temsil Ettiği Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlık Beyanının Yer Aldığı KAP Duyurusunun Bağlantısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üyenin Aday Gösterme Komitesi Tarafından Değerlendirilip Değerlendirilmediği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlığını Kaybeden Üye Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yer Aldığı Komiteler ve Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HOUSSEM BEN HAJ AMOR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 26/03/2020 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ, YÖNETİM KURULU BAŞKANI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Al Baraka Group İcra Başkanı Al Baraka Tunis - Yönetim Kurulu Üyesi Al Baraka Egypt - Yönetim Kurulu Üyesi Jordan Islamic Bank - Yönetim Kurulu Üyesi Al Baraka South Africa - Yönetim Kurulu Üyesi Banque Al Baraka d?Algérie - Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KREDİ KOMİTESİ-BAŞKAN, ÜCRETLENDİRME VE ADAY GÖSTERME KOMİTESİ-BAŞKAN, RİSK KOMİTESİ-BAŞKAN, İCRA KOMİTESİ-BAŞKAN </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BEKİR PAKDEMİRLİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 24/08/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> BİM Birleşik Mağazalar A.Ş. - Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KREDİ KOMİTESİ - ÜYE, BİLGİ TEKNOLOJİLERİ YÖNETİŞİM KOMİTESİ - ÜYE, İCRA KOMİTESİ - ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUSTAFA BÜYÜKABACI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 23/03/2017 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Albaraka Portföy Yönetimi A.Ş. - Yönetim Kurulu Üyesi, Abacılar Hayv. Ve Gıda Tar. San. Tic. Ltd. Şti - Genel Müdür, Birler Gıda Tarım Hayv. San. Ve Tic. Ltd. Şti. - Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> DENETİM KOMİTESİ - BAŞKAN, ÜCRETLENDİRME VE ADAY GÖSTERME KOMİTESİ - ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MOHAMED ALI CHATTI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 19/02/2020 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> İslam Kalkınma Bankası - Müdür, AWQAF YATIRIM FONLARI Bölümü Liquidty Management Centre B.S.C. - Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> DENETİM KOMİTESİ-ÜYE, ÜCRETLENDİRME VE ADAY GÖSTERME KOMİTESİ-ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GHASSAN AHMED M AMODI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 26/03/2020 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Halwani Bros Company - Yönetim Kurulu Üyesi Saba Clinics - Yönetim Kurulu Üyesi ASYAD Group - Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KURUMSAL YÖNETİM VE SÜRDÜRÜLEBİLİRLİK KOMİTESİ-BAŞKAN, RİSK KOMİTESİ-ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AZHAR AZIZ DOGAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 18/01/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> AL BARAKA BANK PAKİSTAN - YÖNETİM KURULU ÜYESİ, AL BARAKA GRUBU - GENEL MÜDÜR YARDIMCISI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KREDİ KOMİTESİ - ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AKRAM YASSIN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 15/08/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Al Baraka Islamic Bank B.S.C. - Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KURUMSAL YÖNETİM VE SÜRDÜRÜLEBİLİRLİK KOMİTESİ-ÜYE, İCRA KOMİTESİ - ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> KHALED ABDULLA MOHAMED ATEEQ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 27/03/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Al Baraka Group - Yönetim Kurulu Üyesi, Al Baraka Islamic Bank B.S.C. - Yönetim Kurulu Üyesi Al Baraka Bank Sudan - Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> DENETİM KOMİTESİ - ÜYE, BİLGİ TEKNOLOJİLERİ YÖNETİŞİM KOMİTESİ - BAŞKAN, RİSK KOMİTESİ - ÜYE </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MALEK KHODR TEMSAH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 13/10/2021 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> YÖNETİM KURULU ÜYESİ, GENEL MÜDÜR VEKİLİ, GENEL MÜDÜR YARDIMCISI, MÜDÜR YARDIMCISI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KATILIM HAYAT VE EMEKLİLİK A.Ş. - YÖNETİM KURULU BAŞKAN YARDIMCISI, INSHA VENTURES TEKNOLOJİ GELİŞTİRME VE PAZARLAMA A.Ş. - YÖNETİM KURULU BAŞKANI, ALBARAKA PORTFÖY YÖNETİMİ A.Ş. - YÖNETİM KURULU BAŞKANI, ALBARAKA TEKNOLOJİ BİLİŞİM SİSTEMLERİ VE PAZARLAMA TİCARET A.Ş. - YÖNETİM KURULU BAŞKANI, ALBARAKA KÜLTÜR SANAT VE YAYINCILIK A.Ş. - YÖNETİM KURULU BAŞKANI, </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> KREDİ KOMİTESİ-ÜYE, BİLGİ TEKNOLOJİLERİ YÖNETİŞİM KOMİTESİ-ÜYE, İCRA KOMİTESİ - ÜYE </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetimde Söz Sahibi Olan Personel </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MALEK KHODR TEMSAH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yönetim Kurulu Üyesi, Genel Müdür Vekili, Genel Müdür Yardımcısı, Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Katılım Emeklilik ve Hayat A.Ş. - Yönetim Kurulu Başkan Yardımcısı, Insha Ventures Teknoloji Geliştirme ve Pazarlama A.Ş. - Yönetim Kurulu Başkanı, Albaraka Portföy Yönetimi A.Ş. - Yönetim Kurulu Başkanı, Albaraka Teknoloji Bilişim Sistemleri ve Pazarlama Ticaret A.Ş. - Yönetim Kurulu Başkanı, Albaraka Kültür Sanat ve Yayıncılık A.Ş. - Yönetim Kurulu Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TURGUT SİMİTCİOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Başyardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Başyardımcısı, Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Katılım Emeklilik ve Hayat A.Ş. - Yönetim Kurulu Üyesi, Insha Ventures Teknoloji Geliştirme ve Pazarlama A.Ş. - Yönetim Kurulu Başkan Yardımcısı, Albaraka Portföy Yönetimi A.Ş. - Yönetim Kurulu Başkan Yardımcısı, Albaraka Teknoloji Bilişim Sistemleri ve Pazarlama Ticaret A.Ş. - Yönetim Kurulu Başkan Yardımcısı, Albaraka Kültür Sanat ve Yayıncılık A.Ş. - Yönetim Kurulu Başkan Yardımcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SERHAN YILDIRIM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Hazine Yöneticisi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ÖMER EMEÇ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Baş Ekonomist &amp; Stratejik Planlama ve Ekonomik Araştırmalar Birim Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Albaraka Teknoloji Bilişim Sistemleri ve Pazarlama Ticaret A.Ş.-Yönetim Kurulu Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUHAMMET FARUK TORLAK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Kurumsal Kredi Tahsis Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEHMET EMİN ÇONKAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Tahsilat Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEHMET ULUDAĞ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Direktör/Ombudsman, Ticari ve Kobi Satış Müdürü, Ege Bölge Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SERHAN AKYILDIZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Kurumsal Satış Müdürü, Merkez Şube Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> UMUT ÇAKMAK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Risk Yönetim Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUZAFFER ÇÖLMEK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Finansal Kurumlar Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bereket Varlık Kiralama A.Ş.-Yönetim Kurulu Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> YASEMİN AYDIN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Direktör </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Albaraka Teknoloji Bilişim Sistemleri ve Pazarlama Ticaret A.Ş.-Yönetim Kurulu Üyesi, İnsha Ventures Teknoloji Geliştirme ve Pazarlama A.Ş.-Yönetim Kurulu Üyesi </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Faaliyetleri ile ilgili İmza Yetkisine Sahip Şahıslar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MALEK KHODR TEMSAH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> GENEL MÜDÜR </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TURGUT SİMİTCİOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> GENEL MÜDÜR BAŞYARDIMCISI </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SERHAN YILDIRIM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> GENEL MÜDÜR YARDIMCISI </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> NEZİH DOLMACI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> AKTİF-PASİF YÖNETİMİ MÜDÜRÜ </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ŞUAYB ÜSTÜNCAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> AKTİF-PASİF YÖNETİMİ YÖNETİCİSİ </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TÜLAY ŞALVA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> SERMAYE PİYASALARI FONLAMA MÜDÜRÜ </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> YALKIN VANLI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> HAZİNE MÜDÜRÜ </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ödenmiş/Çıkarılmış Sermaye </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">2500000000.00</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Kayıtlı Sermaye Tavanı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">5000000000</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayede Doğrudan %5 veya Daha Fazla Paya veya Oy Hakkına Sahip Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Oy Hakkı Oranı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AL BARAKA GROUP B.S.C. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 1.127.275.092,57 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 45,09 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 45,09 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DALLAH AL BARAKA HOLDING CO B.S.C. (C) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 207.585.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 8,3 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 8,3 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DİĞER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 1.165.139.907,43 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 46,61 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 46,61 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TOPLAM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 2.500.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel Kişiler </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Fiili Dolaşımdaki Paylar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayeyi Temsil Eden Paylara İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama / Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Beher Payın Nominal Değeri (TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Payların Nominal Değeri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Sermayeye Oranı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> İmtiyaz Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Borsada İşlem Görüp Görmediği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 2500000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> İmtiyaz Yok </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görüyor </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağlı Ortaklıklar, Finansal Duran Varlıklar ile Finansal Yatırımlar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Faaliyet Konusu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödenmiş/Çıkarılmış Sermayesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket ile Olan İlişkinin Niteliği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Katılım Emeklilik ve Hayat A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bireysel Emeklilik ve Sigortacılık </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 72000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 36000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Birlikte Kontrol Edilen Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Albaraka Portföy Yönetimi A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırım fonlarının kurulması ve yönetimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 180000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 180000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Getinsha GmbH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Almanya'da Solarisbank AG'nin bankacılık lisansıyla dijital katılım bankacılığı hizmeti verilmesi , bu lisans ile mudaraba yöntemiyle fon toplanması ve fonların imzalanan sözleşmeye istinaden faizsiz finans ilkelerine uygun yöntemlerle değerlendirilmesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5982255,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5982255,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bereket Varlık Kiralama A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kira Sertifikası İhracı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Değer Varlık Kiralama A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kira Sertifikası İhracı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> DİĞER HUSUSLAR </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+ </body>
+</html>

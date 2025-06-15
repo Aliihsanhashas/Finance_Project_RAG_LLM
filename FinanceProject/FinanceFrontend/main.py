@@ -47,11 +47,112 @@ def update_everything(symbol, question):
 
 
 
-def plot_stock_data(stock_data):
-    stock_data['DATE'] = pd.to_datetime(stock_data['DATE'])
-    fig = px.line(stock_data, x='DATE', y='CLOSING_TL', title='Stock Price Over Time', 
-                  labels={'DATE': 'Date', 'CLOSING_TL': 'Closing Price (TL)'})
-    fig.update_layout(template="plotly_dark", title_x=0.5)
+def plot_stock_data(stock_data, price_column='CLOSING_TL', title_suffix=''):
+    """
+    Geliştirilmiş stock plot fonksiyonu
+    
+    Args:
+        stock_data: Dict veya DataFrame formatında stock verisi
+        price_column: Çizilecek fiyat kolonu ('CLOSING_TL', 'CLOSING_USD', etc.)
+        title_suffix: Başlığa eklenecek ek metin
+    """
+    
+    # Veri tipini kontrol et ve DataFrame'e çevir
+    if isinstance(stock_data, dict):
+        # Dictionary ise DataFrame'e çevir
+        df = pd.DataFrame.from_dict(stock_data, orient='index')
+        print(f"Converted dict to DataFrame. Shape: {df.shape}")
+    elif isinstance(stock_data, pd.DataFrame):
+        df = stock_data.copy()
+        print(f"Already DataFrame. Shape: {df.shape}")
+    else:
+        raise ValueError(f"Unsupported data type: {type(stock_data)}")
+    
+    # Debug: DataFrame içeriğini kontrol et
+    print("DataFrame columns:", df.columns.tolist())
+    print("DataFrame dtypes:")
+    print(df.dtypes)
+    print("\nFirst few rows:")
+    print(df.head())
+    
+    # Gerekli kolonları kontrol et
+    if 'DATE' not in df.columns:
+        raise ValueError("DATE column not found in data")
+    
+    if price_column not in df.columns:
+        available_columns = [col for col in df.columns if 'CLOSING' in col or 'HIGH' in col or 'LOW' in col]
+        raise ValueError(f"{price_column} column not found. Available price columns: {available_columns}")
+    
+    # DATE kolonunu datetime'a çevir
+    try:
+        df['DATE'] = pd.to_datetime(df['DATE'])
+    except Exception as e:
+        print(f"Error converting DATE: {e}")
+        print("DATE column sample values:", df['DATE'].head().tolist())
+        # Alternatif çevirme yöntemleri dene
+        try:
+            df['DATE'] = pd.to_datetime(df['DATE'], format='%Y-%m-%d')
+        except:
+            try:
+                df['DATE'] = pd.to_datetime(df['DATE'], format='%d-%m-%Y')
+            except:
+                print("Could not convert DATE column. Using as string.")
+    
+    # Fiyat kolonunu numeric'e çevir
+    try:
+        df[price_column] = pd.to_numeric(df[price_column], errors='coerce')
+    except Exception as e:
+        print(f"Error converting {price_column}: {e}")
+    
+    # NaN değerleri temizle
+    df_clean = df.dropna(subset=[price_column])
+    
+    if df_clean.empty:
+        raise ValueError(f"No valid data found for {price_column}")
+    
+    # Değer aralığını kontrol et
+    min_val = df_clean[price_column].min()
+    max_val = df_clean[price_column].max()
+    print(f"\nPrice range: {min_val:.6f} - {max_val:.6f}")
+    
+    # Eğer değerler çok küçükse (normalize edilmişse) uyarı ver
+    if max_val < 1:
+        print("⚠️  WARNING: Values seem very small (possibly normalized). Consider scaling.")
+        title_suffix += " (Values may be normalized)"
+    
+    # Tarihe göre sırala
+    df_clean = df_clean.sort_values('DATE')
+    
+    # Grafik oluştur
+    currency = 'TL' if 'TL' in price_column else 'USD' if 'USD' in price_column else 'Units'
+    
+    fig = px.line(
+        df_clean, 
+        x='DATE', 
+        y=price_column, 
+        title=f'Stock Price Over Time {title_suffix}',
+        labels={
+            'DATE': 'Date', 
+            price_column: f'Price ({currency})'
+        },
+        hover_data=[price_column]
+    )
+    
+    # Layout güncellemeleri
+    fig.update_layout(
+        template="plotly_dark", 
+        title_x=0.5,
+        xaxis_title="Date",
+        yaxis_title=f"Price ({currency})",
+        hovermode='x unified'
+    )
+    
+    # Y ekseni formatını ayarla
+    if max_val < 1:
+        fig.update_yaxis(tickformat='.6f')  # Çok küçük değerler için daha fazla decimal
+    else:
+        fig.update_yaxis(tickformat='.2f')
+    
     return fig
 
 def update_news_content(selected_title, news_map):

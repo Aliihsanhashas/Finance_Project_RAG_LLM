@@ -1,0 +1,1133 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">TÜRK TELEKOMÜNİKASYON A.Ş.</h1>
+  <h4 class="type-normal vcell exportTitle"> Merkez Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Örnek Mh. Turgut Özal Bulvarı No:4 Aydınlıkevler Ankara</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İletişim Adresi, Telefon ve Faks Bilgileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Faks </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Gayrettepe Mh. Yıldızposta Cd. No:40 Beşiktaş İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 02123099630 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 02123529610 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Üretim Tesislerinin Bulunduğu Adresler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>-</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Elektronik Posta Adresi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> investorrelations@turktelekom.com.tr </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İnternet Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>www.turktelekom.com.tr</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ad-Soyad </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevlendirme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> E-posta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belge No </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GÜLSEN AYAZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yatırımcı İlişkileri ve Sürdürülebilirlik Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 11/09/2020 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 02123099630 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> gulsen.ayaz@turktelekom.com.tr </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 3 Lisansı, Kurumsal Yönetim Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 204834, 912073 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> EREN ÖNER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kurumsal Yönetim, Uyum ve Sürdürülebilirlik Grup Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 10/03/2017 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 02123099638 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> eren.oner@turktelekom.com.tr </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 3 Lisansı, Kurumsal Yönetim Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 203138, 702973 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Faaliyet Konusu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p>a) İlgili mevzuat ve yetkili kurumların düzenlemeleri dahilinde ve gerekli yetkilendirmeleri alarak, 2813 Sayılı Telsiz Kanunu hükümleri saklı kalmak üzere, farklı noktalar arasında fiber, telli, telsiz, optik, elektrik, manyetik, elektromanyetik, elektrokimyasal, elektromekanik veya her türlü diğer sistemlerle, her çeşit sembol, ses, yazı, resim, bilgi, görüntü ve işaretlerin alınması ve verilmesini sağlayan telekomünikasyon tesislerini ve altyapısını kurmak ve işletmek dahil ve fakat bunlarla sınırlı olmamak üzere yeni nesil hizmetler de dahil her türlü telekomünikasyon hizmetini kendisine tahsis edilmiş ve/veya tahsis edilecek kaynakları her türlü teknolojiyi kullanarak gerçekleştirmek,</p> 
+   <p>b) Her tür telekomünikasyon hizmetini doğrudan doğruya yahut bu amaçla yurt içinde veya yurt dışında kuracağı diğer şirket veya mevcut şirketlere iştirak etmek suretiyle yürütmek, re hber basmak, telekomünikasyon hizmetleri vasıtasıyla verilecek katma değerli hizmetleri sunabilmesini teminen gerekebilecek sistem ve teçhizat alımının yaparak, yurtiçinde veya yurtdışında kuracağı diğer şirket veya mevcut şirketlere iştirak etmek suretiyle veya çözüm ortakları ile veya kendi başına anahtar teslim altyapı projelerini yapmak, </p> 
+   <p>c) İlgili mevzuat ve yetkili kurumların düzenlemeleri dahilinde ve gerekli yetkilendirmeleri alarak, Radyo ve televizyon yayın kuruluşlarının üretmiş oldukları radyo ve televizyon programlarını, içerik sağlayıcılar tarafından üretilen video film, müzik ve diğer içerikleri, gerekli olan altyapıyı kurarak telekomünikasyon şebekeleri, kablo televizyon dağıtım şebekesi ve zaman içerisinde gelişen yeni teknoloji ve imkanları kullanarak abonelere ulaştırmak, </p> 
+   <p>d) Kamu ve özel kuruluşlardan gelen talepler doğrultusunda, bu taleplerin karşılanmasına yönelik anahtar teslim de dahil olmak üzere her türlü proje yapmak ve/veya proje danışmanlığı yahut her türlü danışmanlık hizmetini ifa etmek, kurumlar adına hususi projelerde kurulum, işletme, danışmanlık ve eğitim hizmetleri vermek; yurtiçi veya yurtdışında, her türlü telekomünikasyon hizmeti için altyapı kurulumu ve/veya işletme hizmeti satın alınmak üzere kurum ve kuruluşlarca düzenlenen ihalelere, tek başına veya başka şirketlerle birlikte teklif hazırlayarak girebilmek ve bu işleri yürütmek, </p> 
+   <p>e) Bireysel ya da kurumsal her türlü internet güvenlik hizmeti sistemini almak, satmak veya müşterilerine sağlamak ve bunlarla ilgili her türlü tasarruflarda bulunmak, </p> 
+   <p>f) Telekomünikasyon hizmetlerini modernize etmek; Telekomünikasyon alanında kullanılan her türlü malzemeyi üretmek üzere araştırma ve geliştirmeyi üstlenmek veya bu konuda kurulmuş şirketlere iştirak etmek, </p> 
+   <p>g) Yukarıda belirtilen işlerle ilgili yurt içinde ve dışında her türlü sipariş vermek veya almak ve ihalelere yalnız başına veya ortaklık halinde girmek, bu işlerin gerektirdiği hallerde, yurtiçi ve yurtdışına sipariş vermek veya sipariş almak, </p> 
+   <p>h) Bu işleri yapmak için lüzumlu araziyi, teçhizatı, inşaat ve imalat malzemesini devir ve satın almak, bunların kullanılması ve işletilmesiyle ilgili olarak her türlü taşınır ve taşınmaz mala sahip olmak veya inşa ettirmek, satmak, kiralamak veya kiraya vermek veya bunlar üzerinde ayni haklar tesis ettirmek, </p> 
+   <p>i) Yukarıda belirtilen işlere ait proje hizmetleri ile tesis hizmetlerini yapmak, </p> 
+   <p>j) Kuruluş amacıyla ilgili işlemleri yürütebilmek üzere patent, ihtira beratı, know-how, lisans, imtiyaz ve alamet-i farikayı tescil ettirmek, devir ve ferağ verebilmek, kiralayabilmek veya intifa ve irtifak hakkını alabilmek, </p> 
+   <p>k) Türkiye Cumhuriyeti vatandaşı veya yabancı uyruklu çalışan, uzman ve görevli istihdam etmek, </p> 
+   <p>l) Şirket işleri için veya Şirket işleri ile ilgili olarak borç almak veya yatırımcıların</p> 
+   <p>aydınlatılmasını teminen özel haller kapsamında Sermaye Piyasası Kurulu'nca aranacak gerekli açıklamaları yapmak kaydıyla teminatlar vermek. Şirket'in kendi adına ve 3. kişiler lehine, garanti, kefalet, teminat vermesi hususlarında sermaye piyasası mevzuatı çerçevesinde belirlenen esaslara uyulur. </p> 
+   <p>m) Eğitim faaliyetlerinde bulunmak, çalışanlar ve aile fertlerinin sağlık sorunları ile ilgili olarak sağlık ve sosyal yardımlarda bulunmak amacıyla vakıf ve benzeri yardım sandıkları ve sair yardım teşkilatlarının kurulması, devir alınması veya ortak olunması; üniversite kurulması, şirket stratejileri ve hedeflerine göre ve gelen talepler çerçevesinde, ücretli ve/veya ücretsiz olarak, elektronik ortamda yönetilen hizmetler de dahil olmak üzere Şirket amaç ve faaliyetlerine uygun her türlü eğitim, kişisel gelişim ve danışmanlık hizmetlerini sunmak, </p> 
+   <p>n) Amaç ve faaliyet konularının tahakkuku için Sermaye Piyasası mevzuatına aykırı olmamak kaydıylave bu maddede sayılan işlemlerle sınırlı olmamak üzere gereken her türlü ticari muamelelerde bulunmak, ithalat ve ihracat yapmak. </p> 
+   <p>o) Şirket amacı ile ilgili olmak üzere ve Sermaye Piyasası mevzuatına uygun olarak, her türlü gayrimenkul iktisap etmek, bunları satmak, kiralamak, ifraz ve tevhid işlemleri yapmak, gayrimenkul satış vaadinde bulunmak, Gayrimenkulleri üzerinde intifa, irtifak, ipotek veya diğer ayni ve şahsi hakları; gelirleri üzerindeki her türlü rehin veya diğer şahsi hakları tesis etmek, kaldırmak veya bu hakları kabul etmek. Şirket'in kendi adına ve 3. kişiler lehine ipotek dahil rehin hakkı tesis etmesi hususlarında Sermaye Piyasası mevzuatı çerçevesinde belirlenen esaslara uyulur. </p> 
+   <p>p) Şirket konusu ile ilgili amaçlarını gerçekleştirebilmek için yurtiçi yurtdışı bankalar, finans kurumları, mali piyasalar, emtia borsaları ve benzeri kuruluş, müessese borsa ve piyasalarda kısa, orta ve uzun vadeli her türlü nakdi ve gayrinakdi krediler almak, finansman ve mal bağlantıları yapmak, anlaşmalar yapmak, kaynak sağlamak, sermaye piyasası mevzuatı ile düzenlenen aracılık faaliyeti, menkul kıymet portföy işletmeciliği ve yatırım danışmanlığı faaliyeti niteliğinde olmamak üzere diğer her tür finansal araçları konu alan sözleşmelere taraf olmak, yürürlükteki mevzuat hükümlerine aykırılık teşkil etmemek kaydıyla, Şirket'in yurtdışında veya yurtiçinde doğrudan veya dolaylı olarak pay sahibi olduğu ortaklıklara, ana şirketine ve grup şirketlerine döviz veya Türk Lirası borç vermek, bu konularda bağlı ortaklıklarına, iştiraklerine, yönetimine katıldığı kuruluşlara, yapmış olduğu iş ortaklığı ve iş irtifaklarına yatırım danışmanlığı faaliyeti niteliğinde olmamak üzere her çeşit danışmanlık yönetim ve organizasyon hizmetleri vermek. </p> 
+   <p>r) Kanuni şartlara uymak kaydıyla her türlü tahvilat ve her türlü menkul kıymet çıkarmak </p> 
+   <p>s) Aracılık yapmamak, menkul kıymet ve portföy yöneticiliğinde bulunmamak; özellikle Sermaye Piyasası Kanunu'nun 15. maddesinin son fıkrası başta olmak üzere yürürlükteki mevzuat yükümlülüklerine aykırılık teşkil etmemek ve öncelikle Sermaye Piyasası Kurulu izni olmak üzere gerekli kılınan tüm yasal izinleri almak şartıyla şirket faaliyetleri ile ilgili olarak veya bilcümle nedenlerle yerli ve/veya yabancı gerçek ve/veya tüzel kişilerle şirket kurmak, mevcut veya kurulacak şirketlere iştirak etmek, mevcut veya kurulacak şirketlerin hisse senetlerini veya paylarını satın almak, tahvil almak, diğer her tür menkul kıymeti almak, bil cümle iktisap ettiği değerleri gerektiğinde amacına uygun olarak elden çıkarmak. </p> 
+   <p>t) Sermaye Piyasası Kanunu'nun 15. maddesinin son fıkrası kapsamına girebilecek sonucu doğurmaması, yıl içinde yapılanlar dahil Genel Kurul'da ortakların bilgisine sunulması ve gerekli özel durum açıklamalarının yapılması suretiyle; sosyal sorumluluk kapsamında olanlar da dahil Sermaye Piyasası Kurulu tarafından belirlenen usul ve esaslara uygun olarak, üniversitelere, öğretim kurumlarına, kamu kurum ve kuruluşlarına, belediyelere, vakıflara, kamuya yararlı derneklere veya bu gibi kişi veya kurumlara bağış yapmak. </p> 
+   <p>u) Şirket iştirak ettiği şirketlerin ihtiyacı olan her türlü malı iç piyasadan ya da dış piyasadan almak, ithal etmek ve/veya iştirak ettiği şirketlerin mallarını ihraç etmek, mutemetlik yapmak, mutemetlik vermek; </p> 
+   <p>v) Sermaye Piyasası mevzuatına aykırı olmamak kaydıyla, Şirket her türlü nakdi ve gayrinakdi, maddi ve gayrimaddi alacakları ve hakları ile Şirkete karşı verilen taahhüt ve garantileri tahtı teminata almak için gayrimenkul ipoteği, menkul rehni, ticari işletme rehni, kefalet ve banka teminatları almak, borcu temlik etmek, bu teminatları feshetmek, çözmek, gereğinde nakde çevirmek veya iktisap etmek. Ancak, yatırımcıların aydınlatılmasını teminen, Sermaye Piyasası mevzuatının bu işlemlerle alakalı olarak zorunlu kıldığı hallerde gerekli özel durum açıklamalarını gerçekleştirmek. </p> 
+   <p>y) Şirket; Sermaye Piyasası Kurulu'nca ve Türk Ticaret Kanunu'nca belirlenen esaslar çerçevesinde kendi paylarını geri alabilir. Geri alım işlemleri süresince Sermaye Piyasası Kurulu'nun öngördüğü sınırlamalara uyulur. Türk Telekom ile Türk Silahlı Kuvvetleri, Milli Savunma Bakanlığı ve ülke güvenliği, emniyet ve asayiş ile ilgili diğer kamu kurum ve kuruluşları arasında telekomünikasyon hizmetlerinin yürütülmesine ilişkin olarak imzalanan ve imzalanacak tüm sözleşme ve protokollerin geçerliliği devam eder.</p> 
+   <p> <br> </p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Süresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Süresiz</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağımsız Denetim Kuruluşu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Sektörü </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BİLGİ VE İLETİŞİM / TELEKOMÜNİKASYON</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Aracının İşlem Gördüğü Pazar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>YILDIZ PAZAR</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Dahil Olduğu Endeksler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BIST 30 / BIST İLETİŞİM / BIST HİZMETLER / BIST YILDIZ / BIST ANKARA / BIST 500 / BIST 100 / BIST TÜM / BIST SÜRDÜRÜLEBİLİRLİK / BIST 50 / BIST KURUMSAL YÖNETİM</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote <br>Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Kote Edilen/İşlem Gören Sermaye Piyasası Aracının Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kotasyon/İşlem Görmeye Başlama Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın Bulunduğu Ülke </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın İsmi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Piyasanın/Borsanın İlgili Pazarı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Hisse Senedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 15/05/2008 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> YILDIZ PAZAR </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Tahvil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 20/05/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İrlanda </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Irish Stock Exchange </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tahvil ve Bono Piyasası </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ortaklık Hakkı Vermeyen Sermaye Piyasası Araçlarına İlişkin Bilgi </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Memurluğu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>ANKARA</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Tescil Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>30/06/1994</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Numarası </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>103633</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi No </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>8760052205</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi Dairesi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>ANKARA - Kurumlar Vergi Dairesi Müdürlüğü</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetim Kurulu Üyeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> Tüzel Kişi Üye Adına Hareket Eden Kişi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Cinsiyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetim Kuruluna İlk Seçilme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son Durum itibariyle Ortaklık Dışında Aldığı Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Sermayedeki Payı (%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Temsil Ettiği Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlık Beyanının Yer Aldığı KAP Duyurusunun Bağlantısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üyenin Aday Gösterme Komitesi Tarafından Değerlendirilip Değerlendirilmediği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlığını Kaybeden Üye Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yer Aldığı Komiteler ve Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İSMAİL İLHAN HATİPOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bürokrat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 05/06/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> T.C. Hazine ve Maliye Bakanlığı Bakan Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ÖMER FATİH SAYAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bürokrat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 04/09/2018 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ? Türk Telekomünikasyon A.Ş. Risklerin Erken Saptanması Ve Yönetimi Komitesi Üyesi ? Türk Telekomünikasyon A.Ş. Aday Gösterme Ve Ücret Komitesi Üyesi ? Türk Telekomünikasyon A.Ş. Erişim Altyapı Komitesi Başkanı ? Türk Telekomünikasyon A.Ş. Yatırım Komitesi Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> T.C. Ulaştırma ve Altyapı Bakanlığı, Bakan Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> C </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Risklerin Erken Saptanması ve Yönetimi Komitesi Üyesi, Aday Gösterme ve Ücret Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> YİĞİT BULUT </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 06/05/2014 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> "? Türk Telekomünikasyon A.Ş. Denetim Komitesi Başkanı ? Türk Telekomünikasyon A.Ş. Risklerin Erken Saptanması Ve Yönetimi Komitesi Başkanı ? Türk Telekomünikasyon A.Ş. Aday Gösterme Ve Ücret Komitesi Başkanı ? Türk Telekomünikasyon A.Ş. Erişim Altyapı Komitesi Üyesi ? Türk Telekomünikasyon A.Ş. Yatırım Komitesi Üyesi ? Türk Telekomünikasyon A.Ş. Tivibu Komitesi Başkanı " </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> T.C. Cumhurbaşkanı Başdanışmanı, T.C. Cumhurbaşkanlığı, Ekonomi Politikaları Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www. kap.org.tr/tr/ Bildirim/358251 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Risklerin Erken Saptanması ve Yönetimi Komitesi Başkanı, Denetim Komitesi Başkanı, Aday Gösterme ve Ücret Komitesi Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> YUNUS ARINCI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 05/06/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ? İstanbul Takas Ve Saklama Bankası A.Ş. Yönetim Kurulu Üyesi ? İstanbul Takas Ve Saklama Bankası A.Ş. Genel Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DENİZ YILMAZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bürokrat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 09/08/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - T.C. Hazine Ve Maliye Bakanlığı Finansal Piyasalar Ve Kambiyo Genel Müdürü - İhracatı Geliştirme A.Ş. Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ENVER İSKURT </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bürokrat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 31/03/2021 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> TTNET Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> T.C. Ulaştırma Ve Altyapı Bakanlığı Bakan Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1014683 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ÜMÜT ÖNAL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 31/03/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ? Türk Telekomünikasyon A.Ş. Genel Müdür/CEO ? Türk Telekomünikasyon A.Ş. Erişim Altyapı Komitesi Üyesi ? Türk Telekomünikasyon A.Ş. Tivibu Komitesi Üyesi ? TT Mobil İletişim Hizmetleri A.Ş. Genel Müdür/CEO ? TTNET A.Ş. Genel Müdür/CEO ? Net Ekran Televizyonculuk Ve Medya Hizmetleri A.Ş. Yönetim Kurulu Başkanı ? TT Ödeme Ve Elektronik Para Hizmetleri A.Ş. Yönetim Kurulu Başkanı ? TTES Elektrik Tedarik Satış A.Ş. Yönetim Kurulu Başkanı ? TT Ventures Proje Geliştirme A.Ş. Yönetim Kurulu Başkanı ? TT Destek Hizmetleri A.Ş. Yönetim Kurulu Başkanı ? TTG Finansal Teknolojiler A.Ş. Yönetim Kurulu Başkanı ? TT Finansman A.Ş. Yönetim Kurulu Başkanı ? Netsia Inc. (USA) Yönetim Kurulu Başkanı ESKİ: ? Türk Telekomünikasyon A.Ş. Satış Ve Müşteri Hizmetleri Genel Müdür Yardımcısı ? Türk Telekomünikasyon A.Ş.Pazarlama Ve Müşteri Hizmetleri Genel Müdür Yardımcısı (Vekaleten) ? TT Mobil İletişim Hizmetleri A.Ş. Satış Ve Müşteri Hizmetleri Genel Müdür Yardımcısı ? TT Mobil İletişim Hizmetleri A.Ş.Pazarlama Ve Müşteri Hizmetleri Genel Müdür Yardımcısı (Vekaleten) ? TTNET A.Ş. Satış Ve Müşteri Hizmetleri Genel Müdür Yardımcısı ? TTNET A.Ş. Pazarlama Ve Müşteri Hizmetleri Genel Müdür Yardımcısı (Vekaleten) ? Assistt Rehberlik Ve Müşteri Hizmetleri A.Ş. Yönetim Kurulu Başkan Yardımcısı ? Argela Yazılım Ve Bilişim Teknolojileri Sanayi Ve Ticaret A.Ş. Yönetim Kurulu Başkan Yardımcısı ? Sebit Eğitim Ve Bilgi Teknolojileri A.Ş. Yönetim Kurulu Üyesi ? 11818 Rehberlik Ve Müşteri Hizmetleri A.Ş. Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ? m-TOD (Mobil Telekomünikasyon Operatörleri Derneği) Yönetim Kurulu Üyesi ? RVD (Reklam Verenler Derneği) Yönetim Kurulu Üyesi ? YASED (Uluslararası Yatırımcılar Derneği) Üyesi ? DEİK (Dış Ekonomik İlişkiler Kurulu) Amerika İş Konseyi Temsilci Üyesi ? TVYD (Televizyon Yayıncıları Derneği) Üyesi ? Yıldız Teknopark Yönetim Kurulu Üyesi ? Türk Sanayicileri ve İş Adamları Derneği (TÜSİAD) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SELİM DURSUN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bürokrat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 04/09/2018 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ? Türk Telekomünikasyon A.Ş. Denetim Komitesi Üyesi ? Türk Telekomünikasyon A.Ş. Kurumsal Yönetim Komitesi Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ? 25. ve 26. Dönem Sivas Milletvekilli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www. kap.org.tr/tr/ Bildirim/708083 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi Üyesi, Denetim Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEHMET REŞAT BAHÇEEVLİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Avukat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 05/06/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetimde Söz Sahibi Olan Personel </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ÜMÜT ÖNAL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür, CEO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> "Türk Telekomünikasyon A.Ş. Genel Müdür/CEO, Türk Telekomünikasyon A.Ş. Erişim Altyapı Komitesi Üyesi, Türk Telekomünikasyon A.Ş. Tivibu Komitesi Üyesi, TT Mobil İletişim Hizmetleri A.Ş. Genel Müdür/CEO, TTNET A.Ş. Genel Müdür/CEO, Net Ekran Televizyonculuk Ve Medya Hizmetleri A.Ş. Yönetim Kurulu Başkanı, TT Ödeme Ve Elektronik Para Hizmetleri A.Ş. Yönetim Kurulu Başkanı, TTES Elektrik Tedarik Satış A.Ş. Yönetim Kurulu Başkanı, TT Ventures Proje Geliştirme A.Ş. Yönetim Kurulu Başkanı, TT Destek Hizmetleri A.Ş. Yönetim Kurulu Başkanı, TTG Finansal Teknolojiler A.Ş. Yönetim Kurulu Başkanı, TT Finansman A.Ş. Yönetim Kurulu Başkanı, Netsia Inc. (USA) Yönetim Kurulu Başkanı ESKİ:Türk Telekomünikasyon A.Ş. Satış Ve Müşteri Hizmetleri Genel Müdür Yardımcısı, Türk Telekomünikasyon A.Ş.Pazarlama Ve Müşteri Hizmetleri Genel Müdür Yardımcısı (Vekaleten) ? TT Mobil İletişim Hizmetleri A.Ş. Satış Ve Müşteri Hizmetleri Genel Müdür Yardımcısı, TT Mobil İletişim Hizmetleri A.Ş.Pazarlama Ve Müşteri Hizmetleri Genel Müdür Yardımcısı (Vekaleten), TTNET A.Ş. Satış Ve Müşteri Hizmetleri Genel Müdür Yardımcısı, TTNET A.Ş. Pazarlama Ve Müşteri Hizmetleri Genel Müdür Yardımcısı (Vekaleten), Assistt Rehberlik Ve Müşteri Hizmetleri A.Ş. Yönetim Kurulu Başkan Yardımcısı, Argela Yazılım Ve Bilişim Teknolojileri Sanayi Ve Ticaret A.Ş. Yönetim Kurulu Başkan Yardımcısı, Sebit Eğitim Ve Bilgi Teknolojileri A.Ş. Yönetim Kurulu Üyesi, 11818 Rehberlik Ve Müşteri Hizmetleri A.Ş. Yönetim Kurulu Başkanı" </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> "m-TOD (Mobil Telekomünikasyon Operatörleri Derneği) Yönetim Kurulu Üyesi ? RVD (Reklam Verenler Derneği) Yönetim Kurulu Üyesi ? YASED (Uluslararası Yatırımcılar Derneği) Üyesi ? DEİK (Dış Ekonomik İlişkiler Kurulu) Amerika İş Konseyi Temsilci Üyesi ? TVYD (Televizyon Yayıncıları Derneği) Üyesi ? Yıldız Teknopark Yönetim Kurulu Üyesi ? Türk Sanayicileri ve İş Adamları Derneği (TÜSİAD)" </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ÖMER KARADEMİR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Finans Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ALİ ARIÖZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Destek Hizmetleri ve Satınalma Yönetimi Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İSKENDER BAYRAK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İnsan Kaynakları Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Çalışan Deneyimi ve Ücret Yönetimi Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUSTAFA ÇAVUŞOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İç Denetim Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> OSMAN ÇOLAK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bireysel Satış Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> CEO Ofis Direktörü, Kanal Operasyonları Direktörü, Satış Geliştirme Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUSTAFA ESER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kurumsal Satış Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kamu Satış Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GÖKHAN EVREN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BT Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Toptan Hizmetler Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AHMET KAMİL GENÇEL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Strateji ve Toptan Hizmetler Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Strateji, Yatırım ve İştirak Yönetimi Başkanı, Toptan Satış Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SERDAR TORAMAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kurumsal Risk Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Innova CEO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TAHSİN KAPLAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Hukuk ve Regülasyon Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Avukat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ZAFER ORHAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Network Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Makine Mühendisi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ZEYNEP ÖZDEN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Pazarlama ve Müşteri Deneyimi Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Pazarlama Zekası ve Müşteri Deneyimi Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ödenmiş/Çıkarılmış Sermaye </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">3500000000.00</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Kayıtlı Sermaye Tavanı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayede Doğrudan %5 veya Daha Fazla Paya veya Oy Hakkına Sahip Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Oy Hakkı Oranı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TÜRKİYE VARLIK FONU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 2.158.800.000,02 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 61,68 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 61,68 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> T.C. HAZİNE VE MALİYE BAKANLIĞI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 875.011.884,99 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 25 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DİĞER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 466.188.114,99 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 13,32 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 13,32 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TOPLAM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 3.500.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel Kişiler </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Fiili Dolaşımdaki Paylar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayeyi Temsil Eden Paylara İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama / Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Beher Payın Nominal Değeri (TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Payların Nominal Değeri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Sermayeye Oranı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> İmtiyaz Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Borsada İşlem Görüp Görmediği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> A </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0,01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1925000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 55 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> Yönetim ve Denetim Kurulu Üyeliğine Aday gösterme hakkına haiz </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görmüyor </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> B </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0,01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 1049999999.99 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 30 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> Yönetim ve Denetim Kurulu Üyeliğine Aday gösterme hakkına haiz </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görmüyor </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> C </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0,01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0.01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> Veto Hakkına haiz </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görmüyor </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> D </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0,01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 525000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 15 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> İmtiyazsız </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görüyor </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağlı Ortaklıklar, Finansal Duran Varlıklar ile Finansal Yatırımlar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Faaliyet Konusu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödenmiş/Çıkarılmış Sermayesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket ile Olan İlişkinin Niteliği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT Mobil İletişim Hizmetleri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Mobil İletişim Hizmetleri Sağlayıcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 15800080847,95 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 15800080847,95 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TTNET A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İnternet Servis Sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 514961900 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 514961900 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Argela Yazılım ve Bilişim Teknolojileri San. ve Tic. A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon Çözüm Sistemleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10769596,45 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10769596,45 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Innova Bilişim Çözümleri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon Çözüm Sistemleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 33920945,64 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 33920945,64 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Assistt Rehberlik ve Müşteri Hizmetleri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Çağrı Merkezi ve Müşteri İlişkileri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 36000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 36000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sebit Eğitim ve Bilgi Teknolojileri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Veri Tabanlı Eğitim Hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> NETSIA Inc </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon Çözüm Sistemleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200001 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200001 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sebit LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Veri Tabanlı Eğitim Hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT International Holding B.V. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding Şirketi </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 159169000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 159169000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International AT Gmbh </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 36400000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 36400000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International HU Kft </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3061290000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3061290000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> HUF </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> S.C.EuroWeb Romania SRL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 575000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 575000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RON </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 99,96 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International BG EOOD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5200 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5200 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> BGN </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International CZ sro </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 167357300 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 167357300 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CZK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International SRB d.o.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 30000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 30000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International Telekomunikacjie d.o.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8763 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8763 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International SK s.r.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3024500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3024500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT International Telekomünikasyon Sanayi ve Ticaret Ltd. Şti. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 43000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 43000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International UA TOV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> UAH </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International srl </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International DOOEL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International RU o.o.o </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RUB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Türk Telekom International d.o.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> HRK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT International HK Limited </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telekomünikasyon altyapı ve bant genişliği sağlayıcı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TTES Elektrik Tedarik Satış A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kullanıcılara Yönelik Elektrik Ticareti </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT Ödeme ve Elektronik Para Hizmetleri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödeme ve Elektronik Para Hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran Televizyonculuk ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran1 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran2 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran3 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran4 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran6 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran10 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 300000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Net Ekran11 Televizyon ve Medya Hizmetleri A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Televizyon ve Radyo Yayıncılığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Cetel Telekom İletişim Sanayi ve Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Arnavutluk Sabit Hat Operatörü Hakim Ortağı olan SPV </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 70000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3422 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 0,005 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT Satış ve Dağıtım Hizmetleri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Satış ve Dağıtım Hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10050000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10050000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT Ventures Proje Geliştirme A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Diğer projelere yönelik mühendislik ve danışmanlık faaliyetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 230750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 230750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DoctorTurkey İnternet Sağlık Destek Hizmetleri AŞ. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İnternet üzerinden sağlık danışmanlık hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 114457,84 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 19457,84 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 17 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ayasis Yazılım ve Bilişim Teknolojileri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bilgisayar Programlama Faaliyetleri (Sistem, veri tabanı, network, web sayfası vb. yazılımları ile müşteriye özel yazılımların kodlanması vb) </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 487201 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 33600 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 6,8965 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Otak Teknoloji A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bilişim, siber güvenlik ve haberleşme alanında ar-ge faaliyetleri gerçekleştirmek </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Eltemtek Elektrik Tesisleri Mühendislik Müteahitlik Danışmanlık ve Tic. A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Elektrik enerjisi tesisleri ile ilgili her türlü mühendislik hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 275000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 11 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Eltemtek ARGE A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Enerji konusunda ar-ge çalışmaları ve yazılım geliştirmeleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 11 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TÜV Austrıa Eltemtek Enerji A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Enerji alanında tesis ve ekipman sertifikasyonu </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 13475 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5,39 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT Destek Hizmetleri A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Tesis bünyesindeki kombine destek hizmetleri (işletme veya tesis bünyesinde temizlik, bakım, çöplerin bertarafı, koruma ve güvenlik, posta dağıtımı, çamaşırhane, resepsiyon vb. yardımcı hizmet ve görevlerin birden fazlasının sağlanması) </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Virasoft Yazılım Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bilgisayar programlama faaliyetleri (sistem, veri tabanı, network, web sayfası vb. yazılımları ile müşteriye özel yazılımların kodlanması vb) </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 216450 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 27128 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 12,53 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> APPYAP Teknoloji ve Bilişim A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Web portalı ve bilgisayar programlama faaliyetleri (sistem, veri tabanı, network, web sayfası vb. yazılımları ile müşteriye özel yazılımların kodlanması vb) </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dolaylı Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Syntonym Limited </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket, görsel veri işleyen ve depolayan kurumların ellerindeki verilerin GDPR ve KVKK uyumlu bir şekilde işlenebilmesini, paylaşılabilmesini ve yapay zeka eğitim verisi olarak kullanılabilmesini sağlayan teknolojiler geliştirmektedir. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1348655 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 53639 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> GBP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3,98 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Quantwifi Bilişim ve Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İnternet servisi sağlayıcı telekom firmaları için ev içi kablosuz bağlantı ve internet bağlantı kalitesini ölçen, sorunları tespit edip giderme yolları öneren bulut ve makine öğrenmesi tabanlı çözümler geliştirmektedir. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 58824 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8824 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 15 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> B2metrik Yazılım ve Bilişim A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketlerin verilerini anlamlandırarak müşteri yolculuğu öngörüleri, risk skorlama, müşteri hareket tahminlemeleri, müşteri segmentasyonu, kampanya ve fiyat optimizasyon süreci yönetimi gibi birçok farklı yapay zeka temelli analitik çözümler oluşturmakta ve müşterilerin verilerinden gelecek tahminlemeleri yaparak yüksek doğruluk ve tahmin oranları sağlamaktadır. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 56178 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3511 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 6,25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TTG Finansal Teknolojiler A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Finansal Danışmanlık Hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 205000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 205000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Earnado Yazılım A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Earnado, firmaların SEO, sosyal medya ve reklam yönetimi yapmalarını; algoritmalar ile pazarlama kararları vermesini sağlayan karar destek çözümüdür. Earnado ile firmalar dijital pazarlama ile büyüyebilmek için Google, Facebook ve rakiplerden aldığı veriler ile yol haritaları oluşturabilir, aksiyon alabilmek için kararlar destek sistemini kullanabilir ve "Earnie" adı verilen online çalışanlar ile aksiyonları hayata geçirebilirler. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 61113 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1556 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2,55 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Yıldız Tekno Girişim Sermayesi Yatırım Ortaklığı A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket, girişim sermayesi yatırımları, sermaye piyasası araçları ve Sermaye Piyasası Kurulunca belirlenecek diğer varlık ve işlemlerden oluşan portföyü işletmek amacıyla paylarını ihraç etmek üzere kurulan ve sermaye piyasası mevzuatında izin verilen diğer faaliyetlerde bulunabilen sermaye piyasası kurumu niteliğinde kayıtlı sermayeli anonim ortaklıktır. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 47500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10,53 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TTG Ventures Marketing Inc. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yazılım programlarının perakende ve toptan ticareti </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TT Finansman A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Tüketici finansman şirketi faaliyetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> EBA Garaj A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Online Ebeveyn ve Yetişkin Danışmanlık Platformu Kidolog, çocuk gelişim uzmanlarından emzirme danışmanlarına, psikologlardan diyetisyenlere kadar 11 farklı kategorideki uzmanlardan anında, birebir, online danışmanlık hizmeti alınabilmesini sağlayan danışmanlık platformudur. Danışanlar, Kidolog?da tamamı onaylı olan uzmanların profillerini inceleyerek istedikleri tarih ve saatte randevu oluşturabilir hem webden hem appden online görüntülü görüşme yapabilirler. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 63703 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 847 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1,33 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AssisTT Holland B.V </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Çağrı merkezi faaliyetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 25000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 25000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Acsight İş Çözümleri Araştırma ve Danışmanlık A.Ş. / Cloud4Feed </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Cloud4Feed, gizli müşteri, çıkış anketi gibi müşteri deneyimi ölçüm süreçlerini dijitalleştirerek ve bir işletmenin müşterileri ile temas ettiği tüm noktalardan yüksek sayıda müşteri geri bildirimi toplayarak yapay zeka destekli analizler ve anlık aksiyonlar ile müşteri bağlılık ve sadakatini arttırabilecekleri bir müşterinin sesi yönetimi platformudur. Cloud4Feed ile kullanıcılar herhangi bir kod girmeden işlemsel ve ilişkisel ölçümler için veri modellerini oluşturabilir, formlarını ve iş akışlarını rahatlıkla tasarlayabilir ve tüm müşteri geri bildirimlerinden doğru iç görüler elde edebilir. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 57437 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1064 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1,85 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MythAI Yapay Zeka ve Tekstil A.Ş/ MYTHAI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Yapay zeka destekli yazılımı sayesinde desen tasarım sürecini haftalardan saniyelere düşürüp, tasarım sürecini optimize ederek şirketlere zaman ve para kazandırma hedefi ile yola çıkan MYTH, moda, tekstil, ev tekstili, oyun tasarımı, ambalaj tasarımı ve metaverse gibi sektörlerde hizmet veriyor. </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 54520 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1636 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Menkul Kıymet </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> DİĞER HUSUSLAR </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+ </body>
+</html>

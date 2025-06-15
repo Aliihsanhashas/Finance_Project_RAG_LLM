@@ -1,0 +1,933 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">TÜRKİYE GARANTİ BANKASI A.Ş.</h1>
+  <h4 class="type-normal vcell exportTitle"> İşletme Adı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>GARANTİ BBVA</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Merkez Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>LEVENT NİSPETİYE MAHALLESİ AYTAR CADDESİ NO:2 34340 BEŞİKTAŞ, İSTANBUL</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İletişim Adresi, Telefon ve Faks Bilgileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Faks </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> LEVENT NİSPETİYE MAHALLESİ AYTAR CADDESİ NO:2 34340 BEŞİKTAŞ/İSTANBUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 02123181818 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 02123181888 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Üretim Tesislerinin Bulunduğu Adresler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p>-</p> 
+   <p class="MsoNormal"><br></p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Elektronik Posta Adresi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> HissedarlarVeIstirakler@garantibbva.com.tr </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İnternet Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>www.garantibbva.com.tr www.garantibbvayatirimciiliskileri.com www.garantibbvainvestorrelations.com</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ad-Soyad </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevlendirme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> E-posta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belge No </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ÖMER ÇİRKİN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> VERGİ İŞLEMLERİ YÖNETİMİ MÜDÜRLÜĞÜ DİREKTÖR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 02123182942 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> HissedarlarVeIstirakler@garantibbva.com.tr </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 3 Lisansı-Kurumsal Yönetim Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 208709-701481 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Merkez Dışı Örgütleri (Şube, İrtibat Bürosu) </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Müdür veya Sorumlunun Adı ve Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Faks </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Faaliyete Başlanmasına İlişkin İzin Tarihi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Faaliyet Konusu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p class="Default" style="textalign:justify"><span style="fontsize:11.0pt">A) Her türlü Banka İşlemleri, </span></p> 
+   <p></p> 
+   <p></p> 
+   <p class="Default" style="textalign:justify"><span style="fontsize:11.0pt">B) Bankacılık Kanununun verdiği imkanlar dairesinde her çeşit teşebbüslere girişmek ve şirket kurmak ve bunların hisse senetlerini satın almak ve satmak, </span></p> 
+   <p></p> 
+   <p></p> 
+   <p class="Default" style="textalign:justify"><span style="fontsize:11.0pt">C) Bankacılıkta müteraffik vekalet, sigorta acenteliği, komisyon ve nakliye işleri yapmak, </span></p> 
+   <p></p> 
+   <p></p> 
+   <p class="Default" style="textalign:justify"><span style="fontsize:11.0pt">D) Sermaye Piyasası Kurulundan gerekli izinlerin alınması kaydıyla, Türkiye Cumhuriyeti ve her türlü resmi ve özel kuruluşların ihraç edeceği borçlanma senetlerini, hazine tahvil ve bonolarını ve her türlü sermaye piyasası araçlarını satın almak ve satmak, </span></p> 
+   <p></p> 
+   <p></p> 
+   <p class="Default" style="textalign:justify"><span style="fontsize:11.0pt">E) Dış memleketlerle iktisadi münasebetleri geliştirmek, </span></p> 
+   <p></p> 
+   <p></p> 
+   <p> </p> 
+   <p class="Default" style="textalign:justify"><span style="fontsize:11.0pt">F) Bankacılık Kanununa aykırı olmamak şartı ile her türlü iktisadi faaliyetlerde bulunmak, </span></p> 
+   <p></p> 
+   <p></p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Süresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Süresiz</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağımsız Denetim Kuruluşu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Sektörü </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>MALİ KURULUŞLAR / BANKALAR</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Faaliyet Durumu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Faaliyette</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yetki Belgeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Yetki Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Numarası </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Emir İletimine Aracılık Faaliyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 01/01/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> BNK-036(055) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> İşlem Aracılığı Faaliyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 01/01/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> BNK-036(055) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Portföy Aracılığı Faaliyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 01/01/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> BNK-036(055) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Sınırlı Saklama Faaliyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 01/01/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> BNK-036(055) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Genel Saklama Hizmeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> 01/01/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:20%;"> BNK-036(055) </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Borsa Üyelik Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>06/06/1990</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Faaliyet Gösterilen Pazarlar ve Piyasalar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>YILDIZ PAZAR, BIST BANKA / -BIST KURUMSAL YÖNETİM / -BIST MALİ / -BIST SÜRDÜRÜLEBİLİRLİK ENDEKSİ / -BIST TEMETTÜ / -BIST TÜM / -BIST YILDIZ / -BIST 100 / -BIST 30 / -BIST 50</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Aracının İşlem Gördüğü Pazar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>YILDIZ PAZAR / YAPILANDIRILMIŞ ÜRÜNLER VE FON PAZARI / KESİN ALIM SATIM PAZARI-(NİTELİKLİ YATIRIMCILAR ARASINDA)</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Dahil Olduğu Endeksler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BIST 500 / BIST TEMETTÜ 25 / BIST SÜRDÜRÜLEBİLİRLİK / BIST KURUMSAL YÖNETİM / BIST YILDIZ / BIST LİKİT BANKA / BIST MALİ / BIST 30 / BIST TEMETTÜ / BIST 100 / BIST 50 / BIST BANKA / BIST SÜRDÜRÜLEBİLİRLİK 25 / BIST TÜM</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote <br>Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Kote Edilen/İşlem Gören Sermaye Piyasası Aracının Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kotasyon/İşlem Görmeye Başlama Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın Bulunduğu Ülke </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın İsmi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Piyasanın/Borsanın İlgili Pazarı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HİSSE SENEDİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 06/06/1990 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> YILDIZ PAZAR </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HİSSE SENEDİ DEPO SERTİFİKALARI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 26/06/2012 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> ABD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TEZGAH ÜSTÜ PİYASALAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> OTCQX INTERNATIONAL PREMIER </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BANKA BONOSU / TAHVİL (Yurtiçi) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 07/10/2011 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TÜRKİYE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> BORSA İSTANBUL A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> TAHVİL VE BONO PİYASASI </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TAHVİL (Yurtdışı) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 01/04/2011 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İNGİLTERE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> LONDRA BORSASI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TAHVİL (Yurtdışı) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 07/03/2013 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İRLANDA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İRLANDA BORSASI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ortaklık Hakkı Vermeyen Sermaye Piyasası Araçlarına İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sermaye Piyasası Aracının Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavan Tutarı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi/Yurtdışı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Başlangıç Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Bitiş Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Satış Yöntemi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"> Varsa Fon Kullanıcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Tahvil/Bono </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"> 300000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtdışı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 15/11/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 15/11/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtdışı Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Tahvil/Bono </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"> 2000000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtdışı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 04/04/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 04/04/2025 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtdışı Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Memurluğu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Tescil Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>05/08/2008</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Numarası </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>159422</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi No </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>8790017566</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi Dairesi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL - Büyük Mükellefler Vergi Dairesi Müdürlüğü</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetim Kurulu Üyeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> Tüzel Kişi Üye Adına Hareket Eden Kişi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Cinsiyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetim Kuruluna İlk Seçilme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son Durum itibariyle Ortaklık Dışında Aldığı Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Sermayedeki Payı (%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Temsil Ettiği Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlık Beyanının Yer Aldığı KAP Duyurusunun Bağlantısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üyenin Aday Gösterme Komitesi Tarafından Değerlendirilip Değerlendirilmediği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlığını Kaybeden Üye Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yer Aldığı Komiteler ve Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SÜLEYMAN SÖZEN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 29/05/1997 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Santa Farma İlaç Sanayi A.Ş. Yönetim Kurulu Üyesi, Öğretmen Akademisi Vakfı Mütevelli Heyeti Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Risk Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MAHMUT AKTEN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 02/08/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Garantibank International N.V., Garanti Yatırım ve Menkul Kıymetler A.Ş., Garanti Emeklilik ve Hayat A.Ş., Garanti Faktoring Hizmetleri A.Ş., Garanti Finansal Kiralama A.Ş., Garanti Filo Yönetimi Hizmetleri A.Ş. , Garanti Ödeme Sistemleri A.Ş., Garanti BBVA Dijital Varlıklar A.Ş., Garanti BBVA Finansal Teknolojiler A.Ş., Garanti Ödeme ve Elektronik Para Hizmetleri A.Ş., Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hizmetleri A.Ş. Yönetim Kurulu Başkanı ve Öğretmen Akademisi Vakfı Mütevelli Heyeti Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kredi Komitesi,Bilgi Güvenliği Komitesi, BT Strateji Komitesi, Kurumsal Güvence Komitesi, Portfolyo Strateji Komitesi; Aktif Pasif Komitesi, Gider Yönetimi ve Verimlilik Komitesi, Kurumsal Kriz ve iş Sürekliliği Yönetim Komitesi, Sürdürülebilirlik ve Sorumlu Bankacılık Komitesi, Etik ve Doğruluk Komitesi, </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> JORGE SAENZ -AZCUNAGA CARRANZA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> JORGE SAENZ -AZCUNAGA CARRANZA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 24/03/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Vekili, Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> BBVA Ülke Ağı Gözlemleme Başkanlığı ve Global Liderlik Takımı Üyeliği, BBVA Meksika Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Denetim Komitesi, Kurumsal Yönetim Komitesi, Ücretlendirme Komitesi, Kredi Komitesi Yedek Üye </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> JAIME SAENZ DE TEJADA PULIDO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> JAIME SAENZ DE TEJADA PULIDO </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 02/10/2014 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> BBVA Grubu Küresel Ticari Müşteri Çözümleri Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kredi Komitesi, Risk Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SAİT ERGUN ÖZEN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 14/05/2003 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Beymen Perakende ve Tekstil Yatırımları A.Ş. Yönetim Kurulu Başkanı, WeSoda ve Atom Bank Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Ücretlendirme Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BELKIS SEMA YURDUM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 30/04/2013 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Garanti Bank S.A. (Romanya) Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirilmedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi, Denetim Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> RAFAEL SALINAS MARTINEZ DE LECEA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> RAFAEL SALINAS MARTINEZ DE LECEA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 08/05/2017 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> BBVA Meksika Yönetim Kurulu Üyesi, Fundacion Amigos de la Alhambra Mütevelli Heyeti Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kredi Komitesi Yedek Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEVHİBE CANAN ÖZSOY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 04/04/2019 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> ABFT (Amerikan Şirketler Derneği) Başkan Vekili, SEV Vakfı Mütevelli Heyeti Üyesi, Yönetim Kurulu Başkan Vekili, Tekfen Yenilenebilir Enerji Çözümleri A.Ş. Yönetim Kurulu Üyesi, Biotrend Çevre ve Enerji Yatırımları A.Ş. Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AVNİ AYDIN DÜREN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Avukat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 17/06/2020 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi, Genel Müdür Yardımcısı, Kurumsal Sekreterlik </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Garantibank International N.V. Yönetim Kurulu Başkan Vekili, T. Garanti Bankası A.Ş. Emekli ve Yardım Sandığı Vakfı Yönetim Kurulu Başkan Vekili, Garanti Ödeme Sistemleri A.Ş. Yönetim Kurulu Üyesi, Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hizmetleri A.Ş. Yönetim Kurulu Üyesi, Garanti Yatırım Menkul Kıymetler A.Ş. Yönetim Kurulu Üyesi, Garanti Kültür A.Ş. Yönetim Kurulu Üyesi, Öğretmen Akademisi Vakfı Mütevelli Heyeti Üyesi, Garanti BBVA Fİnansal Teknolojiler A.Ş. Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi; Bilgi Sistemleri Yönlendirme Komitesi,Kurumsal Güvence Komitesi, Portfolyo Strateji Komitesi,Gider Yönetimi ve Verimlilik Komitesi, Operasyonel Risk Kabul ve Ürün Yönetimi Komitesi, Etik ve Doğruluk Komitesi, Bilgi Güvenliği Komitesi, BT Strateji Komitesi, Veri Paylaşım Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> PABLO ALFONSO PASTOR MUNOZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> PABLO ALFONSO PASTOR MUNOZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 31/03/2021 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> BBVA Peru ve BBVA Forum Şili Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kredi Komitesi, Risk Komitesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> EBRU OĞAN KNOTTNERUS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 27/03/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Denetim Komitesi </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetimde Söz Sahibi Olan Personel </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MAHMUT AKTEN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür-Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garantibank International N.V., Garanti Yatırım ve Menkul Kıymetler A.Ş., Garanti Emeklilik ve Hayat A.Ş., Garanti Faktoring Hizmetleri A.Ş., Garanti Finansal Kiralama A.Ş., Garanti Filo Yönetimi Hizmetleri A.Ş. , Garanti Ödeme Sistemleri A.Ş., Garanti BBVA Dijital Varlıklar A.Ş., Garanti BBVA Finansal Teknolojiler A.Ş., Garanti Ödeme ve Elektronik Para Hizmetleri A.Ş., Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hizmetleri A.Ş. Yönetim Kurulu Başkanı ve Öğretmen Akademisi Vakfı Mütevelli Heyeti Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İLKER KURUÖZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Direktör </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti BBVA Ödeme Sistemleri YK Üyesi , Garanti Yatırım Menkul Kıymetler A.Ş YK Üyesi, SALT Garanti Kültür A.Ş YK Üyesi, Garanti BBVA Emekli ve Yardım Sandığı Vakfı YK Üyesi, Garanti BBVA Finansal Teknolojiler A.Ş. YK Üyesi, Öğretmen Akademisi Vakfı YK ve Mütevelliler Heyeti Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AVNİ AYDIN DÜREN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Avukat </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı, Kurumsal Sekreterlik </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garantibank International N.V. Yönetim Kurulu Başkan Vekili, T. Garanti Bankası A.Ş. Emekli ve Yardım Sandığı Vakfı Yönetim Kurulu Başkan Vekili, Garanti Ödeme Sistemleri A.Ş. Yönetim Kurulu Üyesi, Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hizmetleri A.Ş. Yönetim Kurulu Üyesi, Garanti Yatırım Menkul Kıymetler A.Ş. Yönetim Kurulu Üyesi, Garanti Kültür A.Ş. Yönetim Kurulu Üyesi, Öğretmen Akademisi Vakfı Mütevelli Heyeti Üyesi, Garanti BBVA Fİnansal Teknolojiler A.Ş. Yönetim Kurulu Başkan Vekili </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AYDIN GÜLER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Koordinatör </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Faktoring Hizmetleri A.Ş. YK Üyesi , Garanti Finansal Kiralama A.Ş. YK Üyesi, Garanti Emeklilik ve Hayat A.Ş. YK Üyesi, Garanti Yatırım ve Menkul Kıymetler A.Ş. YK Üyesi, Garanti Ödeme Sistemleri A.Ş., Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hizmetleri A.Ş.YK Üyesi, Garanti Filo Yönetimi Hizmetleri A.Ş. YK Üyesi, Garanti Kültür A.Ş. YK Üyesi, Garanti BBVA Emekli ve Yardım Sandığı Vakfı?nda YK Üyesi, Öğretmen Akademisi Vakfı Mütevelli Heyet Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> CEMAL ONARAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Koordinatör </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Bank S.A. Yönetim Kurulu Üyesi(Romanya), Garanti Filo Yönetimi Hizmetleri A.Ş. Yönetim Kurulu Başkanı, Garanti Finansal Kiralama A.Ş. Yönetim Kurulu Üyesi, Garanti Faktoring A.Ş. Yönetim Kurulu Üyesi, Garanti Emeklilik ve Hayat A.Ş. Yönetim Kurulu Üyesi, Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hiz A.Ş. Yönetim Kurulu Başkan Yardımcısı, Garanti Bankası A.Ş Memur ve Müstahdemleri Emekli ve Yar. San. Vakfı Yönetim Kurulu Üyesi, Garanti Ödeme Sistemleri A.Ş YK Üyesi, </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MURAT ATAY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti BBVA Morgage Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Bank S.A. YK Üyesi(Romanya), Garanti Filo Yönetimi Hizmetleri A.Ş. YK Üyesi Garanti Finansal Kiralama A.Ş. YK Üyesi, Garanti Faktoring A.Ş. YK Üyesi, Garanti Emeklilik ve Hayat A.Ş. YK Üyesi, Tasfiye Halinde Garanti Konut Finansmanı Danışmanlık Hiz A.Ş. YK Üyesi, Garanti Bankası A.Ş Memur ve Müstahdemleri Emekli ve Yar. San. Vakfı YK Üyesi, Garanti Ödeme Sistemleri A.Ş YK Üyesi, Öğretmen Akademisi Vakfı YK Üyesi, Garanti BBVA Kripto Varlık Alım Satım Platformu A.Ş YK Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SİBEL KAYA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bölge Müdürü, IK Direktör </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Finansal Kiralama A.Ş YK Üyesi, Garanti Faktoring A.Ş YK Üyesi, Garanti Ödeme Sistemleri A.Ş YK Üyesi, Garanti Emeklilik ve Hayat A.Ş YK Üyesi , Garanti Ödeme ve Elektronik Para Hizmetleri A.Ş YKÜyesi Öğretmen Akademisi Vakfı YK Üyesi, Garanti BBVA Filo A.Ş YK Üyesi, Garanti Kültür, A.Ş YK Üyesi, Garanti BBVA Emekli ve Yardım Sandığı Vakfı YK Üyesi, Garanti BBVA Kripto Varlık Alım Satım Platformu A.Ş YK Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> CEREN ACER KEZİK </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Direktör </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Ödeme Sistemleri A.Ş YK Üyesi, Garanti Emeklilik ve Hayat A.Ş YK Üyesi, Tasfiye halinde Garanti Konut Finansmanı Danışmanlık A.Ş YK Üyesi , Bankalararası Kart Merkezi Y Üyesi, Garanti Ödeme ve Elektronik Para Hizmetleri A.Ş YK Üyesi ,Öğretmen Akademisi Vakfı Yönetim Kurulu Başkan Yard., Garanti Finansal Teknolojiler A.Ş YK Üyesi , Garanti Yatırım Menkul Kıymetler A.Ş YK Üyesi, Garanti BBVA Kripto Varlık Alım Satım Platformu A.Ş YK Üyesi, Garanti Kültür A.Ş YK Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SİNEM EDİGE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti BBVA Özel Bankacılık Direktör, Garanti BBVA Portföy Genel Müdür, Garanti BBVA Yatırım Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Yatırım Menkul Kıymetler A.Ş YK Üyesi, Öğretmen Akademisi Vakfı YK Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> EBRU TAŞCI FİRUZBAY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> GENEL MÜDÜR YARDIMCISI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Bankacı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Garanti Faktoring A.Ş YK Üyesi, Garanti Ödeme Sistemleri A.Ş YK Üyesi, Öğretmen Akademisi Vakfı YK Başkanı; Garanti Yatırım Menkul Kıymetler A.Ş YK Üyesi </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Faaliyetleri ile ilgili İmza Yetkisine Sahip Şahıslar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUSTAFA BARIŞ KARAAYVAZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> GLOBAL PİYASALAR ALIM SATIM MÜD DİREKTÖRÜ </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MURAT BEHLÜL TUNCEL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> PİYASALARI VE HAZİNE OPERASYON MÜD DİREKTÖRÜ </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SİNEM EDİGE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 80%;"> GENEL MÜDÜR YARDIMCISI </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ödenmiş/Çıkarılmış Sermaye </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">4200000000.00</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Kayıtlı Sermaye Tavanı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">25000000000</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayede Doğrudan %5 veya Daha Fazla Paya veya Oy Hakkına Sahip Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Oy Hakkı Oranı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BANCO BILBAO VIZCAYA ARGENTARIA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 3.610.895.890,19 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 85,97 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 85,97 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DİĞER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 589.104.109,81 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 14,03 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 14,03 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TOPLAM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 4.200.000.000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel Kişiler </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Fiili Dolaşımdaki Paylar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayeyi Temsil Eden Paylara İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama / Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Beher Payın Nominal Değeri (TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Payların Nominal Değeri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Sermayeye Oranı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> İmtiyaz Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Borsada İşlem Görüp Görmediği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0,01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 4200000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> yok </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görüyor </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağlı Ortaklıklar, Finansal Duran Varlıklar ile Finansal Yatırımlar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Faaliyet Konusu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödenmiş/Çıkarılmış Sermayesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket ile Olan İlişkinin Niteliği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ FİNANSAL KİRALAMA A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANSAL KİRALAMA </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 350000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 349999992,21 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ PORTFÖY YÖNETİMİ A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> PORTFÖY YÖNETİMİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ YATIRIM MENKUL KIYMETLER A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> ARACILIK HİZMETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ KONUT FİNANSMANI DANIŞMANLIK HİZMETLERİ A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> DANIŞMANLIK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 749997 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ KÜLTÜR A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> KÜLTÜR VE SANAT FAALİYETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ ÖDEME SİSTEMLERİ A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> DANIŞMANLIK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 98500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 98500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ EMEKLİLİK VE HAYAT A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> SİGORTA </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 424566290 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 84,91 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ FAKTORİNG A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FAKTORİNG HİZMETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 79500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 65065635,06 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 81,84 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ HOLDİNG B.V. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANSAL HİZMETLER </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 438888600 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 438888600 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ BANK INTERNATIONAL N.V. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BANKACILIK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 136836000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 136836000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BANKALARARASI KART.MERK.A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> KART HİZMETİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 177492990 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8827241,91 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4,98 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> T.KREDİ KAYIT BÜROSU A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANS </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7425000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 675000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9,09 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANS SAKLAMA </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 29685000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4,9475 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> YATIRIM FİNANSMAN A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> ARACILIK VE YATIRIM BANKACILIĞI HİZMETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 63500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 489294,85 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 0,77 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> T.C.MERKEZ BANKASI A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANS </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 25000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 620,8 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2,48 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> KREDİ GARANTİ FONU A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FON YÖNETİMİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 513134229,53 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7658719,86 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1,4925 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BORSA İSTANBUL A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BORSA </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 423234000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1284639,67 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 0,3 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> JCR AVRASYA DERECELENDİRME A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANSAL DANIŞMANLIK FAALİYETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1427950 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2,8559 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BİRLEŞİK İPOTEK FİNANSMAN A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> LİKİDİTE VE MENKUL KIYMETLEŞTİRME FAALİYETİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4166665 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8,33 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ ÖDEME VE ELEKTRONİK PARA HİZMETLERİ A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANSAL DANIŞMANLIK FAALİYETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 195000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 97500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> İHRACATI GELİŞTİRME A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İHRACAT KREDİLERİ İÇİN KEFALET VE GARANTİ FAALİYETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4084757783,96 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 55919527,25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1,37 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İŞTİRAK </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GARANTİ BBVA FİNANSAL TEKNOLOJİLERİ A.Ş </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> FİNANSAL TEKNOLOJİLER KONUSUNDA DANIŞMANLIK FAALİYETLERİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 448000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 448000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> BAĞLI ORTAKLIK </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> DİĞER HUSUSLAR </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+ </body>
+</html>

@@ -1,0 +1,1847 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]--> 
+  <style>
+    body
+    {
+      text-align: left;
+    }
+</style> 
+ </head>
+ <body>
+  <h1 style="" id="companyOrFundNameArea">ARÇELİK A.Ş.</h1>
+  <h4 class="type-normal vcell exportTitle"> Merkez Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Karaağaç Caddesi No:2-6 Sütlüce 34445 Beyoğlu-İstanbul </p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İletişim Adresi, Telefon ve Faks Bilgileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adres </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Faks </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:1100px;"> Karaağaç Caddesi No:2-6 Sütlüce 34445 Beyoğlu-İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 0 212 314 34 34 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width:25%;"> 0 212 314 34 82 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Üretim Tesislerinin Bulunduğu Adresler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Eskişehir-Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Eskişehir-Fabrika 6</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Eskişehir-Kompresör İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İstanbul, Tuzla-Çamaşır Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İstanbul, Beylikdüzü-Solar Panel Fabrikası</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Tekirdağ, Çerkezköy-Elektronik İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Bolu-Pişirici Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Bolu-Pişirici Cihazlar İşletmesi - Fabrika 2</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Ankara-Bulaşık Makinası İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Tekirdağ, Çerkezköy-Beyaz Eşya Motor ve Küçük Ev Aletleri İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Tekirdağ, Çerkezköy-Çamaşır Kurutma Makinası İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Manisa-Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Manisa-Çamaşır Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Kocaeli, Gebze-Kima İşletmesi (Arçelik LG)</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Romanya Gaeşti, SC Arctic SA- Soğutucu Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Romanya Ulmi, SC Arctic SA- Çamaşır Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Rusya Kirzhach, Beko LLC - Buzdolabı ve Çamaşır Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Rusya Lipetsk, Indesit Hotpoint Appliances - Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Rusya Lipetsk, Indesit Hotpoint Appliances ? Çamaşır Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Güney Afrika Ezakheni, Defy Appliances (Proprietary) Ltd.- Soğutucu Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Güney Afrika Jacobs, Defy Appliances (Proprietary) Ltd.- Pişirici Cihazlar, Kurutucu ve Çamaşır Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Tayland Rayong, &nbsp;Beko Thai Co Ltd.- Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Pakistan Haydarabat, United Refrigeration Industries Ltd.- Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Pakistan Karaçi, Dawlance (Private) Ltd. - Çamaşır Makinesi ve Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Pakistan Karaçi, Dawlance (Private) Ltd. - Pişirici Cihazlar ve Klima İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Bangladeş Dakka, Singer Bangladesh Ltd. ? Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Bangladeş Dakka, Singer Bangladesh Ltd. ? Televizyon, Çamaşır Makinesi ve Klima İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Tayland Kabin Buri, Arçelik Hitachi Home Appliances (Thailand) Ltd. - Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Tayland Kabin Buri, Arçelik Hitachi Home Appliances (Thailand) Ltd. - Çamaşır Makinası İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Çin Shangai, Arçelik Hitachi Home Appliances (Shanghai) Co., Ltd.- Çamaşır &nbsp; &nbsp; &nbsp;Makinası İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Hindistan Gujarat, VoltBek Home Appliances Private Ltd.- Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İtalya Cassinetta, Beko Europe - Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İtalya Cassinetta, Beko Europe - Pişirici Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İtalya Cassinetta, Beko Europe - Ankastre Mikrodalga Fırın İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İtalya Melano, Beko Europe - Pişirici Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İtalya Comunanza, Beko Europe - Çamaşır ve Kurutma Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">İtalya Siena, Beko Europe - Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Polonya Wroclaw, Beko Europe - Buzdolabı İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Polonya Wroclaw, Beko Europe - Pişirici Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Polonya Radomsko, Beko Europe - Bulaşık Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Polonya Radomsko, Beko Europe - Çamaşır ve Kurutma Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Polonya Lodz, Beko Europe - Çamaşır Kurutma Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Polonya Lodz, Beko Europe - Pişirici Cihazlar İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Slovakya Poprad, Beko Europe - Çamaşır ve Kurutma Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Birleşik Krallık Yate, Beko Europe - Çamaşır Kurutma Makinesi İşletmesi</span></p> 
+   <p class="MsoNormal" style="margin-bottom: 0cm;"><span style="font-family: Helvetica, sans-serif;">Mısır Kahire, Beko Egypt Home Appliances Industries LLC ?Pişirici, Soğutucu Cihazlar ve Bulaşık Makinesi İşletmesi</span></p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Elektronik Posta Adresi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> investorrelations@arcelik.com </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;text-align: left;padding-left: 15px;"> yatirimciiliskileri@arcelik.com </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> İnternet Adresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>www.arcelikglobal.com</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ad-Soyad </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Görevlendirme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Telefon </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> E-posta </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belgesi Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Lisans Belge No </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Barış Alparslan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Genel Müdür Yardımcısı-Finansman ve Mali İşler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 01/08/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0 212 314 39 01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> baris.alparslan@arcelik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 3 Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 202914 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Mine Şule Yazgan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kıdemli Direktör-Finansman ve Kurumsal Risk </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 01/11/2022 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0 212 314 30 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> minesule.yazgan@arcelik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Delal Alver </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kıdemli Lider-Sermaye Piyasası Uyum </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 08/01/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0 212 314 39 56 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> delal.alver@arcelik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sezer Ercan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Kıdemli Lider-Yatırımcı İlişkileri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 15/04/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 0 212 705 96 81 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> sezer.ercan@arcelik.com </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Sermaye Piyasası Faaliyetleri Düzey 3 Lisansı, Türev Araçlar, Kurumsal Yönetim Derecelendirme Lisansı, Kredi Derecelendirme Lisansı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> 213631, 309533, 703306, 603844 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Faaliyet Konusu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p></p> 
+   <p>Arçelik Anonim Şirketi (Arçelik veya Şirket) ve bağlı ortaklıkları ile iştirakleri (Grup), dayanıklı tüketim ve tüketici elektroniği&nbsp;<span style="line-height: 1.42857;">alanlarında üretim, pazarlama, satış ve satış sonrası müşteri hizmetleri, ihracat ve ithalat ile ilgili tüm ticari ve endüstriyel&nbsp;</span><span style="line-height: 1.42857;">faaliyetleri yürütmektedir.</span></p> 
+   <p></p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Süresi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Süresiz</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağımsız Denetim Kuruluşu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Sektörü </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İMALAT / METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermaye Piyasası Aracının İşlem Gördüğü Pazar </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>YILDIZ PAZAR / KESİN ALIM SATIM PAZARI-(NİTELİKLİ YATIRIMCILAR ARASINDA)</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Şirketin Dahil Olduğu Endeksler </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>BIST METAL EŞYA, MAKİNA / BIST YILDIZ / BIST SÜRDÜRÜLEBİLİRLİK 25 / BIST 50 / BIST SINAİ / BIST 100-30 / BIST İSTANBUL / BIST TÜM / BIST 100 / BIST KURUMSAL YÖNETİM / BIST 500 / BIST SÜRDÜRÜLEBİLİRLİK</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote <br>Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Kote Edilen/İşlem Gören Sermaye Piyasası Aracının Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kotasyon/İşlem Görmeye Başlama Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın Bulunduğu Ülke </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İlgili Piyasanın/Borsanın İsmi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Piyasanın/Borsanın İlgili Pazarı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Hisse Senedi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 21/01/1986 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Türkiye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Borsa İstanbul </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yıldız Pazar </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Yeşil Tahvil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 25/05/2021 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İrlanda </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Irish Stock Exchange </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tahvil ve Bono Piyasası </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Eurobond - 400 milyon ABD doları </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 25/09/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İrlanda </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Irish Stock Exchange </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tahvil ve Bono Piyasası </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Eurobond - 100 milyon ABD doları </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> 17/11/2023 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İrlanda </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Irish Stock Exchange </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Tahvil ve Bono Piyasası </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ortaklık Hakkı Vermeyen Sermaye Piyasası Araçlarına İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Sermaye Piyasası Aracının Niteliği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavan Tutarı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi/Yurtdışı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Başlangıç Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İhraç Tavanı Bitiş Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Satış Yöntemi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"> Varsa Fon Kullanıcısı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Borçlanma Aracı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 12%;"> 30000000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Yurtiçi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 30/01/2025 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> 30/01/2026 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Tahsisli-Nitelikli Yatırımcıya Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 16%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Memurluğu </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Tescil Tarihi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>21/01/1955</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ticaret Sicil Numarası </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>54957</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi No </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>0730018000</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Vergi Dairesi </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>İSTANBUL - Büyük Mükellefler Vergi Dairesi Müdürlüğü</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetim Kurulu Üyeleri </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"> Tüzel Kişi Üye Adına Hareket Eden Kişi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Cinsiyeti </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Yönetim Kuruluna İlk Seçilme Tarihi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Son Durum itibariyle Ortaklık Dışında Aldığı Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Sermayedeki Payı (%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Temsil Ettiği Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlık Beyanının Yer Aldığı KAP Duyurusunun Bağlantısı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üyenin Aday Gösterme Komitesi Tarafından Değerlendirilip Değerlendirilmediği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsızlığını Kaybeden Üye Olup Olmadığı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yer Aldığı Komiteler ve Görevi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MUSTAFA RAHMİ KOÇ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İş Adamı / İş Kadını </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 16/03/1967 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Koç Holding A.Ş. Şeref Başkanı-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 2.44 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yürütme Komitesi Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEHMET ÖMER KOÇ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İş Adamı / İş Kadını </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 12/04/2005 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Başkan Vekili </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Koç Holding A.Ş. Yönetim Kurulu Başkanı-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yürütme Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> SEMAHAT SEVİM ARSEL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İş Adamı / İş Kadını </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 05/04/2006 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Koç Holding A.Ş. Yönetim Kurulu Üyesi-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"> 2.72 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yürütme Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> YILDIRIM ALİ KOÇ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İş Adamı / İş Kadını </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/03/2009 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Koç Holding A.Ş. Yönetim Kurulu Başkan Vekili-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yürütme Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> LEVENT ÇAKIROĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/03/2009 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Koç Holding A.Ş. CEO - Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ROBERT SONMAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İş Adamı / İş Kadını </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 15/04/1994 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Burla Grubu Yönetim Kurulu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FATİH KEMAL EBİÇLİOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 23/03/2015 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Koç Holding A.Ş. Dayanıklı Tüketim Grubu Başkanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Risk Yönetim Komitesi Üyesi </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HAKAN HAMDİ BULGURLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/03/2016 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AHMET TURUL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 19/03/2019 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1257187 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kurumsal Yönetim Komitesi Başkanı / Denetim Komitesi Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TUĞRUL FADILLIOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Erkek </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 25/03/2020 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1257187 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> GALYA FANİ MOLİNAS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 04/04/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1257187 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Risk Yönetimi Komitesi Başkanı </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AYŞE CANAN EDİBOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 9%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Kadın </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> Üst Düzey Yönetici </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> 04/04/2024 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 8%;"> İcrada Görevli Değil </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Yönetim Kurulu Üyelikleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 6%;"> Evet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Bağımsız Üye </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> https://www.kap.org.tr/tr/Bildirim/1257187 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Değerlendirildi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Hayır </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 5%;"> Denetim Komitesi Üyesi </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Yönetimde Söz Sahibi Olan Personel </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Adı-Soyadı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Görevi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Mesleği </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son 5 Yılda Ortaklıkta Üstlendiği Görevler </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HAKAN HAMDİ BULGURLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Yönetim Kurulu Üyelikleri, Beko B.V. CEO </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BARIŞ ALPARSLAN </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Finansman ve Mali İşler, Kurumsal Yönetim Komite Üyesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Koç Holding A.Ş. Finans Koordinatörü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> NİHAT BAYİZ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Üretim ve Teknoloji </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Ar-Ge Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Arçelik Üretim ve Teknoloji A.Ş. Şirket Müdürü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> CEMAL CAN DİNÇER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Ticari-Türkiye ve Pakistan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Arçelik Pazarlama A.Ş. Genel Müdürü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> MEHMET RAGIP BALCIOĞLU </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Ticari-Avrupa </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Ticari-Avrupa, Ortadoğu ve Kuzey Afrika </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Beko Europe B.V. Genel Müdürü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ZAFER ÜSTÜNER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı - Ticari - Asya Pasifik </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Arçelik Hitachi Home Appliances B.V. Genel Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Arçelik Hitachi Home Appliances B.V. Genel Müdürü </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> AKIN GARZANLI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Pazarlama </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Global Satış Sonrası Hizmetler Direktörü Global Marka ve Pazarlama İletişimi Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> UTKU BARIŞ PAZAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-Strateji ve Dijital </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Stratejik Planlama Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> CEM KURAL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı - Satınalma ve Tedarik Zinciri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Arçelik-LG Klima Sanayi ve Ticaret A.Ş. Genel Müdürü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> FATİH ÖZKADI </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı - Sürdürülebilirlik, Kalite ve Müşteri Hizmetleri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Kalite, Sürdürülebilirlik ve Resmi İlişkiler Kıdemli Direktörü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> HASİBE TOYGAN PULAT </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> Genel Müdür Yardımcısı-İnsan Kaynakları </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"> İşletme ve Yönetim Meslek Profesyoneli </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 20%;"></td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Ödenmiş/Çıkarılmış Sermaye </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">675728205.00</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Kayıtlı Sermaye Tavanı </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p class="numberField">1500000000</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayede Doğrudan %5 veya Daha Fazla Paya veya Oy Hakkına Sahip Gerçek ve Tüzel Kişiler </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ortağın Adı-Soyadı/Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> Oy Hakkı Oranı(%) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> KOÇ HOLDİNG ANONİM ŞİRKETİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 279.928.625,03 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 41,43 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 41,43 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TEKNOSAN BÜRO MAKİNE VE LEVAZIMI TİCARET VE SANAYİ ANONİM ŞİRKETİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 81.428.336,95 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 12,05 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 12,05 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> ARÇELİK A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 68.876.288,02 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 10,19 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 10,19 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BURLA TİCARET VE YATIRIM ANONİM ŞİRKETİ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 37.571.663,05 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 5,56 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 5,56 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DİĞER </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 207.923.291,95 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 30,77 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 30,77 </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> TOPLAM </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 675.728.205 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 25%;"> 100 </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Son Durum İtibariyle Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel Kişiler </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Fiili Dolaşımdaki Paylar </h4>
+  <div class="column-type3 exportDiv" style="display: block;margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Sermayeyi Temsil Eden Paylara İlişkin Bilgi </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pay Grubu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama / Hamiline </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Beher Payın Nominal Değeri (TL) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Payların Nominal Değeri </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Sermayeye Oranı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> İmtiyaz Türü </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> Borsada İşlem Görüp Görmediği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> - </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> Nama </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 0,01 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%;"> 675728205 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 11%"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 11%"> Yok </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 12%;"> İşlem Görüyor </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> Bağlı Ortaklıklar, Finansal Duran Varlıklar ile Finansal Yatırımlar </h4>
+  <div class="exportDiv" style="width: 100%;overflow: auto;margin-bottom: 35px;"> 
+   <table class="exportClass" style="font-size:11px" border="1"> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow" style="font-weight: 600;font-size:12px;"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ticaret Ünvanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Faaliyet Konusu </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Ödenmiş/Çıkarılmış Sermayesi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Para Birimi </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirketin Sermayedeki Payı(%) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Şirket ile Olan İlişkinin Niteliği </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Pazarlama A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1626059040,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1626059040,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arch R&amp;D Co. Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Teknoloji Üretimi ve Tasarım </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 15630600,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 15630600,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CNY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Romania SA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 48039066,60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 46483533,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RON </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 96,76 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arctic Foundation </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 25000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 24190,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RON </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 96,76 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arcwaste Collection </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9676,2 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RON </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 96,76 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko B.V. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 655180000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 655180000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko B.V. Taiwan </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TWD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko A and NZ Pty Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> AUD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko APAC IBC Co., Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> THB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Appliances Indonesia, PT </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 146537809500,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 146537809500,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> IDR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Appliances Malaysia Sdn. Bhd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 72562700,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 72562700,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> MYR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Balkans D.O.O. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 130000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 130000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RSD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Central Asia </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1480000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1480000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> KZT </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Egypt Trading LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 605408000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 605408000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EGP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Spain Electronics SL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1014420,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1014420,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko France S.A.S. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Germany GmbH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 25000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 25000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Switzerland GmbH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CHF </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Gulf FZE </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 12853750,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 12853750,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> AED </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Portugal, Unipessoal Lda </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Hong Kong Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Israel Household Appliances LTD. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 850000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 850000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> ILS </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Italy SRL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4283520885,26 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4283520885,26 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RUB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Morocco </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8200000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8200000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> MAD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Pilipinas Corporation </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> PHP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Plc. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 500000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> GBP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko S.A. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> PLN </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Shanghai Trading Company Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5406260,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5406260,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CNY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Slovakia S.R.O. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 238996,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 238996,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Thai Co. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5281222026,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5281222026,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> THB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Ukraine LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 190085828,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 190085828,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> UAH </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko US Inc. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500100,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500100,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Austria AG </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Egypt Home Appliances Industries </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1504529725 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1504529725 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EGP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Hungary </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Azerbaycan MMC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Algéria </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 63000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 63000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> DZD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko S.A. Czech Republic </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 37035184 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 37035184 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CZK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Grundig Croatia </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 850000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 850000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Greece S.M.S.A. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Netherlands BV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 45000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 45000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Belgium NV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600080 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600080 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe B.V. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> BEKO Cesko S.R.O. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 14000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 14000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CZK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Electrical Appliances Co. Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 601662719,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 601662719,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CNY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Dawlance Private Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 519129000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 519129000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> PKR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> DEL Electronics (Private) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 40000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 40000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> PKR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Defy Appliances (Proprietary) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1500,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1500,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> ZAR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Defy (Botswana) (Proprietary) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> BWP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Defy (Namibia) (Proprietary) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> NAD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Defy Sales East Africa Limited </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 400000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 400000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> KES </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Defy (Swaziland) (Proprietary) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> SZL </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Grundig Multimedia A.G. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CHF </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Nordic AB </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> SEK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Nordic AS (Denmark Branch) </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> NOK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Nordic AS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> NOK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Grundig Intermedia Ges.m.b.H., Wien </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 35000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 35000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances (Shanghai) Co., Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 412570000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 235165200,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CNY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 57 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances (Thailand) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2472000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1246899000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> THB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50,4 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances Sales (Singapore) Pte. Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3614000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2168400,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> SGD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances Sales (Thailand) Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 17800000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10680000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> THB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances Sales Malaysia Sdn. Bhd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> MYR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances Sales Middle East Fze </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> AED </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances Sales Vietnam Co., Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 200000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 120000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances&nbsp; Sales Hong Kong Limited </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 600000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> HKD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Taiwan Home Appliances Sales Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 40700000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 24420000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TWD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances B.V. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 6000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik Hitachi Home Appliances Ibc Co. Ltd </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 30000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 18000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> THB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 60 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> PT. Arcelik Hitachi Home Appliances Sales Indonesia </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8800000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3564000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> IDR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 40,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> İştirak </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> IHP Appliances JSC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1664165000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1664165000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RUB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> IHP Kazakhstan LLP </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 54615000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 54615000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> KZT </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> IHP Appliances Sales LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4340000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4340000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RUB </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortalık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Pan Asia Private Equity Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> USD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> PT Home Appliances Indonesia </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2500000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1675000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> IDR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 67 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Bangladesh BV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 45000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 45000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Singer Bangladesh Limited </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim/Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 997028380,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 568193370,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> BDT </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 56,99 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> United Refrigeration Industries Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 518616000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 518616000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> PKR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Vietbeko Limited Liability Company </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 676522723700,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 676522723700,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> VND </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Arçelik-LG Klima Sanayi ve Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 28800000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 12960200,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 45 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özkaynak Yöntemiyle Değerlenen Yatırımlar (İş Ortaklığı) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Voltbek Home Appliances Private Ltd. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10270100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10270100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> INR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 49 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özkaynak Yöntemiyle Değerlenen Yatırımlar (İş Ortaklığı) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Koç Finansman A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Tüketici Finansmanı </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 47000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 47 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özkaynak Yöntemiyle Değerlenen Yatırımlar (İştirakler) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Ram Dış Ticaret A.Ş. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dış Ticaret </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 6000000,00 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2009996,99 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 33,50 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Özkaynak Yöntemiyle Değerlenen Yatırımlar (İştirakler) </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Austria GmbH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4859632 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3644724 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Belgium NV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7601228 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5700921 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Bulgaria EOOD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3750 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> BGN </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Bulgaria EOOD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 26670 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20002,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Czech spol. s.r.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 113000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 84750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CZK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Denmark A/S </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hizmet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 13001000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9750750 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> DKK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Estonia OÜ </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 9587 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7190,25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Finland OY </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hizmet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 153051 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 114788,25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances France SAS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8039286 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 6029464,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances France Holdings SAS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 79903708 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 59927781 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> IRE Beteiligungs GmbH </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Satış\Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3580000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2685000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bauknecht Hausgeräte Gmbh </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 77465000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 58098750 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Greece SA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 147202 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 110401,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Hungary KFT </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> HUF </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Hotpoint Ireland Ltd </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Management Srl </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Italy Manufacturing Srl </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 102759269 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 77069451,75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Italy SRL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances R&amp;D SRL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 10000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Latvia SIA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2845 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2133,75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Lithuania UAB </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2896 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2172 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Netherlands BV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Satış </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4556000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3417000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Norway AS </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hizmet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> NOK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Poland Manufacturing Sp.z o.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 540876500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 405657375 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Poland Sp. z o.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 210648000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 157986000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> PLN </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Iberia S.A. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1696033 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1272024,75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Romania SRL </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 4005401 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3004050,75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RON </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Balkans d.o.o. Beograd </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hizmet </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 863000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 647250 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> RSD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Slovakia spol. s r.o. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 8332830 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 6249622,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Manufacturing Slovakia spol. S.r.o </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 128500472 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 96375354 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Home Appliances Spain S.A. </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 166386 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 124789,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Nordic AB </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1100000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 825000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> SEK </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Indesit Company International Business SA </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Hazine </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 187500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CHF </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Bauknecht AG </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 3750000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> CHF </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> European Appliances Ukraine LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 1208183830 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 906137872,5 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> UAH </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> General Domestic Appliances Holdings LTD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 27000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 20250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> GBP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Indesit Company UK Holdings LTD </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Holding </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 163000000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 122250000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> GBP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Hotpoint UK Appliances Limited </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim\Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 77195645 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5789673,753 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> GBP </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Europe Holdings BV </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim\Elektronik </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 7 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 5,25 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> EUR </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 75 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Maghreb Sarl </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 71500000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 53625000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> MAD </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Gulf DMCC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 50000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 37500 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> AED </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko AE LLC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 0 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 0 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> AED </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+    <tr class="w-clearfix w-inline-block a-table-row infoRow"> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 1100px;"> Beko Canada INC </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Dayanıklı Tüketim </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2700000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 2025000 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 10%;"> TRY </td> 
+     <td class="comp-cell-row-div vtable infoColumn numberField" style="width: 15%;"> 100 </td> 
+     <td class="comp-cell-row-div vtable infoColumn" style="width: 15%;"> Bağlı Ortaklık </td> 
+    </tr> 
+   </table> 
+  </div>
+  <h4 class="type-normal vcell exportTitle"> DİĞER HUSUSLAR </h4>
+  <div class="column-type3 exportDiv" style="margin-bottom: 35px;"> 
+   <p>Bilgi Mevcut Değil</p> 
+  </div>
+ </body>
+</html>
