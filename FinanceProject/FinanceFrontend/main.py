@@ -3,6 +3,7 @@ import gradio as gr
 import requests
 import pandas as pd
 import plotly.express as px 
+import plotly.graph_objects as go
 
 
 def generate_report(symbol, question):
@@ -23,14 +24,24 @@ def generate_report(symbol, question):
 
 def update_everything(symbol, question):
     ai_resp, stock_df, titles, news_map = generate_report(symbol, question)
+    stock_df = stock_df.dropna(subset=['DATE', 'CLOSING_TL'])
 
     if stock_df is None or stock_df.empty:
         fig = px.line(title="No Data Found")
     else:
         stock_df['DATE'] = pd.to_datetime(stock_df['DATE'])
-        fig = px.line(stock_df, x='DATE', y='CLOSING_TL', title='Stock Price Over Time',
-                      labels={'DATE': 'Date', 'CLOSING_TL': 'Closing Price (TL)'})
-        fig.update_layout(template="plotly_dark", title_x=0.5)
+        stock_df['CLOSING_TL'] = pd.to_numeric(stock_df['CLOSING_TL'], errors='coerce')
+        stock_df['CLOSING_TL'] = stock_df['CLOSING_TL'].fillna(method='bfill')
+        #fig = px.line(stock_df, x=stock_df['DATE'], y=stock_df['CLOSING_TL'], title='Stock Price Over Time')# labels={'DATE': 'Date', 'CLOSING_TL': 'Closing Price (TL)'}
+        fig = go.Figure([
+            go.Scatter(
+                x=stock_df['DATE'],
+                y=stock_df['CLOSING_TL'],
+                mode='lines+markers',
+                name='Closing Price'
+            )
+        ])
+        fig.update_layout(title='Stock Price Over Time', xaxis_title='Date', yaxis_title='Closing TL')
 
     news_titles = titles
     first_news = news_map.get(titles[0], "") if titles else ""

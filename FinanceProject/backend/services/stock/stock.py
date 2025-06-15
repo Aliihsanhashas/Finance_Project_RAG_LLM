@@ -134,6 +134,8 @@ def stock_query_generator(query, stock_name):
 def stock_agent(query, symbol):
     query_params = stock_query_generator(query, symbol)
     stock_data_llm_query = query_params.dict()
+    #stock_data_llm_query["exchange"] = "0"
+    #stock_data_llm_query["observation"] = "mean"
     prompt_compatible_stock_data, raw_stock_data = get_stock_data(symbols=symbol,  **stock_data_llm_query )
     raw_stock_data['DATE'] = raw_stock_data['DATE'].astype(str)
     raw_stock_data = raw_stock_data.T.to_dict()

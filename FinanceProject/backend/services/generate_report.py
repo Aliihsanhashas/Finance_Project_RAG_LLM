@@ -5,13 +5,23 @@ from backend.services.openai.openai_client import openai_client
 
 
 COMMAND_PROMPT = """
-    Bu bilgilere dayanarak, kullanıcıya doğru ve detaylı bir yanıt ver. Özetleyerek ancak tüm önemli detayları kapsayarak açıklayıcı bir cevap üret.
+Aşağıdaki bilgilere dayanarak, kullanıcıya **doğru, veriye dayalı ve açıklayıcı bir yanıt** üret:
 
-    Cevabın MARKDOWN FORMATINDA OLMALI. Veriye dayanmalı. Kullandığın tüm verileri cite et. Emoji kullan.
-    
-    Aşağıda sana verilecek bilgiler ışığında, bu soruyu cevaplar mısın?
+- Cevabın **özlü** ama **tüm önemli detayları kapsayıcı** olmalı.
+- Format **MARKDOWN** olmalı.
+- Uygunsa **emoji** kullan.
+- Kullandığın tüm verileri **kaynak göstererek** kullan.
+- Citation formatı şu şekilde olmalı (metin içinde köşeli parantezle, sonunda numaralı listeyle):
+  - Metin içinde: [1], [2], ...
+  - En altta kaynak listesi:  
+    1. Kaynak A  
+    2. Kaynak B  
+    ...
 
-    {query}
+Kullanıcıdan aldığın bilgiler **soru** ve **bağlam verisi** olarak aşağıda verilecektir. Bu bilgiler doğrultusunda yanıt ver:
+
+
+**SORU**:     {query}
 
 """
 
