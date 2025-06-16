@@ -1,0 +1,684 @@
+﻿BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:08.02.2023 10:01:26 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:07.02.2023 11:50:15 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Devre Kesici Uygulaması 
+				
+	Bildirim İçeriği 	
+		
+		
+		
+		
+	Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	BORSA İSTANBUL A.Ş.	VİOP Diğer Duyurular	Gönderim Tarihi:06.02.2023 11:12:47 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi	SASA Vadeli İşlem Sözleşmelerinin İşleme Açılması	İlgili Şirketler 
+[SASA] 		
+İlgili Fonlar 	[] 	
+		
+	Türkçe 	
+	VİOP Diğer Duyurular 	
+			
+	Yapılan Açıklama Düzeltme mi? 	
+		
+	Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+			
+	- 
+	Bildirim İçeriği 
+	
+		
+	Açıklamalar 		
+			
+	SASA vadeli işlem sözleşmeleri saat 11:15'de işleme açılacak, sözleşmelerde 11:15-11:25 saatleri arasında açılış seansı yapılacak ve 11:30'dan itibaren sürekli müzayede ile devam edecektir.
+         	
+BORSA İSTANBUL A.Ş.	Pay İşlem Sırası Kapatma / Açma	Gönderim Tarihi:06.02.2023 10:53:40 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Özet Bilgi
+Pay Sırasının İşleme Açılması
+İlgili Şirketler 	[SASA] 		
+İlgili Fonlar 	[] 		
+	
+	Türkçe 
+	
+Pay İşlem Sırası Kapatma / Açma 		
+			
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+			- 
+	Bildirim İçeriği 		
+			
+Şirket Unvanı 			
+		SASA POLYESTER SANAYİ A.Ş. 
+	Kapatma / Açma İşlemi 	
+			
+Açma (Reactivation) 		Sıra Kapatma Başlangıç Tarihi 	
+			
+06/02/2023 	
+Sıra Açma Başlangıç Tarihi 	
+	
+		06/02/2023 
+	Sıra Açma Saati 		
+			11:15 
+	Açıklamalar 	
+			
+		SASA.E sırası şirket ile ilgili özel durum açıklamasının Kamuyu Aydınlatma Platformu'nda (KAP) duyurulmuş olmasına istinaden saat 11:15'te işleme açılacak, sırada 11:15-11:25 saatleri arasında açılış seansı yapılacak ve 11:30'dan itibaren Sürekli İşlem bölümünde yeniden işleme açılacaktır. 
+
+Dayanağı SASA olan varantlar ise saat 11:30'da sürekli işlem bölümünde yeniden işleme açılacaktır.  
+	
+SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)	Gönderim Tarihi:06.02.2023 10:28:16 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi	Deprem
+İlgili Şirketler 	[] 		
+İlgili Fonlar 	[] 	
+		
+	Türkçe 		
+Özel Durum Açıklaması (Genel) 			
+	
+	Yapılan Açıklama Güncelleme mi? 
+	
+		
+Hayır (No) 		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+			
+- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+		
+		Hayır (No) 
+	Bildirim İçeriği 		
+			
+Açıklamalar 	
+	
+	
+		06.02.2023 sabahı meydana gelen 7,4 şiddetindeki depremde Adana Seyhan'da bulunan tesislerimizde önemli bir hasar meydana gelmemiştir. Üretim aynı şekilde devam etmektedir. Depremden etkilenen yurttaşlarımıza geçmiş olsun dileklerimizi sunar, hayatını kaybedenlere Allah'tan rahmet, yakınlarına ve milletimize başsağlığı, yaralılara acil şifalar dileriz.
+Sasa olarak üzerimize düşen sorumlulukları yerine getireceğimizden kimsenin şüphesi olmasın.
+	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL A.Ş.	BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu
+Gönderim Tarihi:06.02.2023 09:27:30 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Özet Bilgi	İşlem Sırasının Geçici Olarak Durdurulması	İlgili Şirketler 	[SASA, BOSSA, BLCYT, SANKO, HATEK, ISDMR, ARSAN, RUBNS] 
+		İlgili Fonlar 	[] 
+		
+		Türkçe 
+		BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu 
+			
+		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+	
+		- 
+	Bildirim İçeriği 		
+			
+Açıklamalar 		
+		
+		6.02.2023 tarihinde meydana gelen deprem felaketi nedeniyle deprem bölgesinde bulunan aşağıda belirtilen ortaklık paylarına ait işlem sıralarının, şirketlerin depremden ne şekilde etkilendiklerine ilişkin KAP'ta özel durum açıklaması yapılıncaya kadar durdurulmasına karar verilmiştir. 
+
+SASA.E (Pay, vadeli işlem sözleşmeleri ve varantlar) 
+BOSSA.E 
+BLCYT.E 
+SANKO.E 
+HATEK.E 
+ISDMR.E 
+ARSAN.E 
+RUBNS.E 
+
+	SASA POLYESTER SANAYİ A.Ş.	Tertip İhraç Belgesi	Gönderim Tarihi:31.01.2023 16:50:57 
+Bildirim Tipi:DG 	Yıl: 	Periyot: 	Özet Bilgi
+Paya Dönüştürülebilir Tahvil Tertip İhraç Belgesi	İlgili Şirketler 
+[] 	
+	İlgili Fonlar 
+[] 		
+			Türkçe 
+		Tertip İhraç Belgesi 	
+		
+		Yapılan Açıklama Güncelleme mi? 
+		
+		Hayır (No) 	
+Yapılan Açıklama Düzeltme mi? 			
+	
+Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	- 		Bildirim İçeriği 
+			
+		Açıklamalar 	
+		
+		
+Tamamı nitelikli yatırımcılara satılmak üzere yurt dışında Euro cinsinden 5 (beş) yıl vadeli 500.000.000 Euro (beş yüz milyon Euro) nominal değere kadar Paya Dönüştürülebilir Tahvil ihracına ilişkin Sermaye Piyasası Kurulu tarafından onaylanan Tertip İhraç Belgesi ektedir.		SASA POLYESTER SANAYİ A.Ş.
+İhraç Belgesi
+Gönderim Tarihi:31.01.2023 16:50:19 
+Bildirim Tipi:DG 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Paya Dönüştürülebilir Tahvil İhraç Belgesi
+İlgili Şirketler 	[] 		
+İlgili Fonlar 	[] 		
+	
+	Türkçe 
+	
+İhraç Belgesi 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Hayır (No) 	
+Yapılan Açıklama Düzeltme mi? 		
+		
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+			
+	- 		Bildirim İçeriği 
+			
+	
+Açıklamalar 	
+	
+		
+	Tamamı nitelikli yatırımcılara satılmak üzere yurt dışında Euro cinsinden 5 (beş) yıl vadeli 500.000.000 Euro (beş yüz milyon Euro) nominal değere kadar Paya Dönüştürülebilir Tahvil ihracına ilişkin Sermaye Piyasası Kurulu tarafından onaylanan İhraç Belgesi ektedir.		SASA POLYESTER SANAYİ A.Ş.
+İhraç Tavanına İlişkin Bildirim	Gönderim Tarihi:31.01.2023 16:48:59 	Bildirim Tipi:ODA 	Yıl: 
+Periyot: 	Özet Bilgi 	Paya Dönüştürülebilir Tahvil İhraç Onayı 	Yapılan Açıklama Güncelleme mi ? 
+Evet 	Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 	
+
+Yetkili Organ Karar Tarihi 
+13.12.2022 	İhraç Tavanı Tutarı 	500.000.000 
+Para Birimi 	EUR 
+İhraç Tavanı Kıymet Türü 	Borçlanma Aracı 
+Satış Türü 	Yurtdışı Satış 
+Yurt İçi / Yurt Dışı 	Yurt Dışı 
+SPK Başvuru Tarihi 	13.12.2022 
+SPK Başvuru Sonucu 	ONAY 
+SPK Onay Tarihi 	26.01.2023 
+İhraç Tavanı Son Geçerlilik Tarihi 	26.01.2024 
+	
+Ek Açıklamalar 	Şirketimizin, tamamı nitelikli yatırımcılara satılmak üzere yurt dışında Euro cinsinden 5 (beş) yıl vadeli 500.000.000 Euro (beş yüz milyon Euro) nominal değere kadar Paya Dönüştürülebilir Tahvil ihracına ilişkin Sermaye Piyasası Kuruluna yaptığı başvuru onaylanmıştır. 
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:25.01.2023 11:54:17 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		SASA POLYESTER SANAYİ A.Ş.
+Esas Sözleşme	Gönderim Tarihi:23.01.2023 09:49:55 	Bildirim Tipi:DG 
+Yıl: 	Periyot: 	Özet Bilgi
+Güncel Esas Sözleşme	İlgili Şirketler 	[] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Esas Sözleşme 
+				
+		Yapılan Açıklama Güncelleme mi? 
+		
+		Hayır (No) 
+		Yapılan Açıklama Düzeltme mi? 	
+				Evet (Yes) 
+		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+			- 	
+	Açıklamalar 		
+			
+		Şirketimiz Esas Sözleşmesi'nin güncel hali ekte yer almaktadır.	
+	Bildirim İçeriği 		
+
+
+		
+Esas Sözleşme Değişikliklerine İlişkin Kronoloji 					
+		
+	Esas Sözleşme Değişikliklerine İlişkin Kronoloji 		
+	Madde No 	Madde Değişikliğinin Tescil Tarihi 	Tescilin İlanına İlişkin TTSG Tarihi 	Tescilin İlanına İlişkin TTSG No 
+		8 	20/01/2023 	20/01/2023 
+10752 		
+SASA POLYESTER SANAYİ A.Ş.	Esas Sözleşme Tadili	Gönderim Tarihi:23.01.2023 09:49:38 
+Bildirim Tipi:ODA 	Yıl: 	Periyot: 
+Özet Bilgi	Esas Sözleşme Tescili	İlgili Şirketler 	[] 
+		İlgili Fonlar 	[] 	
+				Türkçe 
+		Esas Sözleşme Tadili 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 	
+Yapılan Açıklama Düzeltme mi? 			
+
+
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+					10.01.2023 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 				
+	Hayır (No) 		Bildirim İçeriği 
+			
+	
+Açıklamalar 	
+	
+		
+	Sermaye Piyasası Kurulu tarafından 16 Ocak 2023 tarihinde onaylanmış olan Şirketimiz Esas Sözleşmesi'nin tadil edilmiş 8.maddesi Adana Ticaret Sicil Müdürlüğü tarafından 20 Ocak 2023 tarihinde tescil edilmiş ve 20 Ocak 2023 tarihli ve 10752 sayılı Türkiye Ticaret Sicili Gazetesinde ilan edilmiştir.		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.	Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim	Gönderim Tarihi:23.01.2023 09:49:20 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi 	Şarta bağlı sermaye artırımı tescili 
+Yapılan Açıklama Güncelleme mi ? 	Evet 	Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 	Yönetim Kurulu Karar Tarihi 
+19.12.2022 	Kayıtlı Sermaye Tavanı (TL) 	3.000.000.000 
+Mevcut Sermaye (TL) 	2.263.633.096 	Ulaşılacak Sermaye (TL) 
+2.302.591.217 	
+	Bedelli Sermaye Artırımı (Tahsisli) 
+Pay Grup Bilgileri 	Mevcut Sermaye (TL) 
+Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 	Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 
+Verilecek Menkul Kıymet 	Nevi 	İptal Edilen Pay Tutarı (TL) 	SASA, TRASASAW91E4 	2.263.633.096 	38.958.121 	1,72104 
+SASA, TRASASAW91E4 	Nâma 				Mevcut Sermaye (TL) 	Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 
+Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 	İptal Edilen Pay Tutarı (TL) 	TOPLAM 	2.263.633.096 	38.958.121,000 
+1,72104 				
+
+Bildirilmesi Gereken Diğer Hususlar 
+Tadil Edilecek Ana Sözleşme Madde No 
+8 
+Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Başvuru Tarihi 
+09.01.2023 
+Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Başvuru Sonucu 
+ONAY 
+Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Onay Tarihi 
+16.01.2023 
+SPK Başvuru Tarihi 
+19.12.2022 	SPK Başvuru Sonucu 
+Onay 	SPK Onay Tarihi 
+29.12.2022 	Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+Kaydi Pay 	Sermaye Tescil Tarihi 
+20.01.2023 	
+	Ek Açıklamalar 
+Şirketimiz Esas Sözleşmesi'nin tadil edilmiş 8.maddesi Adana Ticaret Sicil Müdürlüğü tarafından 20 Ocak 2023 tarihinde tescil edilmiş ve 20 Ocak 2023 tarihli ve 10752 sayılı Türkiye Ticaret Sicili Gazetesinde ilan edilmiştir.	Eklenen Dökümanlar 
+EK: 1 
+ES Tadil Tasarısı.pdf 	EK: 2 
+AA Amendment Draft.pdf 	
+
+
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+BORSA İSTANBUL A.Ş.
+Borsa İstanbul A.Ş. Duyurusu
+Gönderim Tarihi:20.01.2023 18:19:26 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Yatırım Aracı Bazında Tedbir Uygulanması
+İlgili Şirketler 
+[SASA] 			İlgili Fonlar 
+[] 			
+	
+Türkçe 	
+	Borsa İstanbul A.Ş. Duyurusu 
+		
+			Yapılan Açıklama Düzeltme mi? 
+			
+	Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+		
+		Bildirim İçeriği 	
+			
+	Açıklamalar 
+	
+	
+		
+Borsa İstanbul A.Ş. Piyasalarında Uygulanacak Gözetim Tedbirleri Yönergesi'nin 5. ve 6. maddelerindeki hükümler çerçevesinde, Tedbir Yönetim Sistemi kapsamında, piyasasında gerçekleşen işlemler nedeniyle Sasa Polyester Sanayi A.Ş. (SASA.E) payında 23/01/2023 tarihinden itibaren 1 ay süreyle "Açığa Satış ve Kredili İşlem Yasağı", "Brüt Takas" ve "Emir İptalinin, Emir Miktar Azaltımı ile Emir Fiyat Kötüleştirmesinin Yasaklanması" tedbirleri uygulanacaktır. 
+   
+ 
+   
+Tedbirlerin uygulanacağı son tarih 22/02/2023'tür.		SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)
+Gönderim Tarihi:18.01.2023 16:27:23 	Bildirim Tipi:ODA 	Yıl: 	Periyot: 
+Özet Bilgi	Honeywell UOP ile lisans, teknik hizmet ve garanti anlaşmaları imzalanması	İlgili Şirketler 
+[] 		
+İlgili Fonlar 	[] 	
+			
+Türkçe 			Özel Durum Açıklaması (Genel) 
+	
+	
+	
+Yapılan Açıklama Güncelleme mi? 		
+			Hayır (No) 
+	Yapılan Açıklama Düzeltme mi? 		
+			Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+		
+- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+		
+		Hayır (No) 	
+Bildirim İçeriği 			
+	
+	Açıklamalar 
+	
+		
+		Şirketimize tahsis edilen Yumurtalık yatırım alanında, 2026 yılı ilk yarısında tamamlanması planlanan, ciroya katkısının bugünkü şartlarla 1,2 Milyar USD, yatırım bedelinin ise 1,5 Milyar USD olması beklenen 1.000.000 ton/yıl kapasiteli Propilen (PDH tesisi) Üretim Tesisi kurulması ile ilgili şirketimiz ile Honeywell UOP arasında lisans, teknik hizmet ve garanti anlaşmaları imzalanmıştır.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:16.01.2023 10:11:49 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 	
+		İlgili Fonlar 
+[] 		
+		
+		Türkçe 		
+		Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 	
+		
+		
+		
+			
+Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		BORSA İSTANBUL A.Ş.
+Özsermaye Hallerine İlişkin Borsa Duyurusu	Gönderim Tarihi:10.01.2023 16:48:45 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Özet Bilgi	-	İlgili Şirketler 
+[SASA] 		
+İlgili Fonlar 	[] 	
+		
+	Türkçe 	
+	Özsermaye Hallerine İlişkin Borsa Duyurusu 		
+		
+	Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+			
+- 	
+Bildirim İçeriği 	
+	
+		
+Açıklamalar 			
+			
+Sasa Polyester'in çıkarılmış sermayesinin 2.263.633.096 TL'den 2.302.591.217 TL'ye yükseltilmesi işlemleri gerçekleştirilmiş olduğundan 11.01.2023 tarihinden itibaren BIST Pay Endekslerinin hesaplanmasında, şirketin paylarının sayısı 2.302.591.217, fiili dolaşımdaki pay oranı %23 olarak dikkate alınacaktır. 		SASA POLYESTER SANAYİ A.Ş.
+Esas Sözleşme Tadili	Gönderim Tarihi:10.01.2023 09:27:53 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi
+Esas Sözleşme Değişikliği SPK Başvurusu
+İlgili Şirketler 	[] 		
+İlgili Fonlar 	[] 		
+	
+	Türkçe 
+	
+Esas Sözleşme Tadili 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Hayır (No) 	
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+			
+	Hayır (No) 
+	Bildirim İçeriği 
+	
+		
+	Açıklamalar 		
+			
+	Paya Dönüştürülebilir Tahvillerin (Convertible Bond) itfası kapsamında gerçekleştirilen şarta bağlı sermaye artırım işlemleri nedeniyle Şirketimiz Yönetim Kurulunun 9 Ocak 2023 tarihli kararı çerçevesinde; Şirket Esas Sözleşmesinin 8.maddesinin ekteki şekilde tadil edilmesi için  9 Ocak 2023 tarihinde Sermaye Piyasası Kurulu'na başvuruda bulunulmuştur.  		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.	Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim	Gönderim Tarihi:10.01.2023 09:27:28 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi 
+Şarta Bağlı Sermaye Artırımının Tamamlanması ve Esas Sözleşme Değişikliğine İlişkin Yönetim Kurulu Kararı 	Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 	Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+Hayır 	Yönetim Kurulu Karar Tarihi 
+19.12.2022 	Kayıtlı Sermaye Tavanı (TL) 
+3.000.000.000 	Mevcut Sermaye (TL) 
+2.263.633.096 	Ulaşılacak Sermaye (TL) 
+2.302.591.217 	
+	Bedelli Sermaye Artırımı (Tahsisli) 
+Pay Grup Bilgileri 	Mevcut Sermaye (TL) 
+Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 	Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 
+Verilecek Menkul Kıymet 	Nevi 	İptal Edilen Pay Tutarı (TL) 	SASA, TRASASAW91E4 	2.263.633.096 	38.958.121 	1,72104 
+SASA, TRASASAW91E4 	Nâma 				Mevcut Sermaye (TL) 	Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 
+Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 	İptal Edilen Pay Tutarı (TL) 	TOPLAM 	2.263.633.096 	38.958.121,000 
+1,72104 				
+
+Bildirilmesi Gereken Diğer Hususlar 
+Tadil Edilecek Ana Sözleşme Madde No 
+8 
+Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Başvuru Tarihi 
+09.01.2023 
+SPK Başvuru Tarihi 
+19.12.2022 
+SPK Başvuru Sonucu 
+Onay 
+SPK Onay Tarihi 
+29.12.2022 	
+	Ek Açıklamalar 
+Şirketimiz Yönetim Kurulunun 09.01.2023 tarihli toplantısında aşağıdaki kararlar alınmıştır:
+-Sermaye Piyasası Kurulunun 29.12.2022 tarihli ve 77/1869 sayılı kararı ile onaylamış olduğu, şirketimizin çıkarılmış sermayesinin 2.263.633.096 TL'den 2.302.591.217 TL'ye artırılması işlemleri 09.01.2023 tarihi itibarıyla tamamlanmıştır.
+-2022 Kasım ve Aralık ayı içinde dönüştürme talebinde bulunan tahvil sahiplerine tahsisli olarak gerçekleştirilen şarta bağlı sermaye artırımı işlemlerinin sermaye piyasası mevzuatı çerçevesinde tamamlanmasına bağlı olarak, Şirketimiz Esas Sözleşmesinin "Sermaye" başlıklı 8.maddesinin ekteki şekilde tadil edilmesine ve Esas Sözleşme değişikliği için gerekli izinlerin alınarak diğer işlemlerin yapılmasına karar verilmiştir.
+	Eklenen Dökümanlar 
+EK: 1 
+ES Tadil Tasarısı.pdf 	EK: 2 
+AA Amendment Draft.pdf 	
+
+
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)
+Gönderim Tarihi:09.01.2023 18:14:20 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 
+Tahvil Dönüştürme İşlemlerinin Tamamlanması 
+Yapılan Açıklama Güncelleme mi ? 
+Evet 	Yapılan Açıklama Düzeltme mi ? 
+Hayır 	Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+Hayır 	Bildirim Konusu 
+Diğer 	Yönetim Kurulu Karar Tarihi 
+27.08.2020 	
+
+İlgili İhraç Tavanı Bilgileri 
+Para Birimi 
+EUR 
+Tutar 
+200.000.000 
+İhraç Tavanı Kıymet Türü 
+Borçlanma Aracı 
+Satış Türü 
+Yurtdışı Satış 
+Yurt İçi / Yurt Dışı 
+Yurt Dışı 
+Kurul Onay Tarihi 
+11.02.2021 
+
+
+İhraç Edilecek Sermaye Piyasası Aracı Bilgileri 
+Merkezi Saklamacı Kuruluş 
+Euroclear Bank SA/NV and Clearstream Banking SA 
+Türü 	Özel Sektör Tahvili 
+Vadesi 	30.06.2026 
+Vade (Gün Sayısı) 	1.826 
+Faiz Oranı Türü 	Sabit 
+Satış Şekli 	Yurtdışı Satış 
+ISIN Kodu 	XS2357838601 
+Satışın Tamamlanma Tarihi 	22.06.2021 
+Vade Başlangıç Tarihi 	30.06.2021 
+Satışı Gerçekleştirilen Nominal Tutar 	200.000.000 
+Kupon Sayısı 	20 
+Döviz Cinsi 	EUR 
+Kupon Ödeme Sıklığı 	3 Ayda Bir 
+	
+
+Sermaye Piyasası Aracının İtfa Planı
+Kupon Sıra No 
+Ödeme Tarihi 
+Ödemesi Gerçekleştirildi mi? 
+1 
+30.09.2021 
+Evet 
+2 
+30.12.2021 
+Evet 
+3 
+30.03.2022 
+Evet 
+4 
+30.06.2022 
+Evet 
+5 
+30.09.2022 
+Evet 	6 	30.12.2022 
+Evet 	7 	30.03.2023 
+	8 	30.06.2023 
+	9 	30.09.2023 
+	10 	30.12.2023 
+	11 	30.03.2024 
+	12 	30.06.2024 
+	13 	30.09.2024 
+	14 	30.12.2024 
+	15 	30.03.2025 
+	16 	30.06.2025 
+	17 	30.09.2025 
+	18 	30.12.2025 
+	19 	30.03.2026 
+	20 	30.06.2026 
+	Anapara / Vadesonu Ödeme Tutarı 	
+		
+* Hak sahiplerinin belirlendiği tarih.	Derecelendirme 	İhraççının Derecelendirme Notu var mı? 
+Hayır 		Sermaye Piyasası Aracının Derecelendirme Notu Var mı? 
+Hayır 		Kaynak Kuruluş'un Derecelendirme Notu Var mı? 
+Hayır 		
+İhraca İlişkin Diğer Gelişmeler 	22.06.2021 tarihinde ihraç edilen 200.000.000 Euro nominal tutarlı Paya Dönüştürülebilir Tahvillerin (Convertible Bond) 69.400.000 Euro nominal tutarlı kısmı, tahvil sahibi yatırımcıların 2022 Kasım ve Aralık ayı içinde iletilen talepleri doğrultusunda paya dönüştürülerek itfa edilmiştir. 	Ek Açıklamalar 
+Paya dönüştürülen 69.400.000 Euro nominal tutarlı tahvil karşılığı verilen 38.958.121 TL nominal değerli paylar, Şirketimiz çıkarılmış sermayesinin şarta bağlı ve tahsisli olarak 2.263.633.096 TL'den 2.302.591.217 TL'ye yükseltilmesi karşılığında ihraç edilen SASA paylarından karşılanmıştır. 
+Eklenen Dökümanlar 
+EK: 1 
+Convertible Bond-Conversion Price Press Release.pdf 
+EK: 2 
+Paya Dönüştürülebilir Tahvil-Dönüştürme Fiyatı Basın Açıklaması.pdf 
+
+
+
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:09.01.2023 11:35:01 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 
+[SASA] 				İlgili Fonlar 
+[] 				
+		
+Türkçe 		
+		Devre Kesici Uygulaması 
+		
+		
+Bildirim İçeriği 			
+		
+		
+			
+	Açıklamalar 			
+				SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:05.01.2023 10:48:29 	Bildirim Tipi:DUY 	Yıl: 
+Periyot: 	Özet Bilgi	SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 	
+		İlgili Fonlar 
+[] 			
+		
+	Türkçe 	
+			Devre Kesici Uygulaması 	
+				
+Bildirim İçeriği 		
+		
+		
+		
+		
+Açıklamalar 			
+		
+	SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.	
+BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:04.01.2023 17:04:44 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:03.01.2023 15:41:32 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Devre Kesici Uygulaması 
+				
+	Bildirim İçeriği 	
+		
+		
+		
+		
+	Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	MERKEZİ KAYIT KURULUŞU A.Ş.	Merkezi Kayıt Kuruluşu A.Ş. Duyurusu	Gönderim Tarihi:02.01.2023 14:59:59 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi	Hak Kullanım İşlemleri	İlgili Şirketler 
+[SASA] 		
+İlgili Fonlar 	[] 	
+		
+	Türkçe 	
+	Merkezi Kayıt Kuruluşu A.Ş. Duyurusu 	
+			
+	Yapılan Açıklama Düzeltme mi? 	
+		
+	Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+			
+	
+	Bildirim İçeriği 
+	
+		
+	Açıklamalar 		
+			
+	SASA POLYESTER SANAYİ A.Ş. 'nin gerçekleştireceğini bildirdiği tahsisli sermaye artırım işleminde, 38.958.121 TL nominal değerde kaydi bakiye (ISIN Kod: TRASASAW91E4), Şirketin talebi üzerine 02.01.2023 tarihinde borsada işlem gören statüde ihraç edilmiştir. 	
+		
+		
+

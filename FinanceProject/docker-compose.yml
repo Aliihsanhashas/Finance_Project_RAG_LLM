@@ -10,7 +10,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./chromdb_store:/app/chromdb_store
+      - ./chromadb_store:/app/chromadb_store
     working_dir: /app
     command:  ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 

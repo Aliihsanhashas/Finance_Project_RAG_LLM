@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.10-bullseye
 # Python docker images: https://github.com/docker-library/docs/tree/master/python/
 
 USER root

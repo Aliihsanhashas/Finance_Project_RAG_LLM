@@ -1,0 +1,2274 @@
+﻿BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:26.12.2017 10:55:01 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:30.11.2017 14:35:56 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Devre Kesici Uygulaması 
+				
+	Bildirim İçeriği 	
+		
+		
+		
+		
+	Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	SASA POLYESTER SANAYİ A.Ş.	Pay Alım Satım Bildirimi	Gönderim Tarihi:30.11.2017 08:59:36 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi	Pay Alımı	İlgili Şirketler 
+[] 		
+		İlgili Fonlar 
+[] 		
+		
+		
+	Türkçe 		
+		
+	Pay Alım Satım Bildirimi 	
+			
+		Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 			Yapılan Açıklama Düzeltme mi? 
+			
+	Hayır (No) 		
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 			
+		22.11.2017 	
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 			
+		Hayır (No) 		
+Bildirim İçeriği 				
+			Pay Alım Satım Bilgileri 	
+			
+		Açıklamalar 	
+			
+			Şirketimizce 29.11.2017 tarihinde Sasa Polyester Sanayi A.Ş. payları ile ilgili olarak 6,28 - 6,50 TL fiyat aralığından 392.134 TL nominal değerli, 2.514.661 TL tutarlı pay alış işlemi gerçekleştirilmiştir. Bu işlem sonucunda şirketin sahip olduğu toplam pay 1.593.884 TL nominal değere, %0,3864 orana ve toplamda 10.532.499 TL tutara ulaşmıştır. 
+
+
+
+	Pay Alım Satım Bilgileri 	
+		İşlem Tarihi 	İşlemin Niteliği 	İşleme Konu Payların Nominal Tutarı (TL) 	İşlem Fiyatı (TL/Adet) 	İşlem Tutarı (TL) 	İşlemden Önce Sahip Olunan Payların Nominal Tutarı (TL) 	İşlemden Önce Sahip Olunan Payların Şirket Sermayesi İçindeki Payı (%) 	İşlem Sonrası Sahip Olunan Payların Nominal Tutarı (TL) 	İşlem Sonrası Sahip Olunan Payların Şirket Sermayesi İçindeki Payı (%) 
+		29/11/2017 	Alım (Buy) 	5.000 	6,28 	31.400 	1.201.750 	% 0,2913 	1.206.750 	% 0,2925 
+		29/11/2017 	Alım (Buy) 	10.000 	6,31 	63.100 	1.206.750 	% 0,2925 	1.216.750 	% 0,295 
+		29/11/2017 	Alım (Buy) 	25.000 	6,32 	158.000 	1.216.750 	% 0,295 	1.241.750 	% 0,301 
+		29/11/2017 	Alım (Buy) 	5.000 	6,33 	31.650 	1.241.750 	% 0,301 	1.246.750 	% 0,3022 
+		29/11/2017 	Alım (Buy) 	36.087 	6,35 	229.152 	1.246.750 	% 0,3022 	1.282.837 	% 0,311 
+		29/11/2017 	Alım (Buy) 	20.000 	6,36 	127.200 	1.282.837 	% 0,311 	1.302.837 	% 0,3158 
+		29/11/2017 	Alım (Buy) 	10.000 	6,37 	63.700 	1.302.837 	% 0,3158 	1.312.837 	% 0,3183 
+		29/11/2017 	Alım (Buy) 	39.490 	6,4 	252.736 	1.312.837 	% 0,3183 	1.352.327 	% 0,3278 
+		29/11/2017 	Alım (Buy) 	37.010 	6,41 	237.234 	1.352.327 	% 0,3278 	1.389.337 	% 0,3368 
+		29/11/2017 	Alım (Buy) 	10.000 	6,42 	64.200 	1.389.337 	% 0,3368 	1.399.337 	% 0,3392 
+		29/11/2017 	Alım (Buy) 	30.000 	6,43 	192.900 	1.399.337 	% 0,3392 	1.429.337 	% 0,3465 
+		29/11/2017 	Alım (Buy) 	62.000 	6,44 	399.280 	1.429.337 	% 0,3465 	1.491.337 	% 0,3615 
+		29/11/2017 	Alım (Buy) 	23.200 	6,45 	149.640 	1.491.337 	% 0,3615 	1.514.537 	% 0,3672 
+		29/11/2017 	Alım (Buy) 	64.347 	6,48 	416.969 	1.514.537 	% 0,3672 	1.578.884 	% 0,3828 
+		29/11/2017 	Alım (Buy) 	15.000 	6,5 	97.500 	1.578.884 	% 0,3828 	1.593.884 	% 0,3864 
+		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.	Pay Alım Satım Bildirimi	Gönderim Tarihi:29.11.2017 09:24:25 
+Bildirim Tipi:ODA 	Yıl: 	Periyot: 	Özet Bilgi	Pay Alımı	İlgili Şirketler 
+[] 			
+	İlgili Fonlar 	[] 	
+			
+			
+Türkçe 				
+		Pay Alım Satım Bildirimi 		
+				
+Yapılan Açıklama Güncelleme mi? 				
+	Evet (Yes) 		
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 	
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+
+
+	22.11.2017 	
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 						Hayır (No) 			Bildirim İçeriği 
+							Pay Alım Satım Bilgileri 			
+				Açıklamalar 						
+		Şirketimizce 28.11.2017 tarihinde Sasa Polyester Sanayi A.Ş. payları ile ilgili olarak 6,52 - 6,71 TL fiyat aralığından 455.000 TL nominal değerli pay alış işlemi gerçekleştirilmiştir. Bu işlem sonucunda şirketin sahip olduğu toplam pay 1.201.750 TL nominal değere ve %0,2913 orana ulaşmıştır. 			
+	Pay Alım Satım Bilgileri 				İşlem Tarihi 
+İşlemin Niteliği 	İşleme Konu Payların Nominal Tutarı (TL) 	İşlem Fiyatı (TL/Adet) 	İşlem Tutarı (TL) 	İşlemden Önce Sahip Olunan Payların Nominal Tutarı (TL) 	İşlemden Önce Sahip Olunan Payların Şirket Sermayesi İçindeki Payı (%) 	İşlem Sonrası Sahip Olunan Payların Nominal Tutarı (TL) 	İşlem Sonrası Sahip Olunan Payların Şirket Sermayesi İçindeki Payı (%) 			28/11/2017 
+Alım (Buy) 	5.000 	6,52 	32.600 	746.750 	% 0,181 	751.750 	% 0,1822 			28/11/2017 
+Alım (Buy) 	5.000 	6,53 	32.650 	751.750 	% 0,1822 	756.750 	% 0,1835 			28/11/2017 
+Alım (Buy) 	5.000 	6,55 	32.750 	756.750 	% 0,1835 	761.750 	% 0,1847 			28/11/2017 
+Alım (Buy) 	40.000 	6,57 	262.800 	761.750 	% 0,1847 	801.750 	% 0,1944 			28/11/2017 
+Alım (Buy) 	20.000 	6,58 	131.600 	801.750 	% 0,1944 	821.750 	% 0,1992 			28/11/2017 
+Alım (Buy) 	65.000 	6,59 	428.350 	821.750 	% 0,1992 	886.750 	% 0,215 			28/11/2017 
+Alım (Buy) 	10.000 	6,6 	66.000 	886.750 	% 0,215 	896.750 	% 0,2174 			28/11/2017 
+Alım (Buy) 	55.000 	6,61 	363.550 	896.750 	% 0,2174 	951.750 	% 0,2307 			28/11/2017 
+Alım (Buy) 	10.000 	6,62 	66.200 	951.750 	% 0,2307 	961.750 	% 0,2332 			28/11/2017 
+Alım (Buy) 	20.000 	6,63 	132.600 	961.750 	% 0,2332 	981.750 	% 0,238 			28/11/2017 
+Alım (Buy) 	10.000 	6,64 	66.400 	981.750 	% 0,238 	991.750 	% 0,2404 			28/11/2017 
+Alım (Buy) 	35.575 	6,65 	236.574 	991.750 	% 0,2404 
+1.027.325 	% 0,249 			28/11/2017 	Alım (Buy) 
+40.000 	6,66 	266.400 	1.027.325 
+% 0,249 	1.067.325 	% 0,2587 	
+	28/11/2017 	Alım (Buy) 	20.000 
+6,67 	133.400 	1.067.325 	% 0,2587 
+1.087.325 	% 0,2636 			28/11/2017 
+Alım (Buy) 	34.425 	6,68 	229.959 	1.087.325 
+% 0,2636 	1.121.750 	% 0,2719 		
+28/11/2017 	Alım (Buy) 	57.742 	6,69 	386.294 
+1.121.750 	% 0,2719 	1.179.492 	% 0,2859 
+		28/11/2017 	Alım (Buy) 
+22.258 	6,71 	149.351 	1.179.492 
+% 0,2859 	1.201.750 	% 0,2913 	
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.	Pay Alım Satım Bildirimi	Gönderim Tarihi:27.11.2017 08:59:16 
+Bildirim Tipi:ODA 	Yıl: 	Periyot: 	Özet Bilgi	Pay Alımı	İlgili Şirketler 	[] 				
+İlgili Fonlar 	[] 									
+Türkçe 							Pay Alım Satım Bildirimi 			
+				Yapılan Açıklama Güncelleme mi? 						Evet (Yes) 
+		Yapılan Açıklama Düzeltme mi? 						Hayır (No) 		
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 						22.11.2017 			Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+				Hayır (No) 			Bildirim İçeriği 			
+				Pay Alım Satım Bilgileri 						
+	Açıklamalar 									Şirketimizce 24.11.2017 tarihinde Sasa Polyetser Sanayi A.Ş. payları ile ilgili olarak 6,65 - 6,78 TL fiyat aralığından 746.750 TL nominal değerli payların alış işlemi gerçekleştirilmiştir. 
+
+		
+	Pay Alım Satım Bilgileri 				İşlem Tarihi 	İşlemin Niteliği 	İşleme Konu Payların Nominal Tutarı (TL) 	İşlem Fiyatı (TL/Adet) 
+İşlem Tutarı (TL) 	İşlemden Önce Sahip Olunan Payların Nominal Tutarı (TL) 	İşlemden Önce Sahip Olunan Payların Şirket Sermayesi İçindeki Payı (%) 	İşlem Sonrası Sahip Olunan Payların Nominal Tutarı (TL) 	İşlem Sonrası Sahip Olunan Payların Şirket Sermayesi İçindeki Payı (%) 			24/11/2017 	Alım (Buy) 	30.000 	6,65 
+199.500 	0 	% 0 	30.000 	% 0,0073 			24/11/2017 	Alım (Buy) 	91.146 	6,66 
+607.032,36 	30.000 	% 0,0073 	121.146 	% 0,0294 			24/11/2017 	Alım (Buy) 	135.000 	6,67 
+900.450 	121.146 	% 0,0294 	256.146 	% 0,0621 			24/11/2017 	Alım (Buy) 	93.854 	6,68 
+626.944,72 	256.146 	% 0,0621 	350.000 	% 0,0848 			24/11/2017 	Alım (Buy) 	61.250 	6,69 
+409.762,5 	350.000 	% 0,0848 	411.250 	% 0,0997 			24/11/2017 	Alım (Buy) 	78.250 	6,7 
+524.275 	411.250 	% 0,0997 	489.500 	% 0,1187 			24/11/2017 	Alım (Buy) 	55.000 	6,71 
+369.050 	489.500 	% 0,1187 	544.500 	% 0,132 			24/11/2017 	Alım (Buy) 	25.000 	6,72 
+168.000 	544.500 	% 0,132 	569.500 	% 0,1381 	
+	24/11/2017 	Alım (Buy) 	63.000 	6,73 	423.990 
+569.500 	% 0,1381 	632.500 	% 0,1533 
+		24/11/2017 	Alım (Buy) 
+40.000 	6,74 	269.600 	632.500 
+% 0,1533 	672.500 	% 0,163 	
+	24/11/2017 	Alım (Buy) 	37.500 	6,75 
+253.125 	672.500 	% 0,163 	710.000 	% 0,1721 
+		24/11/2017 	Alım (Buy) 	26.750 
+6,76 	180.830 	710.000 	% 0,1721 	736.750 
+% 0,1786 			24/11/2017 
+Alım (Buy) 	10.000 	6,78 	67.800 
+736.750 	% 0,1786 	746.750 	% 0,181 
+		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Olağan Dışı Fiyat ve Miktar Hareketleri
+Gönderim Tarihi:23.11.2017 18:10:12 
+Bildirim Tipi:ODA 	Yıl: 	Periyot: 
+Özet Bilgi	Olağandışı Fiyat ve Miktar Hareketleri	İlgili Şirketler 	[] 				İlgili Fonlar 	[] 		
+					Türkçe 					Olağan Dışı Fiyat ve Miktar Hareketleri 
+						Yapılan Açıklama Güncelleme mi? 				
+	Hayır (No) 		Yapılan Açıklama Düzeltme mi? 						Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 						- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 		
+			Hayır (No) 		Bildirim İçeriği 					
+	Açıklamalar 								Aşağıdaki açıklama Borsa İstanbul A.Ş.'nin 23/11/2017 tarih ve BİAŞ-4-10622 sayılı yazısı ile Şirketimiz'in payları üzerinde gerçekleşen olağandışı fiyat ve miktar hareketine ilişkin olarak özel durum açıklaması yapılması talebi üzerine yapılmaktadır.
+Sermaye Piyasası Kurulu'nun Özel Durumların Kamuya Açıklanmasına İlişkin Tebliği'ne göre, Şirketimiz'in payları üzerinde gerçekleşen olağandışı fiyat ve miktar hareketine ilişkin olarak, Şirketimiz'ce kamuya açıklanmamış özel bir durum bulunmamaktadır.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)	Gönderim Tarihi:22.11.2017 08:37:09 	Bildirim Tipi:ODA 	Yıl: 	Periyot: 	Özet Bilgi	Hisse Geri Alımına İlişkin Yönetim Kurulu Kararı 	İlgili Şirketler 	[] 
+			İlgili Fonlar 	[] 						
+	Türkçe 					Özel Durum Açıklaması (Genel) 				
+		Yapılan Açıklama Güncelleme mi? 						Hayır (No) 		Yapılan Açıklama Düzeltme mi? 
+					Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 			
+		- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 						Hayır (No) 
+	Bildirim İçeriği 							Açıklamalar 		
+			
+	Şirketimizin 21 Kasım 2017 tarihinde yapmış olduğu Yönetim Kurulu  toplantısında;  piyasalarda meydana gelen dalgalanmaların Sasa Polyester Sanayi A.Ş. hissesinde oluşturduğu fiyat nedeniyle,  Sasa Polyester Sanayi A.Ş. olarak azami 50.000.000 TL'ye kadar Sasa hissesi geri alımı yapılması kararlaştırılmıştır.
+Sermaye Piyasası Kurulu'nun Geri Alınan Paylar ile ilgili olarak 21 Temmuz 2016 ve 25 Temmuz 2016'da yaptığı duyurular çerçevesinde Sasa hisselerinin Sasa Polyester Sanayi A.Ş.  tarafından Borsa'dan satın alınmasına; şirket iç kaynaklarından karşılanmak üzere geri alım için ayrılacak azami fon tutarının 50.000.000 TL olmasına ,  geri alınacak azami pay sayısının ise bu tutarı geçmeyecek şekilde belirlenmesine karar verilmiştir.		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Maddi Duran Varlık Alımı	Gönderim Tarihi:28.09.2017 17:52:42 	Bildirim Tipi:ODA 	Yıl: 	Periyot: 
+Özet Bilgi	Arsa Alımı	İlgili Şirketler 
+[] 		
+	İlgili Fonlar 	[] 
+		
+			
+Türkçe 			
+	Maddi Duran Varlık Alımı 		
+			
+Yapılan Açıklama Güncelleme mi? 		
+		
+Evet (Yes) 		Yapılan Açıklama Düzeltme mi? 
+			
+	Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+				30.03.2017 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+		
+	Hayır (No) 	
+Bildirim İçeriği 		
+			
+Alıma Konu Maddi Duran Varlığın Niteliği 			
+		Arsa 	
+Alıma Konu Maddi Duran Varlığın Mevkii, Yüzölçümü 			
+		42.140 metrekare 
+	Alıma İlişkin Yönetim Kurulu Karar Tarihi 		
+			30.03.2017 
+	Alıma İlişkin Yönetim Kurulu Kararında Bağımsız Üyelerin Çoğunluğunun Onayı Var mı? 		
+			Evet 
+	Toplam Alım Bedeli 		
+			13.800.000 TL 
+	İşlem Bedelinin Ortaklığın Yönetim Kurulu Karar Tarihinden Önceki Altı Aylık Günlük Düzeltilmiş Ağırlıklı Ortalama Fiyatların Aritmetik Ortalaması Baz Alınarak Hesaplanacak Şirket Değerine Olan Oranı (%) 		
+			%1,55 
+	Alım Bedelinin Ortaklık Ödenmiş Sermayesine Oranı (%) 		
+			%3,35 
+	Alım Bedelinin Ortaklığın Kamuya Açıklanan Son Finansal Tablosundaki Aktif Toplamına Oranı (%) 		
+			%0,72 
+	Alım Bedelinin Ortaklığın Kamuya Açıklanan Son Finansal Tablosundaki Maddi Duran Varlıkların Net Değerine Oranı (%) 		
+			%1,72 
+	İşlem Bedelinin Ortaklığın Kamuya Açıklanan Son Yıllık Finansal Tablolara Göre Oluşan Hasılat Tutarına Oranı (%) 		
+			%1,69 
+	Alım Koşulları 		
+			%27 peşin,%73 tapu devri işlem günü 
+	İşlemin Tamamlandığı/Tamamlanacağı Tarih 		
+			28.09.2017 
+	Alımın Amacı ve Ortaklığın Faaliyetlerine Etkileri 		
+			Poy ve Tekstürize İplik Üretim Tesisi yatırımı kapsamında yatırım alanı 
+	Karşı Taraf 		
+			Temsa Ulaşım Araçları Sanayi ve Ticaret A.Ş. 
+	Karşı Taraf SPK Düzenlemelerine Göre İlişkili Taraf mıdır? 		
+		
+Hayır (No) 		Karşı Taraf İle Olan İlişkinin Niteliği 
+			
+	Bulunmuyor 		Varsa İşleme İlişkin Sözleşme Tarihi 	
+				- 
+	Önemli Niteliklteki İşlem Kapsamında Kullandırılacak Ayrılma Hakkı Fiyatı 	
+		
+	- 	
+Maddi Duran Varlığın Değerinin Belirlenme Yöntemi 		
+			Piyasa ve Emsal Değerleme 
+	Değerleme Raporu Düzenlendi mi? 		
+			Düzenlenmedi (Not Prepared) 
+	Değerleme Raporu Düzenlenmediyse Nedeni 		
+		
+Rayiç değeri hakkında bilgi sahibi olunduğundan 		Değerleme Raporu Düzenlendiyse Tarih ve Numarası 	
+			
+- 		Değerleme Raporunu Hazırlayan Değerleme Kuruluşunun Unvanı 	
+			
+- 		Değerleme Raporu Sonucu Bulunan Tutar 	
+			
+- 		İşlem Değerleme Raporundaki Sonuçlara Uygun Gerçekleştirilmemişse/Gerçekleştirilmeyecekse Gerekçesi 	
+			
+- 		Açıklamalar 	
+			
+		Şirketimiz tarafından daha önce kamuya açıklanan,Poy ve Tekstürize İplik Üretim Tesisi yatırımı kapsamında değerlendirilmek üzere  Sasa Polyester Sanayi A.Ş.'nin mevcut arsalarına bitişik konumdaki  Temsa Ulaşım Araçları Sanayi ve Ticaret A.Ş.‘ye ait 42.140 metrekare arsanın  satın alınması işlemi 28.09.2017 tarihi itibarıyla  ve 13.800.000-TL bedel ile tamamlanmıştır.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:31.08.2017 10:03:55 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 	
+		İlgili Fonlar 	[] 
+			
+			Türkçe 
+			
+Devre Kesici Uygulaması 			
+			Bildirim İçeriği 
+			
+			
+			
+		Açıklamalar 	
+			
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)
+Gönderim Tarihi:28.07.2017 08:48:09 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Yatırım Görüşmeleri
+İlgili Şirketler 	[] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Özel Durum Açıklaması (Genel) 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 	
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	11.05.2017,15.05.2017,23.05.2017,29.05.2017,12.06.2017,21.06.2017 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+				Hayır (No) 
+	Bildirim İçeriği 	
+		
+		Açıklamalar 
+		
+			
+Şirketimiz tarafından 11.05.2017 tarihinde kamuoyuna açıklanan PTA yatırımına ilişkin olarak Amerikan Invista (Koch Industries)  ve İngiliz British Petrolium (BP)  şirketleri ile teknoloji seçimi konusunda görüşmelere başlanmıştır. 		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Şirket Genel Bilgi Formu	Gönderim Tarihi:14.07.2017 16:33:23 	Bildirim Tipi:DG 	Yıl: 
+Periyot: 	İletişim Bilgileri 	Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri 	Ad-Soyad 
+Görevi 	Görevlendirme Tarihi 	Telefon 
+E-posta 	Lisans Belgesi Türü 	Lisans Belge No 
+Ali Bülent Yılmazel 	Muhasebe Müdürü 	18.03.2009 
+(0322) 441 00 53 	bulent.yilmazel@sasa.com.tr 	Sermaye Piyasası Faaliyetleri İleri Düzey Lisansı / Kurumsal Yönetim Derecelendirme Uzmanlığı Lisansı 	203766 / 700311 			Yönetime İlişkin Bilgiler 
+Yönetimde Söz Sahibi Olan Personel 	Adı-Soyadı 	Görevi 	Mesleği 	Son 5 Yılda Ortaklıkta Üstlendiği Görevler 	Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler 	MEHMET ŞEKER 
+Yönetim Kurulu Üyesi - Genel Müdür 	Üst Düzey Yönetici 	Yönetim Kurulu Üyesi 	Erdemoğlu Holding Yönetim Kurulu Üyesi 	İRFAN BAŞKIR 
+Genel Müdür Yardımcısı 	İşletme ve Yönetim Meslek Profesyoneli 	Satış Pazarlama Grup Başkanı 		MUSTAFA KEMAL ÖZ 
+Genel Müdür Yardımcısı 	Kimya Mühendisi 	Yatırımlar Grup Başkanı 		GÜVEN KAYA 
+Genel Müdür Yardımcısı 	Kimya Mühendisi 	Polimer İşletmeleri Müdürü 		ERTUĞRUL TOKER 
+DMT İşletmeleri Grup Başkanı 	Kimya Mühendisi 	DMT işletmesi Müdürü 		ALPER SÖĞÜT 
+Spc Polimer ve Enerji Grup Başkanı 	Makine Mühendisi 	Bakım ve Enerji Müdürü 		MUSTAFA KEMAL YILDIRIM 
+Elyaf İplik İşletmeleri Grup Başkanı 	Makine Mühendisi 	Elyaf İşletmeleri Yöneticisi 		
+	SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)	Gönderim Tarihi:21.06.2017 09:33:18 	Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Pet Tesisi (Şişe Cipsi) Yatırımı
+İlgili Şirketler 	[] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Özel Durum Açıklaması (Genel) 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 	
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	11.05.2017,15.05.2017,23.05.2017,29.05.2017,12.06.2017 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+				Hayır (No) 
+	Bildirim İçeriği 	
+		
+		Açıklamalar 
+		
+			
+Yönetim Kurulumuz, şirketimiz tarafından daha önce kamuya açıklanan Yatırımlara Proje Bazlı Devlet Yardımı başvurusu kapsamında; yatırım bedeli yaklaşık 80.000.000 USD, ciroya katkısı ise 330.000.000 USD olacağı tahmin edilen ve iki yıl sonra faaliyete geçecek Pet Tesisi (Şişe Cipsi) yatırımına başlanmasına karar vermiştir.
+Söz konusu Pet Tesisi (Şişe Cipsi) yatırımı, şirketimizin Adana Merkez tesislerinin bulunduğu mevcut arsalarımız üzerinde gerçekleştirilecektir.		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL A.Ş.
+BIST Pay Endeksleri	Gönderim Tarihi:20.06.2017 18:14:08 	Bildirim Tipi:DUY 	Yıl: 
+Periyot: 	Özet Bilgi	BIST 30, BIST 50, BIST 100 Dönemsel Endeks Değişiklikleri 	İlgili Şirketler 
+[YAZIC, SELEC, AKGRT, TRCAS, DOCO, KATMR, TKNSA, POLHO, EGSER, ALCTL, NUGYO, MEPET, KRONT, ALBRK, ANELE, SASA, NETAS, TTRAK, KORDS, TRKCM, AKSEN, GOZDE, GOODY, ODAS, DOHOL, FROTO, PGSUS, ECILC] 		
+	İlgili Fonlar 	[] 
+		
+				Türkçe 
+				BIST Pay Endeksleri 
+		
+		
+Yapılan Açıklama Düzeltme mi? 		
+		
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+			
+- 		Bildirim İçeriği 
+		
+		
+Açıklamalar 			
+				BIST Pay Endeksleri Temel Kuralları'nın 8.2. maddesine istinaden Borsa Genel Müdürlüğü'nce; BIST 100, BIST 50 ve BIST 30 endekslerinde 2017 yılı üçüncü üç aylık dönemi için (03.07.2017-30.09.2017) ekli tabloda yer alan değişikliklerin yapılmasına karar verilmiştir.
+	SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)	Gönderim Tarihi:12.06.2017 10:15:33 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi
+Poy ve Tekstürize İplik Üretim Tesisi Yatırımı	İlgili Şirketler 	[] 
+		
+İlgili Fonlar 	[] 	
+			
+		Türkçe 	
+		
+Özel Durum Açıklaması (Genel) 		
+		
+	Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 		Yapılan Açıklama Düzeltme mi? 
+		
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	11.05.2017,15.05.2017,23.05.2017,29.05.2017 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+			
+	Hayır (No) 		Bildirim İçeriği 
+			
+		Açıklamalar 
+		
+		
+	Yönetim Kurulumuz, şirketimiz tarafından daha önce kamuya açıklanan Yatırımlara Proje Bazlı Devlet Yardımı başvurusu kapsamında; yatırım bedeli yaklaşık 330.000.000 USD, ciroya katkısı ise 450.000.000 USD olacağı tahmin edilen ve iki yıl sonra faaliyete geçecek Poy ve Tekstürize İplik Üretim Tesisi yatırımına başlanmasına karar vermiştir.
+Söz konusu Poy ve Tekstürize İplik Üretim Tesisi yatırımı, şirketimizin Adana Merkez tesislerinin bulunduğu mevcut arsalarımız üzerinde gerçekleştirilecektir.
+   
+ 		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Değerleme Raporu 	Gönderim Tarihi:06.06.2017 13:13:57 	Bildirim Tipi:DG 	Yıl: 	Periyot: 
+Özet Bilgi	Değerleme Raporu	İlgili Şirketler 
+[] 		
+	İlgili Fonlar 	[] 
+		
+			
+Türkçe 			
+	Değerleme Raporu 		
+			
+Yapılan Açıklama Güncelleme mi? 		
+		
+Hayır (No) 		Yapılan Açıklama Düzeltme mi? 
+			
+	Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+				- 
+	Bildirim İçeriği 	
+		
+		Değerlemeyi Yapan Kuruluş 
+		
+		İdeal Gayrimenkul Değerleme ve Danışmanlık A.Ş. 	
+Değerleme Raporunun İçeriği 			
+		Arsa Değerlemesi 	
+Rapor Tarihi 		
+			02.06.2017 
+	Açıklamalar 		
+			
+	Şirketimizin Adana ili Seyhan İlçesinde bulunan 905 dönüm arsa ile Hatay ili İskenderun İlçesinde bulunan 67 dönüm arsanın 31.03.2017 tarihli şirket konsolide Ufrs finansal tablolarında yer alan toplam defter değeri 25.769.000-TL iken yaptırılan değerleme çalışması sonrasında söz konusu arsaların toplam piyasa değerinin 600.300.000- TL olduğu tespit edilmiştir.
+Tespit edilen 600.300.000- TL  şirketimizin 30.06.2017 tarihli konsolide Ufrs finansal tablolarına yansıtılacaktır.
+Kamuoyunun bilgisine sunarız.	
+BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:05.06.2017 11:15:42 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		SASA POLYESTER SANAYİ A.Ş.
+Özel Durum Açıklaması (Genel)	Gönderim Tarihi:05.06.2017 11:11:32 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi
+Değerleme Raporu	İlgili Şirketler 	[] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Özel Durum Açıklaması (Genel) 
+				
+	Yapılan Açıklama Güncelleme mi? 	
+		
+	Hayır (No) 	
+Yapılan Açıklama Düzeltme mi? 		
+			Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+			- 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 		
+		
+Hayır (No) 		Bildirim İçeriği 
+		
+			Açıklamalar 	
+				
+	Şirketimizin Adana ili Seyhan İlçesinde bulunan 905 dönüm arsa ile Hatay ili İskenderun İlçesinde bulunan 67 dönüm arsanın 31.03.2017 tarihli şirket konsolide Ufrs finansal tablolarında yer alan toplam defter değeri 25.769.000-TL iken yaptırılan değerleme çalışması sonrasında söz konusu arsaların toplam piyasa değerinin 600.300.000- TL olduğu tespit edilmiştir.
+Tespit edilen 600.300.000- TL  şirketimizin 30.06.2017 tarihli konsolide Ufrs finansal tablolarına yansıtılacaktır.
+Kamuoyunun bilgisine sunarız.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:01.06.2017 11:01:39 	Bildirim Tipi:DUY 	Yıl: 
+Periyot: 	Özet Bilgi	SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 		
+	İlgili Fonlar 	[] 	
+			
+		Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 			
+				
+		
+		
+Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.	İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu	Gönderim Tarihi:31.05.2017 15:40:10 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Özet Bilgi	Temerrüt İşleminin Tamamlanması	İlgili Şirketler 
+[SASA] 				İlgili Fonlar 
+[] 				
+		
+Türkçe 		
+		İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu 
+		
+			Yapılan Açıklama Düzeltme mi? 
+			
+	Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+		
+		Bildirim İçeriği 		
+				Açıklamalar 
+		
+		
+	SASA.TE sırasındaki temerrüt işlemi 31/05/2017 tarihinde tamamlanmıştır. 	
+İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.	İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu	Gönderim Tarihi:31.05.2017 11:28:34 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi
+İşleme Açılan Temerrüt Sırası	İlgili Şirketler 	[SASA] 	
+		İlgili Fonlar 
+[] 		
+		
+		Türkçe 		
+		İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu 		
+		
+	Yapılan Açıklama Düzeltme mi? 	
+		
+	Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 			
+			
+Bildirim İçeriği 		
+		
+	Açıklamalar 	
+			
+		Takasbank Ödünç Pay Piyasası'nda henüz yerine getirilmeyen bir yükümlülük dolayısıyla oluşan temerrüt açığını kapatmak üzere SASA.TE pay sırasında temerrüt alışı yapılacaktır. Temerrüt alışının takası BUGÜN (31/05/2017) gerçekleşecektir. SATIŞ emirlerinizi ilgili pay sırasına girebilirsiniz. (Miktar:180.000 adet)		BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:31.05.2017 10:01:51 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Özet Bilgi	SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 
+[SASA] 		
+	İlgili Fonlar 	[] 
+		
+			
+Türkçe 			
+	Devre Kesici Uygulaması 	
+		
+		Bildirim İçeriği 
+			
+				
+				
+Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:30.05.2017 12:36:17 	Bildirim Tipi:DUY 	Yıl: 
+Periyot: 	Özet Bilgi	SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 
+[SASA] 		
+	İlgili Fonlar 	[] 
+				
+		Türkçe 		
+		Devre Kesici Uygulaması 
+		
+		
+Bildirim İçeriği 		
+		
+			
+		
+		Açıklamalar 
+			
+			SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.	
+İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.	İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu	Gönderim Tarihi:30.05.2017 12:22:50 	Bildirim Tipi:DUY 	Yıl: 
+Periyot: 	Özet Bilgi	Temerrüt İşleminin Tamamlanması
+İlgili Şirketler 	[SASA] 	
+		İlgili Fonlar 
+[] 		
+		
+		Türkçe 	
+		
+İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu 		
+			
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+				
+		Bildirim İçeriği 
+		
+		
+Açıklamalar 		
+			
+	SASA.TE sırasındaki temerrüt işlemi 30/05/2017 tarihinde tamamlanmıştır. 		İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.
+İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu	Gönderim Tarihi:30.05.2017 10:56:51 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi
+İşleme Açılan Temerrüt Sırası	İlgili Şirketler 	[SASA] 
+			İlgili Fonlar 	[] 
+				
+		Türkçe 
+		
+	İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu 	
+		
+		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+		
+		
+	Bildirim İçeriği 			
+			Açıklamalar 	
+		
+		
+Takasbank Ödünç Pay Piyasası'nda henüz yerine getirilmeyen bir yükümlülük dolayısıyla oluşan temerrüt açığını kapatmak üzere SASA.TE pay sırasında temerrüt alışı yapılacaktır. Temerrüt alışının takası BUGÜN (30.05.2017) gerçekleşecektir. SATIŞ emirlerinizi ilgili pay sırasına girebilirsiniz. (Miktar: 20.200 adet)		İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.
+İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu	Gönderim Tarihi:30.05.2017 10:39:26 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi	İşleme Açılan Temerrüt Sırası
+İlgili Şirketler 	[SASA] 		
+	İlgili Fonlar 	[] 
+		
+		
+	Türkçe 			
+	İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu 			
+		
+Yapılan Açıklama Düzeltme mi? 		
+		
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+			
+			Bildirim İçeriği 
+		
+		
+Açıklamalar 		
+			
+	Takasbank nezdinde henüz yerine getirilmeyen bir yükümlülük dolayısıyla oluşan temerrüt açığını kapatmak üzere SASA.TE pay sırasında temerrüt alışı yapılacaktır. Temerrüt alışının takası BUGÜN (30/05/2017) gerçekleşecektir. SATIŞ emirlerinizi ilgili pay sırasına girebilirsiniz. (Miktar: 23,814 adet) 		SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)
+Gönderim Tarihi:29.05.2017 11:29:44 	Bildirim Tipi:ODA 	Yıl: 	Periyot: 	Özet Bilgi
+Yatırımlara Proje Bazlı Devlet Yardımı Verilmesi Kapsamında, Ekonomi Bakanlığı ile Görüşme	İlgili Şirketler 	[] 
+		
+İlgili Fonlar 	[] 	
+		
+			Türkçe 
+			
+Özel Durum Açıklaması (Genel) 		
+		
+	Yapılan Açıklama Güncelleme mi? 	
+			
+Evet (Yes) 		Yapılan Açıklama Düzeltme mi? 		
+			Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+		
+11.05.2017,15.05.2017,23.05.2017 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+		
+		Hayır (No) 	
+Bildirim İçeriği 			
+			Açıklamalar 
+			
+		
+Bakanlar Kurulu kararıyla yürürlüğe konulan Yatırımlara Proje Bazlı Devlet Yardımı verilmesi kapsamında,  Ekonomi Bakanlığınca da uygun görülen şirketimizin ana hammaddeleri olan PTA, MEG ve Polimer üretim tesisi kurulması amacıyla, kamuoyu ile daha önce paylaşılan  7.175.000.000  Türk Lirasi (2.050.000.000 USD) sabit yatırım tutarlı ve 6 yılda bitirilmesi planlanan yeni yatırım projemizin tutarı Ekonomi Bakanlığı ile yapılan görüşmeler sonucunda 12.803.000.000 Türk Lirası'na (3.658.000.000 USD) yükseltilmiş, yatırım süresi 8 yıla çıkarılmıştır.
+Türkiye Petrolleri Anonim Ortaklığına (TPAO) ait Hatay-Dörtyol'da bulunan 2.935.369 m2 arazinin şirketimizce satınalma, tahsis veya kiralanması hususuna yönelik olarak Ekonomi Bakanlığı ve Enerji ve Tabii Kaynaklar Bakanlığı ile görüşmeler devam etmektedir. 
+Bu hususlarla ilgili ilerleyen aşamalardaki gelişmeler ayrıca kamuoyuna duyurulacaktır.		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:29.05.2017 10:51:44 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		KAMUYU AYDINLATMA PLATFORMU
+Sermaye Piyasası Kurulu Tedbir Kararı	Gönderim Tarihi:26.05.2017 20:17:44 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi
+Sermaye Piyasası Kurulu Tedbir Kararı	İlgili Şirketler 	[SASA] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Sermaye Piyasası Kurulu Tedbir Kararı 
+				
+	Yapılan Açıklama Düzeltme mi? 	
+		
+	Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+			- 
+	Bildirim İçeriği 		
+		
+	Açıklamalar 	
+		
+			Sermaye Piyasası Kurulu tarafından, Sasa Polyester Sanayi A.Ş (SASA) pay piyasasında 24.03.2017-23.05.2017 döneminde gerçekleştirilen işlemlerin incelenmesi sonucunda, 6362 sayılı SPKn'nun 107/1 maddesinde sayılan fiilin işlendiğine dair makul şüphe bulunması nedeniyle yatırımcıların korunması ve yapay piyasa oluşturmaya yönelik işlemlerin engellenmesini teminen; SPKn'nun 1 inci, 101 inci maddesi ve 128 inci maddesinin birinci fıkrasının (a) bendi ile V-101.1 Bilgi Suistimali ve Piyasa Dolandırıcılığı İncelemelerinde Uygulanacak Tedbirler Tebliği (Tedbirler Tebliği)'nin 18/1 maddesi kapsamında SASA pay piyasasında 29.05.2017 tarihli işlemlerden başlamak üzere 3 ay süre ile;
+ i. Yatırım kuruluşlarının müşterilerinden SASA pay piyasasında internet üzerinden emir kabul etmelerinin yasaklanmasına,
+ ii. SASA paylarının açığa satış ve kredili menkul kıymet işlemlerine konu edilmemesine 
+karar verilmiştir.
+Karar 2017/20 sayılı SPK Bülteninde yer almaktadır. 
+ 	
+SASA POLYESTER SANAYİ A.Ş.	Olağan Dışı Fiyat ve Miktar Hareketleri	Gönderim Tarihi:23.05.2017 18:10:10 	Bildirim Tipi:ODA 	Yıl: 
+Periyot: 	Özet Bilgi	Yatırama İlişkin Yapılan Görüşmeler Hakkında
+İlgili Şirketler 	[] 	
+		İlgili Fonlar 
+[] 		
+			
+	Türkçe 		
+		Olağan Dışı Fiyat ve Miktar Hareketleri 
+		
+		
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 		Yapılan Açıklama Düzeltme mi? 
+				
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+		
+		15.05.2017 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+			
+Hayır (No) 		Bildirim İçeriği 	
+			
+	Açıklamalar 		
+		
+		15 Mayıs 2017  tarihinde kamuya açıklamış olduğumuz yatırım projemizle ilgili olarak Türkiye Petrolleri Anonim Ortaklığına (TPAO) ait Hatay-Dörtyol'da bulunan arazinin şirketimizce satınalma, tahsis veya kiralanması hususuna yönelik olarak Ekonomi Bakanlığı ve Enerji ve Tabii Kaynaklar Bakanlığı ile görüşmeler devam etmekte olup ayrıca söz konusu yatırıma ilişkin makine ve tesis üreticileri ile de görüşmeler sürdürülmektedir. Bu hususlara ilişkin ilerleyen aşamalardaki gelişmeler ayrıca kamuoyuna duyurulacaktır.
+   
+ 
+	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:23.05.2017 10:09:15 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:22.05.2017 16:34:41 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Devre Kesici Uygulaması 
+				
+	Bildirim İçeriği 	
+		
+		
+		
+		
+	Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.
+	SASA POLYESTER SANAYİ A.Ş.	Özel Durum Açıklaması (Genel)	Gönderim Tarihi:15.05.2017 13:05:51 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi	Yatırımlara Proje Bazlı Devlet Yardımı Verilmesi Kapsamında, Ekonomi Bakanlığı ile Görüşme	İlgili Şirketler 
+[] 		
+	İlgili Fonlar 	[] 
+		
+		
+	Türkçe 	
+			Özel Durum Açıklaması (Genel) 
+		
+		
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 		Yapılan Açıklama Düzeltme mi? 
+				
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+		
+		11.05.2017 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+			
+Hayır (No) 		Bildirim İçeriği 	
+			
+	Açıklamalar 		
+		
+		Bakanlar Kurulu kararıyla yürürlüğe konulan Yatırımlara Proje Bazlı Devlet Yardımı verilmesi kapsamında,  Ekonomi Bakanlığınca da uygun görülen şirketimizin ana hammaddeleri olan PTA, MEG ve Polimer üretim tesisi kurulması amacıyla 7.175.000.000  Türk Lirasi (2.050.000.000 USD) sabit yatırım tutarlı ve 6 yılda bitirilmesi planlanan yeni  yatırım projemiz ile ilgili; KDV İstisnası, Gümrük Vergisi Muafiyeti, Vergi İndirimi ve İstisnası ,Sigorta Primi İşveren Hissesi Desteği, Enerji Desteği, Faiz Desteği, Yatırım Yeri Tahsisi, Gelir Vergisi Stopajı Desteği, Nitelikli Personel Desteği, KDV İadesi, Altyapı Desteği, Kanunlarla getirilen izin, tahsis, ruhsat, lisans ve tescil ile diğer kısıtlayıcı hükümler için istisna getirilmesi veya yasal ve  idari süreçlerde kolaylaştırıcı düzenleme yapılması desteklerinden faydalanmak üzere şirketimiz ile Ekonomi Bakanlığı ile görüşmeler sürdürülmekte olup, bu hususla ilgili ilerleyen aşamalardaki gelişmeler ayrıca kamuoyuna duyurulacaktır.
+	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:12.05.2017 17:47:16 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 	Bedelsiz Sermaye Artırımı Sermaye Tescili 
+Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+Yönetim Kurulu Karar Tarihi 	20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 	500.000.000 
+Mevcut Sermaye (TL) 	366.300.000 
+Ulaşılacak Sermaye (TL) 	412.500.000 
+
+
+Bedelsiz Sermaye Artırımı 
+Pay Grup Bilgileri 
+Mevcut Sermaye (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 
+Kar Payından Bedelsiz Pay Alma Tutarı (TL) 
+Kar Payından Bedelsiz Pay Alma Oranı (%) 
+Verilecek Menkul Grubu 
+Verilecek Menkul Kıymet 
+Nevi 
+SASA, TRASASAW91E4 	366.300.000 	46.200.000 	12,61261 				SASA, TRASASAW91E4 	Nâma 
+		Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	TOPLAM 	366.300.000 
+46.200.000,000 	12,61261 				Bedelsiz Pay Alma Hakkı Kullanım Başlangıç Tarihi 
+24.04.2017 		İç Kaynakların Detayı : 
+		Diğer Sermaye Yedekleri (TL) 	46.200.000 
+
+
+
+
+Bildirilmesi Gereken Diğer Hususlar 
+SPK Başvuru Tarihi 
+20.03.2017 
+SPK Başvuru Sonucu 
+Onay 
+SPK Onay Tarihi 
+14.04.2017 
+Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+Kaydi Pay 
+Ödeme Tarihi 
+26.04.2017 * Sermaye artırımı varsa yeni payların, payları Borsa‘da işlem gören pay sahiplerinin hesaplarına girececeği, sermaye azaltımı varsa hesaplarından çıkacağı tarih. 	Kayıt Tarihi 
+25.04.2017 * Borsada işlem gören tipteki payların hak sahiplerinin belirlendiği tarih. 	Sermaye Tescil Tarihi 
+26.04.2017 	
+	Ek Açıklamalar 
+Şirketimiz çıkarılmış sermayesinin, 46.200.000 Türk Lirası bedelsiz artırılarak, 366.300.000 TL'den 412.500.000 TL'ye artırılmasına ilişkin esas sözleşmesi 26.04.2017 tescil edilmiştir. 	Eklenen Dökümanlar 
+EK: 1 
+ESAS SÖZLEŞME.pdf 	
+	
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Olağan Dışı Fiyat ve Miktar Hareketleri
+Gönderim Tarihi:11.05.2017 13:03:03 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Olağandışı Fiyat ve Miktar Hareketleri
+İlgili Şirketler 
+[] 
+			İlgili Fonlar 	[] 
+				
+		Türkçe 
+		
+	Olağan Dışı Fiyat ve Miktar Hareketleri 	
+		
+		Yapılan Açıklama Güncelleme mi? 	
+			
+Hayır (No) 		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+		
+		- 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 			
+		Hayır (No) 		Bildirim İçeriği 
+		
+		
+Açıklamalar 		
+		
+		Ekonomi Bakanlığı ile,  planlanan proje bazlı yatırımlarımız ile ilgili, yatırımlara proje bazlı devlet yardımı verilmesine dair görüşmelerimiz başlamış olup halen devam etmektedir. Bu hususta ilerleyen aşamalardaki gelişmeler ayrıca kamuoyuna duyurulacaktır.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI	İşlem Sırası Durdurma Bildirimi	Gönderim Tarihi:11.05.2017 12:12:27 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır	İlgili Şirketler 	[SASA] 	
+		İlgili Fonlar 
+[] 		
+		
+		Türkçe 		
+		Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 	
+		
+		
+		
+			
+Açıklamalar 		
+		
+		SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		SASA POLYESTER SANAYİ A.Ş.
+Esas Sözleşme	Gönderim Tarihi:09.05.2017 13:57:09 	Bildirim Tipi:DG 	Yıl: 	Periyot: 
+Özet Bilgi	Esas Sözleşme 	İlgili Şirketler 
+[] 		
+		İlgili Fonlar 
+[] 		
+		
+			
+Türkçe 		
+		
+	Esas Sözleşme 				
+			Yapılan Açıklama Güncelleme mi? 		
+			Hayır (No) 
+		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 			Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+				
+- 			Açıklamalar 	
+				
+		Esas Sözleşmemizin son hali ektedir.	
+	Bildirim İçeriği 		
+			
+	Esas Sözleşme Değişikliklerine İlişkin Kronoloji 		
+
+
+		
+
+	Esas Sözleşme Değişikliklerine İlişkin Kronoloji 				Madde No 
+Madde Değişikliğinin Tescil Tarihi 	Tescilin İlanına İlişkin TTSG Tarihi 	Tescilin İlanına İlişkin TTSG No 			Anasözleşme 
+05/11/1966 	08/11/1966 	2902 			7,12 
+20/12/1968 	25/12/1968 	3540 			4,7,17 
+20/07/1972 	24/07/1972 	4606 			7,17,35 
+03/10/1973 	04/10/1973 	4966 			7 
+31/08/1978 	10/11/1978 	19 			7 
+04/04/1979 	19/04/1979 	130 			4 
+30/03/1982 	05/04/1982 	476 			7 
+27/05/1983 	01/06/1983 	768 			7 
+25/10/1985 	06/11/1985 	1381 			7 
+30/06/1986 	16/06/1986 	1555 			12 
+26/03/1987 	02/04/1987 	1737 			7 
+04/05/1988 	09/05/1988 	2016 			Ek Madde 3,7 
+21/04/1989 	04/05/1989 	2267 			7 
+10/04/1990 	01/06/1990 	2539 			7 
+07/05/1991 	20/05/1991 	2779 			4 
+16/04/1992 	29/04/1992 	3018 			3,4,6,7,10,11,12,13,14,15,18,19,20,22,23,25,28,31,35,36,40,41,43 
+29/04/1993 	11/05/1993 	3278 			7 
+27/10/1994 	01/11/1994 	3650 			7 
+27/04/1995 	17/05/1995 	3787 			1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36 
+19/12/1995 	25/12/1995 	3943 			8 
+06/03/1996 	12/03/1996 	3995 			6,8 
+27/03/1996 	01/04/1996 	4009 			3,8,15,25,31,36 
+17/03/1997 	20/03/1997 	4253 			3,5,8,30 
+28/04/1999 	12/05/1999 	4789 			2,3,7,8,11,12,31,37 
+21/07/2000 	31/07/2000 	5099 			2,8,Geçici madde,11 
+28/03/2005 	01/04/2005 	6273 			11,31 
+18/04/2007 	25/04/2007 	6794 			3,5,8 Geçici Madde 
+29/03/2011 	04/04/2011 	7786 			2. Madde 
+23/09/2011 	29/09/2011 	7910 			6,12,38 Madde 
+26/04/2012 	07/05/2012 	8062 			1, 3, 5, 6, 7, 8, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 ve 31.madde değişiklik, Pay ve Tertip Birleştirmeye ilişkin geçici madde kaldırma 
+28/03/2013 	05/04/2013 	8294 			8 tadil, 37 iptal 
+04/04/2016 	08/04/2016 	9050 			8 tadil, 
+13/07/2016 	21/07/2016 	9120 			8 tadil, 
+17/10/2016 	28/10/2016 	9186 			8 tadil 
+26/04/2017 	09/05/2017 	9322 			SASA POLYESTER SANAYİ A.Ş.
+Şirket Genel Bilgi Formu	Gönderim Tarihi:28.04.2017 09:28:25 	Bildirim Tipi:DG 	Yıl: 	Periyot: 	Pazar, Endeks ve Sermaye Piyasası Araçları Bilgileri 
+Son Durum İtibariyle Ortaklık Sermaye Piyasası Araçlarının Kote Edildiği Diğer Borsalar veya İşlem Gördüğü Teşkilatlanmış Piyasalar 	Kote Edilen/İşlem Gören Sermaye Piyasası Aracının Türü 	Kotasyon/İşlem Görmeye Başlama Tarihi 	İlgili Piyasanın/Borsanın Bulunduğu Ülke 
+İlgili Piyasanın/Borsanın İsmi 	Piyasanın/Borsanın İlgili Pazarı 	Hisse Senedi 	31.10.1996 
+Türkiye 	Borsa İstanbul A.Ş. 	Yıldız Pazar 	
+	Sermaye ve Ortaklık Yapısı Bilgileri 	Sermayeyi Temsil Eden Paylara İlişkin Bilgi 	Pay Grubu 
+Nama / Hamiline 	Beher Payın Nominal Değeri (TL) 	Para Birimi 	Payların Nominal Değeri 	Para Birimi 
+Sermayeye Oranı (%) 	İmtiyaz Türü 	Borsada İşlem Görüp Görmediği 	- 	Nama 
+0,01 	TRY 	412500000 	TRY 	100 
+Yok 	İşlem Görüyor 		
+Yönetime İlişkin Bilgiler 	Yönetimde Söz Sahibi Olan Personel 	Adı-Soyadı 	Görevi 
+Mesleği 	Son 5 Yılda Ortaklıkta Üstlendiği Görevler 	Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler 	İRFAN BAŞKIR 
+Genel Müdür Yardımcısı 	İşletme ve Yönetim Meslek Profesyoneli 	Satış Pazarlama Grup Başkanı 	
+MUSTAFA KEMAL ÖZ 
+Genel Müdür Yardımcısı 
+Kimya Mühendisi 	Yatırımlar Grup Başkanı 	
+GÜVEN KAYA 	Genel Müdür Yardımcısı 	Kimya Mühendisi 	Polimer İşletmeleri Müdürü 		ERTUĞRUL TOKER 
+DMT İşletmeleri Grup Başkanı 	Kimya Mühendisi 	DMT işletmesi Müdürü 		ALPER SÖĞÜT 	Spc Polimer ve Enerji Grup Başkanı 
+Makine Mühendisi 	Bakım ve Enerji Müdürü 		MUSTAFA KEMAL YILDIRIM 	Elyaf İplik İşletmeleri Grup Başkanı 	Makine Mühendisi 
+Elyaf İşletmeleri Yöneticisi 				MERKEZİ KAYIT KURULUŞU A.Ş.	Merkezi Kayıt Kuruluşu A.Ş. Duyurusu
+Gönderim Tarihi:26.04.2017 09:58:34 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi	Hak Kullanım İşlemleri
+İlgili Şirketler 	[SASA] 				İlgili Fonlar 
+[] 					
+		Türkçe 			
+	Merkezi Kayıt Kuruluşu A.Ş. Duyurusu 				
+		Yapılan Açıklama Düzeltme mi? 			
+				Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+					
+Bildirim İçeriği 					
+	Açıklamalar 				
+			SASA POLYESTER SANAYİ A.Ş.'nin 24.04.2017 tarihinde başlayan % 12,61261 oranındaki bedelsiz sermaye artırım işleminde, kaydileşmiş pay senetlerinin artırım karşılıkları ilgili üyelerin müşteri alt hesaplarına 26.04.2017 tarihinde alacak kaydedilmiştir.		BORSA İSTANBUL A.Ş.
+BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu	Gönderim Tarihi:24.04.2017 08:54:34 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi
+Bedelsiz Sermaye Artırımı	İlgili Şirketler 	[ODAS, SASA] 			
+İlgili Fonlar 	[] 				
+			Türkçe 		
+		BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu 			
+			Yapılan Açıklama Düzeltme mi? 		
+			Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+					- 
+	Bildirim İçeriği 				
+		Açıklamalar 			
+				ODAS.E (%185.18799  Bedelsiz, Bölünme sonrası Teorik Fiyat: 3.987 TL (Teorik fiyat, fiyat adımına yuvarlanmamıştır)
+SASA.E (%12.61261  Bedelsiz, Bölünme sonrası Teorik Fiyat: 4.449 TL (Teorik fiyat, fiyat adımına yuvarlanmamıştır)	
+BORSA İSTANBUL A.Ş.	Hak Kullanımı	Gönderim Tarihi:21.04.2017 17:19:04 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 	İlgili Şirketler 	GARAN, AKSGY, YBTAS, SASA, ODAS 		24.04.2017 tarihinden itibaren hak kullanımı işlemleri nedeniyle ilgili hakları kullanılmış olarak işlem görecek payların listesi aşağıdadır. 
+Kar Payı Ödemesi 
+Pay Kodu 	1 TL Nominal değerli paya BRÜT (TL) 	1 TL Nominal değerli paya NET (TL) 	Açıklama 	GARAN 	0,29762 
+0,25298 		AKSGY 	0,2092575 	0,2054175 	
+YBTAS 	51,344886 	43,6431531 			
+Sermaye Artırımı/Azaltımı 	Pay Kodu 	Sermaye Azaltım Oranı (%) 	Bedelsiz Pay Alma Oranı (%) 	Rüçhan Hakkı Kullanımı Oranı (%) 	Rüçhan Hakkı Kullandırma Fiyatı (TL) 
+Sermaye Artırımı Karşılığı Verilen Payların Niteliği 	Açıklama 	SASA 		12,61261 	
+	Kaydi Pay 		ODAS 		185,18799 
+		Kaydi Pay 			
+		SASA POLYESTER SANAYİ A.Ş.	Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim	Gönderim Tarihi:21.04.2017 16:50:00 	Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 	Bedelsiz Sermaye Artırımı Pay Dağıtım Tarihi 
+Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+Yönetim Kurulu Karar Tarihi 	20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 	500.000.000 
+Mevcut Sermaye (TL) 	366.300.000 
+Ulaşılacak Sermaye (TL) 	412.500.000 
+
+
+Bedelsiz Sermaye Artırımı 
+Pay Grup Bilgileri 
+Mevcut Sermaye (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 
+Kar Payından Bedelsiz Pay Alma Tutarı (TL) 
+Kar Payından Bedelsiz Pay Alma Oranı (%) 
+Verilecek Menkul Grubu 
+Verilecek Menkul Kıymet 
+Nevi 
+SASA, TRASASAW91E4 	366.300.000 	46.200.000 	12,61261 				SASA, TRASASAW91E4 	Nâma 
+		Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	TOPLAM 	366.300.000 
+46.200.000,000 	12,61261 				Bedelsiz Pay Alma Hakkı Kullanım Başlangıç Tarihi 
+24.04.2017 		İç Kaynakların Detayı : 
+		Diğer Sermaye Yedekleri (TL) 	46.200.000 
+
+
+
+
+Bildirilmesi Gereken Diğer Hususlar 
+SPK Başvuru Tarihi 
+20.03.2017 
+SPK Başvuru Sonucu 
+Onay 
+SPK Onay Tarihi 
+14.04.2017 
+Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+Kaydi Pay 
+Ödeme Tarihi 
+26.04.2017 * Sermaye artırımı varsa yeni payların, payları Borsa‘da işlem gören pay sahiplerinin hesaplarına girececeği, sermaye azaltımı varsa hesaplarından çıkacağı tarih. 	Kayıt Tarihi 
+25.04.2017 * Borsada işlem gören tipteki payların hak sahiplerinin belirlendiği tarih. 	
+	Ek Açıklamalar 
+Şirketimiz çıkarılmış sermayesinin, 46.200.000 Türk Lirası Olağanüstü Yedekler hesabından, , bedelsiz artırılarak 366.300.000 TL'den 412.500.000 TL'ye artırılması nedeniyle ihraç edilecek 46.200.000 TL tutarındaki paylara ilişkin Sermaye Piyasası Kurulu onayı 14.04.2017 tarihinde alınmış olup, pay dağıtımına 24.04.2017 tarihinde başlanacaktır. 
+SPK tarafından onaylanan Sermaye Artırımına İlişkin İhraç belgesi ekte yer almaktadır.
+(Saat 16:26 da yapılan bildirimin güncellemesidir.)	Eklenen Dökümanlar 
+EK: 1 
+İhraç Belgesi 46,2 milyon.pdf 	
+	
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:21.04.2017 16:26:37 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 
+Bedelsiz Sermaye Artırımı Pay Dağıtım Tarihi 
+Yapılan Açıklama Güncelleme mi ? 
+Hayır 
+Yapılan Açıklama Düzeltme mi ? 	Evet 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+Düzeltme Nedeni 	(Saat 16:10 da yapılan bildirimin güncellemesidir.) 
+Yönetim Kurulu Karar Tarihi 	20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 	500.000.000 
+Mevcut Sermaye (TL) 	366.300.000 
+Ulaşılacak Sermaye (TL) 	412.500.000 
+	
+Bedelsiz Sermaye Artırımı 	Pay Grup Bilgileri 
+Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	Verilecek Menkul Grubu 	Verilecek Menkul Kıymet 	Nevi 	SASA, TRASASAW91E4 
+366.300.000 	46.200.000 	12,61261 				SASA, TRASASAW91E4 	Nâma 	
+	Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 
+TOPLAM 	366.300.000 	46.200.000,000 	12,61261 		
+
+Bedelsiz Pay Alma Hakkı Kullanım Başlangıç Tarihi 
+24.04.2017 
+
+İç Kaynakların Detayı : 
+
+
+Diğer Sermaye Yedekleri (TL) 
+46.200.000 
+
+
+
+
+Bildirilmesi Gereken Diğer Hususlar 
+SPK Başvuru Tarihi 
+20.03.2017 
+SPK Başvuru Sonucu 
+Onay 
+SPK Onay Tarihi 
+14.04.2017 
+Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+Kaydi Pay 
+Ödeme Tarihi 
+26.04.2017 * Sermaye artırımı varsa yeni payların, payları Borsa‘da işlem gören pay sahiplerinin hesaplarına girececeği, sermaye azaltımı varsa hesaplarından çıkacağı tarih. 
+Kayıt Tarihi 
+25.04.2017 * Borsada işlem gören tipteki payların hak sahiplerinin belirlendiği tarih. 	
+	Ek Açıklamalar 
+Şirketimiz çıkarılmış sermayesinin, 46.200.000 Türk Lirası Olağanüstü Yedekler hesabından, , bedelsiz artırılarak 366.300.000 TL'den 412.500.000 TL'ye artırılması nedeniyle ihraç edilecek 46.200.000 TL tutarındaki paylara ilişkin Sermaye Piyasası Kurulu onayı 14.04.2017 tarihinde alınmış olup, pay dağıtımına 25.04.2017 tarihinde başlanacaktır. 
+SPK tarafından onaylanan Sermaye Artırımına İlişkin İhraç belgesi ekte yer almaktadır.
+(Saat 16:10 da yapılan bildirimin güncellemesidir.)	Eklenen Dökümanlar 
+EK: 1 
+İhraç Belgesi 46,2 milyon.pdf 	
+	
+	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:21.04.2017 16:10:31 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 	Bedelsiz Sermaye Artırımı Pay Dağıtım Tarihi 
+Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+Yönetim Kurulu Karar Tarihi 	20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 	500.000.000 
+Mevcut Sermaye (TL) 	366.300.000 
+Ulaşılacak Sermaye (TL) 	412.500.000 
+
+
+Bedelsiz Sermaye Artırımı 
+Pay Grup Bilgileri 
+Mevcut Sermaye (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 
+Kar Payından Bedelsiz Pay Alma Tutarı (TL) 
+Kar Payından Bedelsiz Pay Alma Oranı (%) 
+Verilecek Menkul Grubu 
+Verilecek Menkul Kıymet 
+Nevi 
+SASA, TRASASAW91E4 	366.300.000 	46.200.000 	12,61261 				SASA, TRASASAW91E4 	Nâma 
+		Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	TOPLAM 	366.300.000 
+46.200.000,000 	12,61261 				Bedelsiz Pay Alma Hakkı Kullanım Başlangıç Tarihi 
+21.04.2017 		İç Kaynakların Detayı : 
+		Diğer Sermaye Yedekleri (TL) 	46.200.000 
+
+
+
+
+Bildirilmesi Gereken Diğer Hususlar 
+SPK Başvuru Tarihi 
+20.03.2017 
+SPK Başvuru Sonucu 
+Onay 
+SPK Onay Tarihi 
+14.04.2017 
+Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+Kaydi Pay 
+Ödeme Tarihi 
+25.04.2017 * Sermaye artırımı varsa yeni payların, payları Borsa‘da işlem gören pay sahiplerinin hesaplarına girececeği, sermaye azaltımı varsa hesaplarından çıkacağı tarih. 	Kayıt Tarihi 
+24.04.2017 * Borsada işlem gören tipteki payların hak sahiplerinin belirlendiği tarih. 	
+	Ek Açıklamalar 
+Şirketimiz çıkarılmış sermayesinin, 46.200.000 Türk Lirası Olağanüstü Yedekler hesabından, , bedelsiz artırılarak 366.300.000 TL'den 412.500.000 TL'ye artırılması nedeniyle ihraç edilecek 46.200.000 TL tutarındaki paylara ilişkin Sermaye Piyasası Kurulu onayı 14.04.2017 tarihinde alınmış olup, pay dağıtımına 24.04.2017 tarihinde başlanacaktır. 
+SPK tarafından onaylanan Sermaye Artırımına İlişkin İhraç belgesi ekte yer almaktadır.	Eklenen Dökümanlar 
+EK: 1 
+İhraç Belgesi 46,2 milyon.pdf 	
+	
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+MERKEZİ KAYIT KURULUŞU A.Ş.
+Pay Mali Hak Kullanım İşlemi - Nakit Ödeme
+Gönderim Tarihi:18.04.2017 16:48:59 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi 
+Hak Kullanım İşlemleri 
+İlgili Şirketler 
+HDFGS, PETKM, SASA 
+
+Merkezi Kaydi Sistemde gerçekleştirilen hak kullanım ödemelerine ait kayıtlar aşağıda yer almaktadır. 
+KIYMET TÜRÜ 
+ISIN KOD AÇIKLAMA 
+ISIN KOD 	BORSA KODU 	İŞLEM TİPİ 	TEMETTÜ NET ORAN % 	TEMETTÜ BRÜT ORAN 	ORTAKLIKTAN ÇIKARMA NAKİT ÖDEME ORAN 	NAKİT ÖDEME TARİHİ 	PARA BİRİMİ 	AÇIKLAMA 	PAY SENEDİ 	HEDEF GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş. 
+TREHEDF00017 	HDFGS 	Nakit Temettü Ödeme 	1,5 	1,5 		18/04/2017 	TRY 		PAY SENEDİ 	PETKİM PETROKİMYA HOLDİNG A.Ş. 
+TRAPETKM91E0 	PETKM 	Nakit Temettü Ödeme 	34 	40 		18/04/2017 	TRY 		PAY SENEDİ 	SASA POLYESTER SANAYİ A.Ş. 
+TRASASAW91E4 	SASA 	Nakit Temettü Ödeme 	21,784 	25,629 		18/04/2017 	TRY 			
+SASA POLYESTER SANAYİ A.Ş.
+Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:17.04.2017 11:26:50 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 	Sermaye Artırımına ilişkin SPK Onayı Verilmesi 
+Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+Yönetim Kurulu Karar Tarihi 	20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 	500.000.000 
+Mevcut Sermaye (TL) 	366.300.000 
+Ulaşılacak Sermaye (TL) 	412.500.000 
+
+
+Bedelsiz Sermaye Artırımı 
+Pay Grup Bilgileri 
+Mevcut Sermaye (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 
+Kar Payından Bedelsiz Pay Alma Tutarı (TL) 
+Kar Payından Bedelsiz Pay Alma Oranı (%) 
+Verilecek Menkul Grubu 
+Verilecek Menkul Kıymet 
+Nevi 
+SASA, TRASASAW91E4 	366.300.000 	46.200.000 	12,61261 				SASA, TRASASAW91E4 	Nâma 
+		Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	TOPLAM 	366.300.000 
+46.200.000,000 	12,61261 				
+	İç Kaynakların Detayı : 
+		Diğer Sermaye Yedekleri (TL) 	46.200.000 	
+
+
+
+Bildirilmesi Gereken Diğer Hususlar 
+SPK Başvuru Tarihi 
+20.03.2017 
+SPK Başvuru Sonucu 
+Onay 
+SPK Onay Tarihi 
+14.04.2017 
+Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+Kaydi Pay 
+
+
+Ek Açıklamalar 
+Şirketimiz çıkarılmış sermayesinin, 46.200.000 Türk Lirası Olağanüstü Yedekler hesabından karşılanarak, 366.300.000 TL'den 412.500.000 TL' ye bedelsiz artırılmasına ilişkin başvuru Sermaye Piyasası Kurulu tarafından 14.04.2017 tarihinde onaylanmıştır. 
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+BORSA İSTANBUL A.Ş.
+BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu
+Gönderim Tarihi:14.04.2017 09:22:35 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Temettü Ödemesi
+İlgili Şirketler 	[SASA, PETKM, HDFGS] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu 		
+			
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	- 		Bildirim İçeriği 	
+				
+Açıklamalar 		
+		
+		Temettü Ödemesi
+HDFGS.E Pay Başına Brüt Temettü: 0,015  TL, Teorik Fiyat: 2,215 TL (Teorik fiyat, fiyat adımına yuvarlanmamıştır.)
+PETKM.E Pay Başına Brüt Temettü: 0,4  TL, Teorik Fiyat: 4,63 TL (Teorik fiyat, fiyat adımına yuvarlanmamıştır.)
+        
+SASA.E Pay Başına Brüt Temettü: 0,25629 TL, Teorik Fiyat: 4,194 TL (Teorik fiyat, fiyat adımına yuvarlanmamıştır.)
+	BORSA İSTANBUL A.Ş.	Hak Kullanımı
+Gönderim Tarihi:13.04.2017 17:47:19 	Bildirim Tipi:DUY 	Yıl: 	Periyot: 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 	İlgili Şirketler 	SASA, PETKM, HDFGS 
+	14.04.2017 tarihinden itibaren hak kullanımı işlemleri nedeniyle ilgili hakları kullanılmış olarak işlem görecek payların listesi aşağıdadır. 	Kar Payı Ödemesi 
+Pay Kodu 
+1 TL Nominal değerli paya BRÜT (TL) 	1 TL Nominal değerli paya NET (TL) 	Açıklama 
+SASA 	0,25629 	0,21784 
+	PETKM 	0,4 	0,34 
+	HDFGS 	0,015 	0,015 
+		
+	
+SASA POLYESTER SANAYİ A.Ş.	Genel Kurul İşlemlerine İlişkin Bildirim	Gönderim Tarihi:06.04.2017 09:17:35 	Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 	2016 Olağan Genel Kurul Toplantısı Sonuçlarının Tescili Hakkında 
+Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+
+
+Genel Kurul Çağrısı 
+Genel Kurul Tipi 
+Olağan Genel Kurul 
+Hesap Dönemi Başlangıç Tarihi 
+01.01.2016 
+Hesap Dönemi Bitiş Tarihi 
+31.12.2016 
+Karar Tarihi 
+27.02.2017 
+Genel Kurul Tarihi 
+30.03.2017 
+Genel Kurul Saati 
+11:00 
+GK'na Katılım İçin Pay Sahibi Olunması Gereken Son Tarih 
+29.03.2017 
+Ülke 
+Türkiye 
+Şehir 
+ADANA 
+İlçe 
+SEYHAN 
+Adres 
+Yolgeçen Mah. Turhan Cemal Beriker Bulvarı No:559 01355 Syhan /ADANA 
+
+
+Gündem Maddeleri 
+1 - Açılış ve Toplantı Başkanlığının oluşturulması, 
+2 - 2016 yılına ait Yönetim Kurulu faaliyet raporunun okunması ve müzakeresi, 
+3 - 2016 yılına ait Denetçi Raporlarının okunması, 
+4 - 2016 yılına ait Finansal Tabloların okunması, müzakeresi ve tasdiki, 
+5 - 2016 yılı faaliyetlerinden dolayı Yönetim kurulu üyelerinin ibra edilmeleri, 
+6 - 2016 yılı Karının kullanım şeklinin, dağıtılacak kar ve kazanç payları oranlarının belirlenmesi, 
+7 - 2016 yılı içinde yapılan Bağış ve Yardımlar Hakkkında Genel Kurul'a bilgi verilmesi, 
+8 - Şirketin 2017 yılında yapacağı bağışların sınırının belirlenmesi, 
+9 - Denetçi Seçimi 
+10 - Yönetim Kurulu üyelerinin ücretleri ile huzur hakkı, ikramiye ve prim gibi hakların belirlenmesi, 
+11 - Yönetim Kurulu Başkan ve üyelerine, Türk Ticaret Kanunu'nun 395. ve 396. maddelerinde yazılı muameleleri yapabilmeleri için izin verilmesi 
+Gündemde Yer Alan Hak Kullanım Süreçleri 
+Kar Payı Dağıtım 
+
+Genel Kurul Çağrı Dökümanları 
+EK: 1 
+Genel Kurul Bilgilendirme Dökümanı 2016.pdf - Genel Kurul Bilgilendirme Dokümanı 
+
+
+
+
+Genel Kurul Sonuçları 
+Genel Kurul Yapıldı mı? 
+Evet 
+Genel Kurul Sonuçları 
+Şirketimizin 30 Mart 2017 Perşembeı günü saat 11:00 'de Şirket merkez adresi olan Yolgeçen Mahallesi Turhan Cemal Beriker Bulvarı No:559 01355 Seyhan / Adana adresinde yapılan 2016 Yılı Olağan Genel Kurul Toplantısında özet olarak aşağıdaki kararlar alınmıştır.
+1- Yönetim Kurulu Başkanı İbrahim ERDEMOĞLU'nun başkanlığında, oy toplama memurluğuna Mehmet ŞEKER'in, tutanak yazmanlığına Ali ÖZ' ün seçilmelerine karar verildi ve Toplantı Başkanlığı oluşturuldu. 
+2-Yönetim Kurulu faaliyet raporu okundu ve müzakere edildi.
+3-Denetçi raporları okundu.
+4-2016 yılına ait Finansal Tablolar okundu, müzakere edildi ve tasdik edildi.
+5-Yönetim Kurulu üyeleri 2016 yılı faaliyetlerinden dolayı ibra edildiler. 
+6-2016 yılının karının kullanım şekli görüşüldü. 2016 yılı dağıtılabilir karından % 25,629 (brüt), % 21,784(net) oranında kâr payının 14/04/2017 tarihinden itibaren nakden dağıtılmasına karar verildi. 
+7-2016 yılı içinde yapılan Bağış ve Yardımlar Hakkında Genel Kurul'a bilgi verildi, Şirketin 2017 yılına ilişkin bağışlarının sınırının 1.000.000-TL olmasına karar verildi.
+8- .Şirketin 2017 yılı hesap dönemindeki finansal raporlarının denetlenmesi ve bu kanunlardaki ilgili düzenlemeler kapsamında diğer faaliyetleri yürütmek üzere, Eski Büyükdere Cad. Maslak Mah.N1 Maslak No1 Plaza 34398 Sarıyer / İstanbul, adresinde bulunan DRT Bağımsız Denetim ve Serbest Muhasebeci Mali Müşavirlik A.Ş.'nin Denetçi olmasına karar verildi.
+9-Yönetim Kurulu Üyelerine görev süreleri boyunca aylık brüt 5.000 TL ödenmesine karar verildi.
+10-Yönetim kurulu başkan ve üyelerine, Türk Ticaret Kanunu'nun 395. ve 396. maddelerinde yazılı muameleleri yapabilmeleri için izin verilmesine karar verildi.
+11- 2016 yılı içerisinde Yönetim Kurulu Üyeliği'nden ayrılan Sn. Toker Özcan ve Sn. Mehmet Kahya'nın yerlerine kalan süreyi tamamlamak üzere atanan Sn. Mehmet Şeker ve Sn. Mahmut Bilen'in Yönetim kurulu üyelikleri onaylandı. 
+
+
+Hak Kullanım Süreçleri İle İlgili Alınan Kararlar 
+Kar Payı Dağıtım 	Görüşüldü 
+
+
+Genel Kurul Kararları Tescili 
+Genel Kurul Kararları Tescil Edildi mi? 
+Evet 
+Tescil Tarihi 
+05.04.2017 
+
+Genel Kurul Sonuç Dökümanları 
+EK: 1 
+SASA 2016 GENEL KURUL TOPLANTI TUTANAĞI.pdf - Tutanak 
+EK: 2 
+SASA KAR DAĞITIM TABLOSU.pdf - Diğer Genel Kurul Sonuç Dokümanı 
+EK: 3 
+SASA 2016 GENEL KURUL HAZİRUN CETVELİ.pdf - Hazır Bulunanlar Listesi 
+
+
+
+
+Ek Açıklamalar 
+Şirketimizin 30.03.2017 tarihinde yapılan Olağan Genel Kurul Toplantısı sonuçları Adana Ticaret Sicil Müdürlüğü tarafından 05.04.2017 tarihinde tescil edilmiştir. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Kar Payı Dağıtım İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:30.03.2017 16:02:03 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 
+2016 yılına ait karın kullanım şekli ile ilgili Genel Kurul Kararı 	Yapılan Açıklama Güncelleme mi ? 
+Evet 	Yapılan Açıklama Düzeltme mi ? 
+Hayır 	Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+Hayır 	Yönetim Kurulu Karar Tarihi 
+27.02.2017 	Konunun Gündemde Yer Aldığı Genel Kurul Tarihi 
+30.03.2017 	Kar Payı Dağıtımı Konusu Görüşüldü mü? 
+Görüşüldü 	Nakit Kar Payı Ödeme Şekli 
+Peşin 	Para Birimi 
+TRY 	Pay Biçiminde Ödeme 
+Ödenmeyecek 	
+
+Nakit Kar Payı Ödeme Tutar ve Oranları 
+Pay Grup Bilgileri 
+Ödeme 
+1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Brüt(TL) 
+1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Brüt(%) 
+1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Net(TL) 
+1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Net(%) 
+SASA, TRASASAW91E4 
+Peşin 
+0,25629 
+25,629 
+0,21784 
+21,784 
+
+
+Kar Payı Ödeme Tarihleri 
+Ödeme 
+Teklif Edilen 
+Nakit Kar Payı Hak Kullanım Tarihi (1) 
+Kesinleşen 
+Nakit Kar Payı Hak Kullanım Tarihi (2) 
+Ödeme Tarihi (3) 
+Kayıt Tarihi (4) 
+Peşin 
+14.04.2017 
+14.04.2017 
+18.04.2017 	17.04.2017 			(1) Kar payının şirket tarafından ödeneceği ve payın kar payı hakkı bulunmadan işlem görmeye başlayacağı tarih (teklif edilen). 
+(2) Kar payının şirket tarafından ödeneceği ve payın kar payı hakkı bulunmadan işlem görmeye başlayacağı tarih (kesinleşen). 	(3) Payları Borsa‘da işlem gören pay sahiplerinin hesaplarına giriş yapılacağı tarih. 	(4) Borsada işlem gören tipteki payların hak sahiplerinin belirlendiği tarih. 	Pay Olarak Kar Payı Ödeme Tutar ve Oranları 	Pay Grup Bilgileri 
+Pay Biçiminde Dağıtılacak Kar Payı Tutarı(TL) 	Pay Biçiminde Dağıtılacak Kar Payı Oranı(%) 	SASA, TRASASAW91E4 
+0 	0 	
+
+
+
+Ek Açıklamalar 
+Şirketimizin bugün yapılan Genel Kurul toplantısında aşağıdaki karar verilmiştir;
+Sermaye Piyasası Kurulu'nun Seri II, 14.1 No'lu "Sermaye Piyasasında Finansal Raporlamaya İlişkin Esaslar Tebliği" uyarınca hazırlanan ve PwC Bağımsız Denetim ve Serbest Muhasebeci Mali Müşavirlik A.Ş. tarafından denetlenen 01.01.2016 - 31.12.2016 hesap dönemine ait şirket finansal tablolarına göre 137.508.073,62 TL Konsolide Net Dönem Kârı elde edilmiştir.
+Aşağıdaki kar dağıtım tablosunda açıklandığı üzere; SPK Mevzuatına uygun olarak hesaplanan 2016 yılı Konsolide Net Dönem Karından Esas Sözleşmenin 31. Maddesi gereği ve SPK tebliğlerine uygun olarak 6.139.672,42 TL Genel Kanuni Yedek Akçe (1.Tertip) ayrıldıktan ve 29.934.507,75 TL geçmiş yıl zararları düşüldükten sonra kalan 101.433.893,45 TL tutarında Net Dağıtılabilir Dönem Kârının aşağıdaki şekilde dağıtılmasına,
+Birinci Kâr Payı 50.777.545,34 TL
+İkinci Kâr Payı 43.100.085,07 TL
+Toplam Brüt Kâr Payı 93.877.630,41 TL
+Genel Kanuni Yedek Akçe (2.Tertip) 7.556.263,04 TL
+Kar dağıtımının yukarıdaki esaslara göre yapılması neticesinde, Vergi Usul Kanunu hükümlerine göre hazırlanan yasal kayıtlarımız esas alındığında ise;
+Yasal kayıtlarımızda yer alan 122.793.448,41 TL. Net Dönem Karından 6.139.672,42 TL Genel Kanuni Yedek Akçe (1.Tertip) ayrılmasına, 93.877.630,41 TL. Brüt Kar Payı dağıtılmasına, 7.556.263,04 TL Genel Kanuni Yedek Akçe (2.Tertip) ayrılmasına, 15.219.882,54 TL'nin de Olağanüstü Yedek olarak ayrılmasına,
+Böylelikle, 2016 yılı için, 366.300.000 TL sermayeyi temsil eden pay sahiplerine hukuki durumlarına bağlı olarak % 25,6286 (Brüt), % 21,7843 (Net) oranında toplam 93.877.630,41 TL Kar Payının 14 Nisan 2017 tarihinden itibaren nakden dağıtılması hususu 30 Mart 2017 tarihinde yapılan olan Olağan Genel Kurul'da onaylanmıştır.
+Eklenen Dökümanlar 
+EK: 1 
+SASA KAR DAĞITIM TABLOSU.pdf 
+
+
+
+
+
+KAR PAYI DAĞITIM TABLOSU 
+SASA POLYESTER SANAYİ A.Ş. 01.01.2016/31.12.2016 Dönemi Kâr Payı Dağıtım Tablosu (TL) 
+1. Ödenmiş/Çıkarılmış Sermaye 
+366.300.000 
+2. Genel Kanuni Yedek Akçe (Yasal Kayıtlara Göre) 
+10.029.118,05 
+Esas sözleşme uyarınca kâr dağıtımında imtiyaz var ise söz konusu imtiyaza ilişkin bilgi 
+Yoktur 
+
+
+* 
+SPK'ya Göre 
+Yasal Kayıtlara (YK) Göre 
+3. Dönem Kârı 
+158.141.872,01 	138.025.852,07 	4. Vergiler ( - ) 
+-20.633.798,39 	-15.232.403,66 	5. Net Dönem Kârı 
+137.508.073,62 	122.793.448,41 	6. Geçmiş Yıllar Zararları ( - ) 
+-29.934.507,75 	0 	7. Genel Kanuni Yedek Akçe ( - ) 
+-6.139.672,42 	-6.139.672,42 	8. Net Dağıtılabilir Dönem Karı 
+101.433.893,45 	116.653.775,99 	Yıl İçinde Dağıtılan Kar Payı Avansı (-) 
+0 	0 	Kar Payı Avansı Düşülmüş Net Dağıtılabilir Dönem Karı/Zararı 
+101.433.893,45 	0 	9. Yıl İçinde Yapılan Bağışlar ( + ) 
+121.197,23 	0 	10. Bağışlar Eklenmiş Net Dağıtılabilir Dönem Karı 
+101.555.090,68 	0 	11. Ortaklara Birinci Kâr Payı 
+50.777.545,34 	0 	* Nakit 
+50.777.545,34 	0 	* Bedelsiz 
+0 	0 	12. İmtiyazlı Pay Sahiplerine Dağıtılan Kâr Payı 
+0 	0 	13. Dağıtılan Diğer Kâr Payı 
+0 	0 	* Çalışanlara 
+0 	0 	* Yönetim Kurulu Üyelerine 
+0 	0 	* Pay Sahibi Dışındaki Kişilere 
+0 	0 	14. İntifa Senedi Sahiplerine Dağıtılan Kâr Payı 
+0 	0 	15. Ortaklara İkinci Kâr Payı 
+43.100.085,07 	0 	16. Genel Kanuni Yedek Akçe 
+7.556.263,04 	0 	17. Statü Yedekleri 
+0 	0 	18. Özel Yedekler 
+0 	0 	19. Olağanüstü Yedek 
+0 	15.219.882,54 	20. Dağıtılması Öngörülen Diğer Kaynaklar 
+0 	0 	
+	Kar Payı Oranları Tablosu 	Pay Grubu 
+TOPLAM DAĞITILAN KAR PAYI - NAKİT (TL) - NET 	TOPLAM DAĞITILAN KAR PAYI - BEDELSİZ (TL) 	TOPLAM DAĞITILAN KAR PAYI / NET DAĞITILABİLİR DÖNEM KARI (%) 	1 TL NOMİNAL DEĞERLİ PAYA İSABET EDEN KAR PAYI - TUTARI(TL) - NET 	1 TL NOMİNAL DEĞERLİ PAYA İSABET EDEN KAR PAYI - ORANI(%) - NET 	- - - 
+79.795.985,85 		78,67 	0,21784 	21,7843 	TOPLAM 
+79.795.985,85 		78,67 	0,21784 	21,7843 	
+
+Kar Payı Dağıtım Tablosu Açıklamaları 
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Genel Kurul İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:30.03.2017 15:08:20 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 
+2016 Yılı Olağan Genel Kurul Toplantısı Sonucu. 
+Yapılan Açıklama Güncelleme mi ? 
+Evet 
+Yapılan Açıklama Düzeltme mi ? 
+Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+Hayır 
+
+
+Genel Kurul Çağrısı 
+Genel Kurul Tipi 
+Olağan Genel Kurul 
+Hesap Dönemi Başlangıç Tarihi 
+01.01.2016 
+Hesap Dönemi Bitiş Tarihi 	31.12.2016 
+Karar Tarihi 	27.02.2017 
+Genel Kurul Tarihi 	30.03.2017 
+Genel Kurul Saati 	11:00 
+GK'na Katılım İçin Pay Sahibi Olunması Gereken Son Tarih 	29.03.2017 
+Ülke 	Türkiye 
+Şehir 	ADANA 
+İlçe 	SEYHAN 
+Adres 	Yolgeçen Mah. Turhan Cemal Beriker Bulvarı No:559 01355 Syhan /ADANA 
+	
+Gündem Maddeleri 	1 - Açılış ve Toplantı Başkanlığının oluşturulması, 
+2 - 2016 yılına ait Yönetim Kurulu faaliyet raporunun okunması ve müzakeresi, 
+3 - 2016 yılına ait Denetçi Raporlarının okunması, 
+4 - 2016 yılına ait Finansal Tabloların okunması, müzakeresi ve tasdiki, 
+5 - 2016 yılı faaliyetlerinden dolayı Yönetim kurulu üyelerinin ibra edilmeleri, 
+6 - 2016 yılı Karının kullanım şeklinin, dağıtılacak kar ve kazanç payları oranlarının belirlenmesi, 
+7 - 2016 yılı içinde yapılan Bağış ve Yardımlar Hakkkında Genel Kurul'a bilgi verilmesi, 
+8 - Şirketin 2017 yılında yapacağı bağışların sınırının belirlenmesi, 
+9 - Denetçi Seçimi 
+10 - Yönetim Kurulu üyelerinin ücretleri ile huzur hakkı, ikramiye ve prim gibi hakların belirlenmesi, 
+11 - Yönetim Kurulu Başkan ve üyelerine, Türk Ticaret Kanunu'nun 395. ve 396. maddelerinde yazılı muameleleri yapabilmeleri için izin verilmesi 
+Gündemde Yer Alan Hak Kullanım Süreçleri 
+Kar Payı Dağıtım 
+
+Genel Kurul Çağrı Dökümanları 
+EK: 1 
+Genel Kurul Bilgilendirme Dökümanı 2016.pdf - Genel Kurul Bilgilendirme Dokümanı 
+
+
+
+
+Genel Kurul Sonuçları 
+Genel Kurul Yapıldı mı? 
+Evet 
+Genel Kurul Sonuçları 
+Şirketimizin 30 Mart 2017 Perşembeı günü saat 11:00 'de Şirket merkez adresi olan Yolgeçen Mahallesi Turhan Cemal Beriker Bulvarı No:559 01355 Seyhan / Adana adresinde yapılan 2016 Yılı Olağan Genel Kurul Toplantısında özet olarak aşağıdaki kararlar alınmıştır.
+1- Yönetim Kurulu Başkanı İbrahim ERDEMOĞLU'nun başkanlığında, oy toplama memurluğuna Mehmet ŞEKER'in, tutanak yazmanlığına Ali ÖZ' ün seçilmelerine karar verildi ve Toplantı Başkanlığı oluşturuldu. 
+2-Yönetim Kurulu faaliyet raporu okundu ve müzakere edildi.
+3-Denetçi raporları okundu.
+4-2016 yılına ait Finansal Tablolar okundu, müzakere edildi ve tasdik edildi.
+5-Yönetim Kurulu üyeleri 2016 yılı faaliyetlerinden dolayı ibra edildiler. 
+6-2016 yılının karının kullanım şekli görüşüldü. 2016 yılı dağıtılabilir karından % 25,629 (brüt), % 21,784(net) oranında kâr payının 14/04/2017 tarihinden itibaren nakden dağıtılmasına karar verildi. 
+7-2016 yılı içinde yapılan Bağış ve Yardımlar Hakkında Genel Kurul'a bilgi verildi, Şirketin 2017 yılına ilişkin bağışlarının sınırının 1.000.000-TL olmasına karar verildi.
+8- .Şirketin 2017 yılı hesap dönemindeki finansal raporlarının denetlenmesi ve bu kanunlardaki ilgili düzenlemeler kapsamında diğer faaliyetleri yürütmek üzere, Eski Büyükdere Cad. Maslak Mah.N1 Maslak No1 Plaza 34398 Sarıyer / İstanbul, adresinde bulunan DRT Bağımsız Denetim ve Serbest Muhasebeci Mali Müşavirlik A.Ş.'nin Denetçi olmasına karar verildi.
+9-Yönetim Kurulu Üyelerine görev süreleri boyunca aylık brüt 5.000 TL ödenmesine karar verildi.
+10-Yönetim kurulu başkan ve üyelerine, Türk Ticaret Kanunu'nun 395. ve 396. maddelerinde yazılı muameleleri yapabilmeleri için izin verilmesine karar verildi.
+11- 2016 yılı içerisinde Yönetim Kurulu Üyeliği'nden ayrılan Sn. Toker Özcan ve Sn. Mehmet Kahya'nın yerlerine kalan süreyi tamamlamak üzere atanan Sn. Mehmet Şeker ve Sn. Mahmut Bilen'in Yönetim kurulu üyelikleri onaylandı. 
+
+
+Hak Kullanım Süreçleri İle İlgili Alınan Kararlar 
+Kar Payı Dağıtım 
+Görüşüldü 
+
+Genel Kurul Sonuç Dökümanları 
+EK: 1 
+SASA 2016 GENEL KURUL TOPLANTI TUTANAĞI.pdf - Tutanak 
+EK: 2 
+SASA 2016 GENEL KURUL HAZİRUN CETVELİ.pdf - Hazır Bulunanlar Listesi 
+
+
+
+
+Ek Açıklamalar 
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Maddi Duran Varlık Alımı
+Gönderim Tarihi:30.03.2017 14:04:39 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi
+ARSA ALIMI
+İlgili Şirketler 
+[] 
+
+		İlgili Fonlar 	[] 	
+				
+	Türkçe 	
+		
+Maddi Duran Varlık Alımı 		
+		
+	Yapılan Açıklama Güncelleme mi? 		
+			Hayır (No) 
+	Yapılan Açıklama Düzeltme mi? 		
+			Evet (Yes) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+			
+30.03.2017 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+			
+Hayır (No) 		Bildirim İçeriği 	
+			
+	Alıma Konu Maddi Duran Varlığın Niteliği 		
+			Arsa 
+	Alıma Konu Maddi Duran Varlığın Mevkii, Yüzölçümü 		
+			42.139 metrekare 
+	Alıma İlişkin Yönetim Kurulu Karar Tarihi 		
+			30.03.2017 
+	Alıma İlişkin Yönetim Kurulu Kararında Bağımsız Üyelerin Çoğunluğunun Onayı Var mı? 		
+			Evet 
+	Toplam Alım Bedeli 		
+			13.800.000 TL 
+	İşlem Bedelinin Ortaklığın Yönetim Kurulu Karar Tarihinden Önceki Altı Aylık Günlük Düzeltilmiş Ağırlıklı Ortalama Fiyatların Aritmetik Ortalaması Baz Alınarak Hesaplanacak Şirket Değerine Olan Oranı (%) 		
+			%1,30 
+	Alım Bedelinin Ortaklık Ödenmiş Sermayesine Oranı (%) 		
+			% 3,28 
+	Alım Bedelinin Ortaklığın Kamuya Açıklanan Son Finansal Tablosundaki Aktif Toplamına Oranı (%) 		
+			% 1,16 
+	Alım Bedelinin Ortaklığın Kamuya Açıklanan Son Finansal Tablosundaki Maddi Duran Varlıkların Net Değerine Oranı (%) 		
+			% 6,82 
+	İşlem Bedelinin Ortaklığın Kamuya Açıklanan Son Yıllık Finansal Tablolara Göre Oluşan Hasılat Tutarına Oranı (%) 		
+			% 1,10 
+	Alım Koşulları 	
+		
+	% 27 peşin; bakiye tapu işlem günü ödenecek 		İşlemin Tamamlandığı/Tamamlanacağı Tarih 	
+				02.05.2017 
+	Alımın Amacı ve Ortaklığın Faaliyetlerine Etkileri 	
+		
+	Yeni yatırımlar için üretim alanı olarak kullanılacaktır. 	
+Karşı Taraf 		
+			Temsa Global Sanayi ve Ticaret A.Ş. 
+	Karşı Taraf SPK Düzenlemelerine Göre İlişkili Taraf mıdır? 		
+			Hayır (No) 
+	Karşı Taraf İle Olan İlişkinin Niteliği 		
+		
+Bulunmuyor 		Varsa İşleme İlişkin Sözleşme Tarihi 	
+			
+		Önemli Niteliklteki İşlem Kapsamında Kullandırılacak Ayrılma Hakkı Fiyatı 	
+			
+- 		Maddi Duran Varlığın Değerinin Belirlenme Yöntemi 	
+			
+Piyasa ve Emsal Değerleme 		Değerleme Raporu Düzenlendi mi? 	
+			
+Düzenlenmedi (Not Prepared) 		Değerleme Raporu Düzenlenmediyse Nedeni 	
+			
+Rayiç değeri hakkında bilgi sahibi olunduğundan 		Değerleme Raporu Düzenlendiyse Tarih ve Numarası 	
+			
+- 		Değerleme Raporunu Hazırlayan Değerleme Kuruluşunun Unvanı 	
+			
+- 		Değerleme Raporu Sonucu Bulunan Tutar 	
+			
+- 		İşlem Değerleme Raporundaki Sonuçlara Uygun Gerçekleştirilmemişse/Gerçekleştirilmeyecekse Gerekçesi 	
+			
+- 		Açıklamalar 	
+			
+		30.03.2017 tarihinde  saat 09:13 te yaptığımız "Maddi Duran Varlık Alımı" ile ilgili açıklamamızda sehven  yazılan "Toplam Alım Bedeli: 13.800.000.000 TL " ; "Toplam Alım Bedeli: 13.800.000 TL " olarak düzeltilmiştir.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.	Maddi Duran Varlık Alımı	Gönderim Tarihi:30.03.2017 09:13:59 
+Bildirim Tipi:ODA 	Yıl: 	Periyot: 	Özet Bilgi
+ARSA ALIMI	İlgili Şirketler 	[] 	
+		İlgili Fonlar 	[] 
+		
+		
+	Türkçe 			
+	Maddi Duran Varlık Alımı 			
+		
+Yapılan Açıklama Güncelleme mi? 		
+		
+Hayır (No) 		Yapılan Açıklama Düzeltme mi? 
+			
+	Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+			
+	- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+		
+		Hayır (No) 	
+Bildirim İçeriği 			
+			Alıma Konu Maddi Duran Varlığın Niteliği 
+			
+	Arsa 		Alıma Konu Maddi Duran Varlığın Mevkii, Yüzölçümü 
+			
+	42.139 metrekare 		Alıma İlişkin Yönetim Kurulu Karar Tarihi 
+			
+	30.03.2017 		Alıma İlişkin Yönetim Kurulu Kararında Bağımsız Üyelerin Çoğunluğunun Onayı Var mı? 
+			
+	Evet 		Toplam Alım Bedeli 
+			
+	13.800.000.000.-TL 		İşlem Bedelinin Ortaklığın Yönetim Kurulu Karar Tarihinden Önceki Altı Aylık Günlük Düzeltilmiş Ağırlıklı Ortalama Fiyatların Aritmetik Ortalaması Baz Alınarak Hesaplanacak Şirket Değerine Olan Oranı (%) 
+			
+	% 1,30 		Alım Bedelinin Ortaklık Ödenmiş Sermayesine Oranı (%) 
+			
+	% 3,28 		Alım Bedelinin Ortaklığın Kamuya Açıklanan Son Finansal Tablosundaki Aktif Toplamına Oranı (%) 
+			
+	% 1,16 		Alım Bedelinin Ortaklığın Kamuya Açıklanan Son Finansal Tablosundaki Maddi Duran Varlıkların Net Değerine Oranı (%) 
+			
+	% 6,82 		İşlem Bedelinin Ortaklığın Kamuya Açıklanan Son Yıllık Finansal Tablolara Göre Oluşan Hasılat Tutarına Oranı (%) 
+			
+	% 1,01 		Alım Koşulları 
+			
+	% 27 peşin ; bakiye tapu işlem günü ödnecek. 		İşlemin Tamamlandığı/Tamamlanacağı Tarih 
+		
+		02.05.2017 
+	Alımın Amacı ve Ortaklığın Faaliyetlerine Etkileri 			
+		Yeni yatırımlar için üretim alanı olarak kullanılacaktır. 		Karşı Taraf 
+		
+		Temsa Global Sanayi ve Ticaret A.Ş. 
+	Karşı Taraf SPK Düzenlemelerine Göre İlişkili Taraf mıdır? 	
+		
+	Hayır (No) 		Karşı Taraf İle Olan İlişkinin Niteliği 
+			
+	Bulunmuyor. 		Varsa İşleme İlişkin Sözleşme Tarihi 
+			
+	- 	
+Önemli Niteliklteki İşlem Kapsamında Kullandırılacak Ayrılma Hakkı Fiyatı 			
+		- 	
+Maddi Duran Varlığın Değerinin Belirlenme Yöntemi 			
+		Piyasa ve Emsal Değerleme 	
+Değerleme Raporu Düzenlendi mi? 			
+		Düzenlenmedi (Not Prepared) 	
+Değerleme Raporu Düzenlenmediyse Nedeni 			
+		Rayiç değeri hakkında bilgi sahibi olunduğundan 	
+Değerleme Raporu Düzenlendiyse Tarih ve Numarası 			
+		- 	
+Değerleme Raporunu Hazırlayan Değerleme Kuruluşunun Unvanı 			
+		- 	
+Değerleme Raporu Sonucu Bulunan Tutar 			
+		- 	
+İşlem Değerleme Raporundaki Sonuçlara Uygun Gerçekleştirilmemişse/Gerçekleştirilmeyecekse Gerekçesi 			
+		- 	
+Açıklamalar 			
+			
+Yeni yatırımlarda değerlendirilmek üzere  Sasa Polyester Sanayi A.Ş.'nin mevcut arsalarına bitişik konumdaki  Temsa.Global Sanayi ve Ticaret A.Ş'den 42.139 metrekare arsanın  alınması kapsamında işlemlere başlanmıştır. 		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Özel Durum Açıklaması (Genel)	Gönderim Tarihi:30.03.2017 09:08:28 	Bildirim Tipi:ODA 	Yıl: 
+Periyot: 	Özet Bilgi	Petrol-İş TİS Görüşmelerinde Anlaşma İmzalanması	İlgili Şirketler 
+[] 			
+İlgili Fonlar 	[] 		
+			
+	Türkçe 		
+		Özel Durum Açıklaması (Genel) 
+		
+			Yapılan Açıklama Güncelleme mi? 	
+				Evet (Yes) 
+	Yapılan Açıklama Düzeltme mi? 	
+		
+	Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+			17/02/2017 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 		
+			Hayır (No) 
+	Bildirim İçeriği 		
+		
+	Açıklamalar 	
+		
+			Şirketimizin  kimya işkolunda faaliyet gösteren işyerleri ile ilgili olarak Petrol İş  Sendikası ile arasında devam eden 20. Dönem İşletme Toplu İş Sözleşmesi  görüşmeleri anlaşma ile sonuçlanmış ve 36 ay süreli Toplu İş Sözleşmesi  imzalanarak 01.01.2017 tarihinden geçerli olmak üzere yürürlüğe  girmiştir. Toplu İş Sözleşmesinin imzalanması ile işçi sendikasının  aldığı Grev Kararı yürürlükten  kaldırılmıştır. 	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.	Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim	Gönderim Tarihi:20.03.2017 14:22:33 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi 
+Sermaye Artırımına ilişkin SPK'ya başvuru 	Yapılan Açıklama Güncelleme mi ? 	Evet 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 	Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+Hayır 	Yönetim Kurulu Karar Tarihi 	20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 	500.000.000 	Mevcut Sermaye (TL) 	366.300.000 
+Ulaşılacak Sermaye (TL) 	412.500.000 		
+Bedelsiz Sermaye Artırımı 	Pay Grup Bilgileri 	Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	Verilecek Menkul Grubu 
+Verilecek Menkul Kıymet 	Nevi 	SASA, TRASASAW91E4 
+366.300.000 	46.200.000 	12,61261 
+		
+SASA, TRASASAW91E4 	Nâma 			Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 
+TOPLAM 	366.300.000 	46.200.000,000 	12,61261 					
+İç Kaynakların Detayı : 
+
+
+Diğer Sermaye Yedekleri (TL) 	46.200.000 
+	
+
+
+Bildirilmesi Gereken Diğer Hususlar 
+SPK Başvuru Tarihi 
+20.03.2017 
+
+
+Ek Açıklamalar 
+Şirketimizin Bedelsiz Sermaye Artışı kapsamında SPK başvurusu yapılmıştır. 
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Özel Durum Açıklaması (Genel)
+Gönderim Tarihi:27.02.2017 17:06:58 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Petrol-İş Tis Görüşmeleri Grev Kararı
+İlgili Şirketler 	[] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Özel Durum Açıklaması (Genel) 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 	
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	17.01.2017 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+				Hayır (No) 
+	Bildirim İçeriği 	
+		
+		Açıklamalar 
+		
+			
+Şirketimiz ile Petrol - İş Sendikası arasında devam eden 20. dönem İşletme Toplu İş Sözleşmesi görüşmeleri sonucunda Petrol - İş Sendikası, devam etmekte olan TİS görüşmelerinin yasal takviminin bir parçası olarak, 27.02.2017 tarihi itibariyle grev kararı,  05.04.2017 tarihinde de grev uygulamasına başlama kararı almış olup, kimya iş kolunda faaliyet gösteren işyerlerimizde ilan etmiştir. İşçi sendikası ile İşletme Toplu İş Sözleşmesi görüşmeleri devam etmektedir.  		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Kar Payı Dağıtım İşlemlerine İlişkin Bildirim	Gönderim Tarihi:27.02.2017 11:52:39 	Bildirim Tipi:ODA 	Yıl: 
+Periyot: 	Özet Bilgi 	2016 yılı Kar Payı Dağıtım Teklifi 	Yapılan Açıklama Güncelleme mi ? 
+Hayır 	Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 	Yönetim Kurulu Karar Tarihi 
+27.02.2017 	Konunun Gündemde Yer Aldığı Genel Kurul Tarihi 	30.03.2017 
+Nakit Kar Payı Ödeme Şekli 	Peşin 
+Para Birimi 	TRY 
+Pay Biçiminde Ödeme 	Ödenmeyecek 
+	
+Nakit Kar Payı Ödeme Tutar ve Oranları 	Pay Grup Bilgileri 
+Ödeme 	1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Brüt(TL) 	1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Brüt(%) 	1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Net(TL) 	1 TL Nominal Değerli Paya Ödenecek Nakit Kar Payı - Net(%) 	SASA, TRASASAW91E4 
+Peşin 	0,25629 	25,629 	0,21784 	21,784 	
+
+Kar Payı Ödeme Tarihleri 
+Ödeme 
+Teklif Edilen 
+Nakit Kar Payı Hak Kullanım Tarihi (1) 
+Kesinleşen 
+Nakit Kar Payı Hak Kullanım Tarihi (2) 
+Ödeme Tarihi (3) 
+Kayıt Tarihi (4) 
+Peşin 
+14.04.2017 
+
+18.04.2017 
+17.04.2017 
+
+
+(1) Kar payının şirket tarafından ödeneceği ve payın kar payı hakkı bulunmadan işlem görmeye başlayacağı tarih (teklif edilen). 
+(2) Kar payının şirket tarafından ödeneceği ve payın kar payı hakkı bulunmadan işlem görmeye başlayacağı tarih (kesinleşen). 
+(3) Payları Borsa‘da işlem gören pay sahiplerinin hesaplarına giriş yapılacağı tarih. 
+(4) Borsada işlem gören tipteki payların hak sahiplerinin belirlendiği tarih. 
+Pay Olarak Kar Payı Ödeme Tutar ve Oranları 
+Pay Grup Bilgileri 
+Pay Biçiminde Dağıtılacak Kar Payı Tutarı(TL) 
+Pay Biçiminde Dağıtılacak Kar Payı Oranı(%) 
+SASA, TRASASAW91E4 
+0 
+0 
+
+
+
+
+Ek Açıklamalar 
+Yönetim Kurulumuzun 27.02.2017 tarihli toplantısısnda; 2016 yılı karından ortaklarımıza toplam 93.877.630.41 TL brüt nakit kar payı dağıtılmasına ve kar dağıtım tarihi olarak 14 Nisan 2017 tarihinin belirlenmesi hususlarının Olağan Genel Kurul'un onayına sunulmasına karar verilmiştir.
+Kar Dağıtım Tablosu ekte yer almaktadır.
+Eklenen Dökümanlar 
+EK: 1 
+SASA KAR DAĞITIM TABLOSU.pdf 
+
+
+
+
+
+KAR PAYI DAĞITIM TABLOSU 
+SASA POLYESTER SANAYİ A.Ş. 01.01.2016/31.12.2016 Dönemi Kâr Payı Dağıtım Tablosu (TL) 
+1. Ödenmiş/Çıkarılmış Sermaye 
+366.300.000 
+2. Genel Kanuni Yedek Akçe (Yasal Kayıtlara Göre) 
+10.029.118,05 
+Esas sözleşme uyarınca kâr dağıtımında imtiyaz var ise söz konusu imtiyaza ilişkin bilgi 
+Yoktur 
+
+
+* 
+SPK'ya Göre 
+Yasal Kayıtlara (YK) Göre 	3. Dönem Kârı 	158.141.872,01 
+138.025.852,07 	4. Vergiler ( - ) 	-20.633.798,39 
+-15.232.403,66 	5. Net Dönem Kârı 	137.508.073,62 
+122.793.448,41 	6. Geçmiş Yıllar Zararları ( - ) 	-29.934.507,75 
+0 	7. Genel Kanuni Yedek Akçe ( - ) 	-6.139.672,42 
+-6.139.672,42 	8. Net Dağıtılabilir Dönem Karı 	101.433.893,45 
+116.653.775,99 	Yıl İçinde Dağıtılan Kar Payı Avansı (-) 	0 
+0 	Kar Payı Avansı Düşülmüş Net Dağıtılabilir Dönem Karı/Zararı 	101.433.893,45 
+0 	9. Yıl İçinde Yapılan Bağışlar ( + ) 	121.197,23 
+0 	10. Bağışlar Eklenmiş Net Dağıtılabilir Dönem Karı 	101.555.090,68 
+0 	11. Ortaklara Birinci Kâr Payı 	50.777.545,34 
+0 	* Nakit 	50.777.545,34 
+0 	* Bedelsiz 	0 
+0 	12. İmtiyazlı Pay Sahiplerine Dağıtılan Kâr Payı 	0 
+0 	13. Dağıtılan Diğer Kâr Payı 	0 
+0 	* Çalışanlara 	0 
+0 	* Yönetim Kurulu Üyelerine 	0 
+0 	* Pay Sahibi Dışındaki Kişilere 	0 
+0 	14. İntifa Senedi Sahiplerine Dağıtılan Kâr Payı 	0 
+0 	15. Ortaklara İkinci Kâr Payı 	43.100.085,07 
+0 	16. Genel Kanuni Yedek Akçe 	7.556.263,04 
+0 	17. Statü Yedekleri 	0 
+0 	18. Özel Yedekler 	0 
+0 	19. Olağanüstü Yedek 	0 
+15.219.882,54 	20. Dağıtılması Öngörülen Diğer Kaynaklar 	0 
+0 		
+Kar Payı Oranları Tablosu 
+Pay Grubu 
+TOPLAM DAĞITILAN KAR PAYI - NAKİT (TL) - NET 
+TOPLAM DAĞITILAN KAR PAYI - BEDELSİZ (TL) 
+TOPLAM DAĞITILAN KAR PAYI / NET DAĞITILABİLİR DÖNEM KARI (%) 
+1 TL NOMİNAL DEĞERLİ PAYA İSABET EDEN KAR PAYI - TUTARI(TL) - NET 
+1 TL NOMİNAL DEĞERLİ PAYA İSABET EDEN KAR PAYI - ORANI(%) - NET 
+- - - 
+79.795.985,85 
+
+78,67 
+0,21784 
+21,7843 
+TOPLAM 
+79.795.985,85 
+
+78,67 
+0,21784 
+21,7843 
+
+
+Kar Payı Dağıtım Tablosu Açıklamaları 
+Şirketimizin bugün yapılan Yönetim Kurulu toplantısında;
+Sermaye Piyasası Kurulu'nun Seri II, 14.1 No'lu "Sermaye Piyasasında Finansal Raporlamaya İlişkin Esaslar Tebliği" uyarınca hazırlanan ve PwC Bağımsız Denetim ve Serbest Muhasebeci Mali Müşavirlik A.Ş. tarafından denetlenen 01.01.2016 - 31.12.2016 hesap dönemine ait şirket finansal tablolarına göre 137.508.073,62 TL Konsolide Net Dönem Kârı elde edilmiştir.
+Aşağıdaki kar dağıtım tablosunda açıklandığı üzere; SPK Mevzuatına uygun olarak hesaplanan 2016 yılı Konsolide Net Dönem Karından Esas Sözleşmenin 31. Maddesi gereği ve SPK tebliğlerine uygun olarak 6.139.672,42 TL Genel Kanuni Yedek Akçe (1.Tertip) ayrıldıktan ve 29.934.507,75 TL geçmiş yıl zararları düşüldükten sonra kalan 101.433.893,45 TL tutarında Net Dağıtılabilir Dönem Kârının aşağıdaki şekilde dağıtılmasına,
+Birinci Kâr Payı 50.777.545,34 TL
+İkinci Kâr Payı 43.100.085,07 TL
+Toplam Brüt Kâr Payı 93.877.630,41 TL
+Genel Kanuni Yedek Akçe (2.Tertip) 7.556.263,04 TL
+Kar dağıtımının yukarıdaki esaslara göre yapılması neticesinde, Vergi Usul Kanunu hükümlerine göre hazırlanan yasal kayıtlarımız esas alındığında ise;
+Yasal kayıtlarımızda yer alan 122.793.448,41 TL. Net Dönem Karından 6.139.672,42 TL Genel Kanuni Yedek Akçe (1.Tertip) ayrılmasına, 93.877.630,41 TL. Brüt Kar Payı dağıtılmasına, 7.556.263,04 TL Genel Kanuni Yedek Akçe (2.Tertip) ayrılmasına, 15.219.882,54 TL'nin de Olağanüstü Yedek olarak ayrılmasına,
+Böylelikle, 2016 yılı için, 366.300.000 TL sermayeyi temsil eden pay sahiplerine hukuki durumlarına bağlı olarak % 25,6286 (Brüt), % 21,7843 (Net) oranında toplam 93.877.630,41 TL Kar Payının 14 Nisan 2017 tarihinden itibaren nakden dağıtılması hususunun 30 Mart 2017 tarihinde yapılacak olan Olağan Genel Kurul'un onayına sunulmasına,
+Oybirliği ile karar verilmiştir.
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Genel Kurul İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:27.02.2017 11:39:35 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 	2016 yılı Olağan Genel Kurul Toplantı tarihi, gündemin tespiti ve ortaklarımızın davet edilmesi 
+Yapılan Açıklama Güncelleme mi ? 	Hayır 
+Yapılan Açıklama Düzeltme mi ? 	Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 	Hayır 
+
+
+Genel Kurul Çağrısı 
+Genel Kurul Tipi 
+Olağan Genel Kurul 
+Hesap Dönemi Başlangıç Tarihi 
+01.01.2016 
+Hesap Dönemi Bitiş Tarihi 
+31.12.2016 
+Karar Tarihi 
+27.02.2017 
+Genel Kurul Tarihi 
+30.03.2017 
+Genel Kurul Saati 
+11:00 
+GK'na Katılım İçin Pay Sahibi Olunması Gereken Son Tarih 
+29.03.2017 
+Ülke 
+Türkiye 
+Şehir 
+ADANA 
+İlçe 	SEYHAN 
+Adres 	Yolgeçen Mah. Turhan Cemal Beriker Bulvarı No:559 01355 Syhan /ADANA 
+	
+Gündem Maddeleri 	1 - Açılış ve Toplantı Başkanlığının oluşturulması, 
+2 - 2016 yılına ait Yönetim Kurulu faaliyet raporunun okunması ve müzakeresi, 	3 - 2016 yılına ait Denetçi Raporlarının okunması, 
+4 - 2016 yılına ait Finansal Tabloların okunması, müzakeresi ve tasdiki, 	5 - 2016 yılı faaliyetlerinden dolayı Yönetim kurulu üyelerinin ibra edilmeleri, 
+6 - 2016 yılı Karının kullanım şeklinin, dağıtılacak kar ve kazanç payları oranlarının belirlenmesi, 	7 - 2016 yılı içinde yapılan Bağış ve Yardımlar Hakkkında Genel Kurul'a bilgi verilmesi, 
+8 - Şirketin 2017 yılında yapacağı bağışların sınırının belirlenmesi, 	9 - Denetçi Seçimi 
+10 - Yönetim Kurulu üyelerinin ücretleri ile huzur hakkı, ikramiye ve prim gibi hakların belirlenmesi, 	11 - Yönetim Kurulu Başkan ve üyelerine, Türk Ticaret Kanunu'nun 395. ve 396. maddelerinde yazılı muameleleri yapabilmeleri için izin verilmesi 
+Gündemde Yer Alan Hak Kullanım Süreçleri 	Kar Payı Dağıtım 
+	Genel Kurul Çağrı Dökümanları 
+EK: 1 
+ilan 2016 Olagan GK.pdf - İlan Metni 	EK: 2 
+Vekaletname 2016 Olağan GK.pdf - Diğer Genel Kurul Çağrı Dokümanı 	EK: 3 
+Gündem 2016 Olagan GK.pdf - Genel Kurul Bilgilendirme Dokümanı 	
+
+
+
+Ek Açıklamalar 
+Şirketimiz Yönetim Kurulu'nun 27.02.2017 tarihli toplantısında,
+Ekte yer alan gündem maddelerini görüşmek üzere 2016 yılı Olağan Genel Kurulu'nun 30 Mart 2017 Perşembe günü saat 11:00' de Şirket merkezi olan Yolgeçen Mahallesi Turhan Cemal Beriker Bulvarı No:559 01355 Seyhan / Adana adresinde toplanmasına karar verilmiştir.
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim
+Gönderim Tarihi:20.02.2017 09:15:31 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi 
+Sermaye Artırımına ilişkin Yönetim Kurulu Kararı 
+Yapılan Açıklama Güncelleme mi ? 
+Hayır 
+Yapılan Açıklama Düzeltme mi ? 
+Hayır 
+Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+Hayır 
+Yönetim Kurulu Karar Tarihi 
+20.02.2017 
+Kayıtlı Sermaye Tavanı (TL) 
+500.000.000 	Mevcut Sermaye (TL) 
+366.300.000 	Ulaşılacak Sermaye (TL) 
+412.500.000 	
+	Bedelsiz Sermaye Artırımı 
+Pay Grup Bilgileri 	Mevcut Sermaye (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 	İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 	Kar Payından Bedelsiz Pay Alma Tutarı (TL) 	Kar Payından Bedelsiz Pay Alma Oranı (%) 	Verilecek Menkul Grubu 	Verilecek Menkul Kıymet 	Nevi 
+SASA, TRASASAW91E4 	366.300.000 	46.200.000 	12,61261 				SASA, TRASASAW91E4 	Nâma 
+
+
+Mevcut Sermaye (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Tutarı (TL) 
+İç Kaynaklardan Bedelsiz Pay Alma Oranı (%) 
+Kar Payından Bedelsiz Pay Alma Tutarı (TL) 
+Kar Payından Bedelsiz Pay Alma Oranı (%) 
+TOPLAM 
+366.300.000 
+46.200.000,000 
+12,61261 					
+İç Kaynakların Detayı : 
+		Diğer Sermaye Yedekleri (TL) 	46.200.000 		
+
+
+Ek Açıklamalar 
+Şirket yönetim kurulumuzun 20 Şubat 2017 tarihli toplantısında, mevcut 500.000.000 Türk Liralık kayıtlı sermaye tavanı içerisinde 366.300.000 Türk Lirası olan şirketimiz çıkarılmış sermayesinin 412.500.000 Türk Lirasına yükseltilmesine, artırılan 46.200.000 Türk Lirasının tamamının Olağanüstü Yedekler hesabından karşılanmasına ortaklarımızın elinde bulundurdukları beher hisseye % 12,6126 (yüzdeonikivirgülaltmışbiryirmialtı) oranında bedelsiz hisse verilmesine ve Merkezi Kayıt Kuruluşu nezdindeki işlemlerin yapılmasına, T.C. Başbakanlık Sermaye Piyasası Kurulu Başkanlığı'ndan izin alınmasına oy birliği ile karar verilmiştir.
+
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+SASA POLYESTER SANAYİ A.Ş.
+Şirket Genel Bilgi Formu
+Gönderim Tarihi:16.02.2017 14:07:21 
+Bildirim Tipi:DG 
+Yıl: 
+Periyot: 
+Yönetime İlişkin Bilgiler 
+Yönetimde Söz Sahibi Olan Personel 
+Adı-Soyadı 
+Görevi 	Mesleği 	Son 5 Yılda Ortaklıkta Üstlendiği Görevler 	Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler 	ERTUĞRUL TOKER 
+DMT İşletmeleri Grup Başkanı 	Kimya Mühendisi 	DMT İşletmesi Müdürü 		MUSTAFA KEMAL YILDIRIM 
+Elyaf ve İplik İşletmeleri Grup Başkanı 	Makine Mühendisi 	Elyaf İşletmeleri Yöneticisi 		MUSTAFA KEMAL ÖZ 
+Yatırımlar Grup Başkanı 	Kimya Mühendisi 	Elyaf ve İplik İşetmeleri Müdürü 		ALPER SÖĞÜT 
+Spc Polimer ve Enerji Grup Başkanı 	Makine Mühendisi 	Bakım ve Enerji Müdürü 		İRFAN BAŞKIR 
+Satış Pazarlama Grup Başkanı 	İşletme ve Yönetim Meslek Profesyoneli 	Polimer ve Kimyasallar Satış Müdürü 		
+
+BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI
+İşlem Sırası Durdurma Bildirimi
+Gönderim Tarihi:14.02.2017 10:24:52 
+Bildirim Tipi:DUY 
+Yıl: 
+Periyot: 
+Özet Bilgi
+SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır
+İlgili Şirketler 	[SASA] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Devre Kesici Uygulaması 		
+		
+	Bildirim İçeriği 		
+		
+		
+			
+		Açıklamalar 		
+				
+SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.		SASA POLYESTER SANAYİ A.Ş.
+Herhangi Bir Otoriteye Mali Tablo Verilmesi	Gönderim Tarihi:07.02.2017 13:13:03 	Bildirim Tipi:DG 
+Yıl: 	Periyot: 	Özet Bilgi
+2016 Yılı Geçici Vergi Beyannamesi 	İlgili Şirketler 	[] 
+		
+İlgili Fonlar 	[] 		
+		
+		Türkçe 
+				Herhangi Bir Otoriteye Mali Tablo Verilmesi 
+				
+	Yapılan Açıklama Güncelleme mi? 	
+		
+	Hayır (No) 	
+Yapılan Açıklama Düzeltme mi? 		
+			Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 		
+			- 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 		
+		
+Hayır (No) 		Bildirim İçeriği 	
+			
+	Mali Tablonun Hesap Dönemi 		
+			01.01.2016 - 31.12.2016 
+	Mali Tablonun Verildiği Otorite 	
+		
+	Yüreğir Vergi Dairesi 		Mali Tablonun Verilme Nedeni 	
+				Geçici vergi beyannamesi eki olarak 
+	Mali Tablonun Verilme Tarihi 	
+		
+	07/02/2017 	
+Açıklamalar 		
+			
+	Şirketimizin Vergi Dairesine sunulan  geçici vergi beyannamesi ekinde yer alan 31.12.2016  tarihli gelir  tablosu ilişikte pdf dosya olarak verilmektedir.
+  
+
+		BORSA İSTANBUL A.Ş.
+BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu	Gönderim Tarihi:01.02.2017 09:29:30 	Bildirim Tipi:DUY 	Yıl: 
+Periyot: 	Özet Bilgi	Pazar Değişikliği	İlgili Şirketler 
+[HURGZ, ALCTL, EGSER, SASA, TKNSA, HEKTS] 		
+	İlgili Fonlar 	[] 	
+			
+		Türkçe 	
+			BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu 
+		
+		
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+				
+		Bildirim İçeriği 
+		
+		
+Açıklamalar 		
+			
+	Yıldız Pazar'da işlem görmekte olan Hürriyet Gazetecilik ve Matbaacılık A.Ş.(HURGZ.E), Alcatel Lucent Teletaş Telekomünikasyon A.Ş. (ALCTL.E), Ege Seramik Sanayi ve Ticaret A.Ş. (EGSER.E) ve Teknosa İç ve Dış Ticaret A.Ş. (TKNSA.E) payları 01/02/2017 tarihinden itibaren (BUGÜN) Ana Pazar'da; Ana Pazar'da işlem görmekte olan Hektaş Ticaret T.A.Ş. (HEKTS.E) ve Sasa Polyester Sanayi A.Ş. (SASA.E) payları 01/02/2017 tarihinden itibaren (BUGÜN) Yıldız Pazar'da işlem görmeye başlayacaktır. 		SASA POLYESTER SANAYİ A.Ş.
+Yönetim Kurulu Komiteleri	Gönderim Tarihi:31.01.2017 16:58:47 	Bildirim Tipi:ODA 
+Yıl: 	Periyot: 	Özet Bilgi
+Kurumsal Yönetim Komitesi Üye Değişikliği ve Yönetim Kurulu Komiteleri Tüzükleri	İlgili Şirketler 	[] 
+			İlgili Fonlar 	[] 
+				
+		Türkçe 
+		
+	Yönetim Kurulu Komiteleri 	
+		
+		Yapılan Açıklama Güncelleme mi? 	
+			
+Hayır (No) 		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+		
+		- 
+	Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 			
+		Hayır (No) 		Bildirim İçeriği 
+		
+		
+Açıklamalar 		
+		
+		Yönetim kurulumuz bugün yapılan toplantıda
+Kurumsal Yönetim Komitesi üyeliğine Mehmet Pehlivan'ın yerine Sermaye Piyasası Faaliyetleri İleri Düzey Lisansı / Kurumsal Yönetim Derecelendirme Uzmanlığı Lisansı bulunan Ali Bülent Yılmazel'in atanmasına, 
+Yönetim Kurulu bünyesinde faaliyet gösteren "Kurumsal Yönetim Komitesi" , "Riskin Erken Saptanması" ve "Denetimden Sorumlu Komite" iç tüzüklerinin de  ekteki haliyle revize edilmesine,
+karar vermiştir.
+Saygılarımızla	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	BORSA İSTANBUL A.Ş.	Endeks Şirketlerinde Değişiklik	Gönderim Tarihi:31.01.2017 16:15:37 
+Bildirim Tipi:DUY 	Yıl: 	Periyot: 	Özet Bilgi
+Endeks şirketlerinde değişiklik	İlgili Şirketler 	[HURGZ, ALCTL, EGSER, TKNSA, HEKTS, SASA] 	
+		
+İlgili Fonlar 	[] 	
+		
+					Türkçe 
+					
+Endeks Şirketlerinde Değişiklik 			
+			
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 	
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 			
+		- 		
+Bildirim İçeriği 			
+			
+Endeks Şirketlerinde Değişiklik 			
+			
+Açıklamalar 
+
+		
+				Borsa İstanbul Genel Müdürlüğü tarafından 27.01.2017 tarihinde ilan edilen pazar değişiklikleri nedeniyle yapılacak endeks içerik değişiklikleri aşağıda yer almaktadır.	
+	
+	Endeks Şirketlerinde Değişiklik 			
+Pay Adı 	Kapsamına Dahil Edildiği Endeks 	Kapsamından Çıkarıldığı Endeks 	Geçerlilik Tarihi 		
+Hürriyet Gzt. 	BIST Ana 	BIST Yıldız 	01/02/2017 		
+Alcatel Lucent Teletaş 	BIST Ana 	BIST Yıldız 	01/02/2017 		
+Ege Seramik 	BIST Ana 	BIST Yıldız 	01/02/2017 		
+Teknosa İç ve Dış Ticaret 	BIST Ana 	BIST Yıldız 	01/02/2017 		
+Hektaş 	BIST Yıldız 	BIST Ana 	01/02/2017 		
+Sasa Polyester 	BIST Yıldız 	BIST Ana 	01/02/2017 		
+BORSA İSTANBUL A.Ş.	Borsa Genel Müdürlüğü Duyurusu	Gönderim Tarihi:27.01.2017 18:12:20 	Bildirim Tipi:DUY 
+Yıl: 	Periyot: 	Özet Bilgi	Dönemsel Değerlendirme Çalışması Sonucu Pazarı Değişecek Şirketler 
+İlgili Şirketler 	[ALCTL, EGSER, HEKTS, HURGZ, SASA, TKNSA] 		
+	İlgili Fonlar 	[] 	
+				
+	Türkçe 			
+	Borsa Genel Müdürlüğü Duyurusu 		
+			
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 	
+Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+
+		
+	- 		Bildirim İçeriği 		
+				Açıklamalar 	
+					
+Borsamız Kotasyon Yönergesi'nin Yıldız Pazar ile Ana Pazar arasında geçişleri düzenleyen 33. maddesi çerçevesinde, Yıldız Pazar'da ve Ana Pazar'da işlem görecek payların tespit edilmesi amacıyla yapılan 2016 yılı Temmuz-Aralık dönemine ilişkin dönemsel değerlendirme çalışması sonucunda; 
+ 
+A)   Halen Yıldız Pazar'da işlem görmekte olan şirketlerden fiili dolaşımdaki paylarının ortalama piyasa değeri 100 milyon TL'nin altında olan ve BIST 100 endeksi kapsamında bulunmayan Hürriyet Gazetecilik ve Matbaacılık A.Ş., Alcatel Lucent Teletaş Telekomünikasyon A.Ş., Ege Seramik Sanayi ve Ticaret A.Ş. ve Teknosa İç ve Dış Ticaret A.Ş. payları 01/02/2017 tarihinden itibaren Ana Pazar'a,
+B)    Ana Pazar'da işlem görmekte olan şirketlerden fiili dolaşımdaki paylarının ortalama piyasa değeri 100 milyon TL'nin üzerinde olan Hektaş Ticaret T.A.Ş. ve Sasa Polyester Sanayi A.Ş. payları 01/02/2017 tarihinden itibaren Yıldız Pazar'a 
+ 
+          
+alınacaktır.		SASA POLYESTER SANAYİ A.Ş.	Şirket Genel Bilgi Formu	Gönderim Tarihi:18.01.2017 17:57:33 	Bildirim Tipi:DG 
+Yıl: 	Periyot: 	İletişim Bilgileri 	Yatırımcı İlişkileri Bölümü veya Bağlantı Kurulacak Şirket Yetkilileri 	Ad-Soyad 	Görevi 
+Görevlendirme Tarihi 	Telefon 	E-posta 	Lisans Belgesi Türü 	Lisans Belge No 	Ali Bülent Yılmazel 
+Genel Muhasebe Yöneticisi 	18.03.2009 	(0322) 441 00 53 	bulent.yilmazel@sasa.com.tr 	Sermaye Piyasası Faaliyetleri İleri Düzey Lisansı / Kurumsal Yönetim Derecelendirme Uzmanlığı Lisansı 	203766 / 700311 
+
+
+Yönetime İlişkin Bilgiler 
+Yönetimde Söz Sahibi Olan Personel 
+Adı-Soyadı 
+Görevi 
+Mesleği 	Son 5 Yılda Ortaklıkta Üstlendiği Görevler 	Son Durum İtibariyle Ortaklık Dışında Aldığı Görevler 	ERTUĞRUL TOKER 	DMT İşletmeleri Grup Başkanı 
+Kimya Mühendisi 	DMT İşletmesi Müdürü 		GÜVEN KAYA 	Polimer İşletmeleri Grup Başkanı 
+Kimya Mühendisi 	Polimer İşletmeleri Müdürü 		MUSTAFA KEMAL YILDIRIM 	Elyaf ve İplik İşletmeleri Grup Başkanı 
+Makine Mühendisi 	Elyaf İşletmeleri Yöneticisi 		MUSTAFA KEMAL ÖZ 	Yatırımlar Grup Başkanı 
+Kimya Mühendisi 	Elyaf ve İplik İşetmeleri Müdürü 		ALPER SÖĞÜT 	Enerji Grup Başkanı 
+Makine Mühendisi 	Bakım ve Enerji Müdürü 		FERAT GÖÇ 	Mali İşler Grup Başkan V. 
+İşletme ve Yönetim Meslek Profesyoneli 	Maliyet Muhasebesi Müdürü 		İRFAN BAŞKIR 	Satış Pazarlama Grup Başkanı 
+İşletme ve Yönetim Meslek Profesyoneli 	Polimer ve Kimyasallar Satış Müdürü 			
+SASA POLYESTER SANAYİ A.Ş.
+Özel Durum Açıklaması (Genel)
+Gönderim Tarihi:17.01.2017 16:29:32 
+Bildirim Tipi:ODA 
+Yıl: 
+Periyot: 
+Özet Bilgi
+Petrol-İş Tis Görüşmeleri Arabulucu Tayini
+İlgili Şirketler 	[] 			
+İlgili Fonlar 	[] 			
+		
+	Türkçe 	
+		
+Özel Durum Açıklaması (Genel) 		
+			
+Yapılan Açıklama Güncelleme mi? 			
+		Evet (Yes) 	
+Yapılan Açıklama Düzeltme mi? 			
+		Hayır (No) 
+	Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+		
+	11.11.2016 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 	
+				Hayır (No) 
+	Bildirim İçeriği 	
+		
+		Açıklamalar 
+		
+			
+Şirketimiz ile Petrol-İş Sendikası arasında 11.11.2016 tarihinde başlayan 20. Dönem  Toplu İş Sözleşmesi görüşmelerinde, yasal süreç içerisinde anlaşmaya  varılamaması nedeniyle,  Petrol-İş Sendikası, 6356 sayılı yasanın 50. Maddesine istinaden, T.C. Çalışma ve Sosyal Güvenlik Bakanlığı Adana Çalışma ve İş Kurumu İl Müdürlüğü'ne bildirerek Resmi Arabulucu tayin edilmesini istemiş, bugün yapılan görüşmede taraflar Resmi Arabulucunun tayin edilmesi hususunda anlaşmaya varmıştır.		Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	SASA POLYESTER SANAYİ A.Ş.
+Bağımsız Denetim Kuruluşunun Belirlenmesi	Gönderim Tarihi:04.01.2017 13:26:56 	Bildirim Tipi:ODA 	Yıl: 
+Periyot: 	Özet Bilgi	Bağımsız Denetim Şirketinin Genel Kurula Önerilmesi	İlgili Şirketler 
+[] 		
+	İlgili Fonlar 	[] 
+		
+				Türkçe 
+				Bağımsız Denetim Kuruluşunun Belirlenmesi 
+		
+		
+Yapılan Açıklama Güncelleme mi? 		
+		
+Hayır (No) 		Yapılan Açıklama Düzeltme mi? 	
+			
+Hayır (No) 		Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 	
+			
+- 		Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+			
+	Hayır (No) 		Bildirim İçeriği 
+			
+		Bağımsız Denetim Kuruluşunun Unvanı 	
+			
+DRT Bağımsız Denetim ve Serbest Muhasebeci Mali Müşavirlik A.Ş 		Hangi Faaliyet Dönemi İçin Seçildiği 
+		
+		2017 Yılı Faaliyet Dönemi 		Seçildiği Genel Kurul Toplantısı Tarihi 
+				
+- 		Tescil Tarihi 
+		
+		- 
+	Tescile İlişkin Türkiye Ticaret Sicili Gazetesi Tarih ve No.su 	
+			
+- 		Açıklamalar 	
+			
+		Yönetim Kurulumuzca, Denetimden Sorumlu Komite'nin tavsiyesi dikkate alınarak;  6102 sayılı Türk Ticaret Kanunu ve 6362 sayılı Sermaye Piyasası Kanunu uyarınca belirlenen esaslara uygun olarak, Şirketimizin 2017 yılı hesap dönemindeki finansal raporlarının denetlenmesi ile bu kanunlardaki ilgili düzenlemeler kapsamında diğer faaliyetleri yürütmek üzere Eski Büyükdere Cad. Maslak Mah.N1 Maslak No1 Plaza 34398 Sarıyer / İstanbul,  adresinde bulunan DRT Bağımsız Denetim ve Serbest Muhasebeci Mali Müşavirlik A.Ş.'nin (Deloitte) 2016 yılı Olağan Genel Kurulu'nda denetçi olarak seçilmesi için önerilmesine karar verilmiştir.	
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 	Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 
+Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz. 

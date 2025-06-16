@@ -1,0 +1,299 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]-->
+  <style> body { text-align: left; } </style>
+ </head>
+ <body>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Değerleme Raporu </h1>
+  <div>
+   Gönderim Tarihi:04.02.2022 16:15:10
+  </div>
+  <div>
+   Bildirim Tipi:DG
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <div>
+   <table class="financial-header-table" border="1" style="font-size:10px"> 
+    <tbody> 
+    </tbody>
+   </table> 
+   <table class="financial-table tbl_oda-17200_Valuation-Report" border="1" style="font-size:10px">
+    <tbody>
+     <tr>
+      <td class="info-table-title-cell taxonomy-abstract-title">
+       <div>
+        <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+         İlgili Şirketler
+        </div>
+       </div></td>
+      <td class="info-table-title-cell">
+       <div>
+        <div class="gwt-Label">
+         []
+        </div>
+       </div></td>
+     </tr>
+     <tr>
+      <td class="info-table-title-cell taxonomy-abstract-title">
+       <div>
+        <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+         İlgili Fonlar
+        </div>
+       </div></td>
+      <td class="info-table-title-cell">
+       <div>
+        <div class="gwt-Label">
+         []
+        </div>
+       </div></td>
+     </tr>
+    </tbody>
+    <tbody>
+     <tr>
+      <td colspan="3" rowspan="3">
+       <div class="gwt-Label"></div></td>
+     </tr>
+     <tr>
+      <td colspan="0" align="center" class="taxonomy-dimensional-header-cell col-index-3 multi-language-content content-tr report-lang-header" parent="0" rowspan="1" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+         Türkçe
+        </div>
+       </div></td>
+     </tr>
+     <tr>
+      <td></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-3 abstract-row">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel taxonomy-abstract-title standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Değerleme Raporu
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-4 data-input-row alternate-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Yapılan Açıklama Güncelleme mi?
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td class="taxonomy-context-value col-order-class-3 multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label taxonomy-label-field standardLabel" title="Hayır (No)">
+         Hayır (No)
+        </div>
+       </div></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-5 data-input-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Yapılan Açıklama Düzeltme mi?
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td class="taxonomy-context-value col-order-class-3 multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label taxonomy-label-field standardLabel" title="Hayır (No)">
+         Hayır (No)
+        </div>
+       </div></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-6 data-input-row alternate-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td class="taxonomy-context-value col-order-class-3 multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label taxonomy-label-field standardLabel" title="-">
+         -
+        </div>
+       </div></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-7 abstract-row">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel taxonomy-abstract-title standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Bildirim İçeriği
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-8 data-input-row alternate-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Değerlemeyi Yapan Kuruluş
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td class="taxonomy-context-value col-order-class-3 multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label taxonomy-label-field standardLabel" title="İdeal Gayrimenkul Değerleme ve Danışmanlık A.Ş.">
+         İdeal Gayrimenkul Değerleme ve Danışmanlık A.Ş.
+        </div>
+       </div></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-9 data-input-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Değerleme Raporunun İçeriği
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td class="taxonomy-context-value col-order-class-3 multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label taxonomy-label-field standardLabel" title="Arsa Değerlemesi">
+         Arsa Değerlemesi
+        </div>
+       </div></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-10 data-input-row alternate-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Rapor Tarihi
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td class="taxonomy-context-value col-order-class-3 multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div class="gwt-Label taxonomy-label-field standardLabel" title="04.02.2022">
+         04.02.2022
+        </div>
+       </div></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-11 abstract-row">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td class="taxonomy-field-title">
+       <table cellspacing="0" cellpadding="0" class="taxonomy-title-panel taxonomy-abstract-title standardLabel" border="1" style="font-size:10px">
+        <tbody>
+         <tr>
+          <td align="left" style="vertical-align: top;">
+           <div class="gwt-Label multi-language-content content-tr" style="display: block;">
+            Açıklamalar
+           </div></td>
+          <td align="left" style="vertical-align: top;"></td>
+          <td align="left" style="vertical-align: top;">
+           <div class="fa fa-question-circle fa-2x taxonomy-field-documentation  multi-language-content content-tr" aria-hidden="true" style="display: block;"></div></td>
+          <td align="left" style="vertical-align: top;"></td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+     <tr class="oda-17200_Valuation-Report-row-12 data-input-row alternate-row presentation-enabled">
+      <td class="taxonomy-dimensional-context-cell"></td>
+      <td colspan="2" class="taxonomy-context-value-summernote multi-language-content content-tr" style="display: table-cell;">
+       <div>
+        <div>
+         <div class="text-block-value">
+          <p class="MsoNormal" style="textalign: justify; backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;"><span style="fontsize:10.5pt;fontfamily:'Arial',sans-serif;colr:#333333;&nbsp;mso-fareast-language:TR">Şirketimizin Adana ili Seyhan İlçesinde bulunan 2.181 dönüm arsası ile Hatay ili İskenderun İlçesinde bulunan 56 dönüm arsasının&nbsp;30.09.2021 tarihli konsolide finansal tablolarında yer alan toplam defter&nbsp;değeri 917.726.494 TL iken yaptırılan değerleme çalışması sonrasında söz konusu&nbsp;arsaların toplam piyasa değerinin 1.679.500.000 TL olduğu tespit edilmiştir.&nbsp;Tespit edilen&nbsp;</span><span style="colr: rgb(51, 51, 51); fontfamily: Arial, sans-serif; fontsize: 14px; lineheight: 20px;">1.679.500.000</span><span style="fontsize:10.5pt;fontfamily:'Arial',sans-serif;colr:#333333;&nbsp;mso-fareast-language:TR">&nbsp;TL şirketimizin 31.12.2021 tarihli konsolide&nbsp;finansal tablolarına yansıtılacaktır.</span></p>
+          <p></p>
+          <p></p>
+         </div>
+        </div>
+       </div></td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <br>
+  <br>
+  <div style="margin: 10px 0; text-align: center; font-weight: bold;">
+   ----------------------------------------------------------------------------------------------------------------
+  </div>
+  <br>
+  <br>
+ </body>
+</html>

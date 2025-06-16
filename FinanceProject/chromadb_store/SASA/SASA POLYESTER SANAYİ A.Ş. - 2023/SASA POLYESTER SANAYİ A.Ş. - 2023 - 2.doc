@@ -1,0 +1,5948 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html;" charset="utf-8"> 
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="Microsoft Excel 11">
+  <title>Document and Custom Property </title>
+  <!--[if gte mso 9]><xml><o:CustomDocumentProperties><o:BUSINESSGROUP dt:dt="string">CHANNELA</o:BUSINESSGROUP><o:BUSINESSGROUPID dt:dt="string">2</o:BUSINESSGROUPID></o:CustomDocumentProperties></xml><![endif]-->
+  <style> body { text-align: left; } </style>
+ </head>
+ <body>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:08.02.2023 10:01:26
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:07.02.2023 11:50:15
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL A.Ş.</h1>
+  <h1 style="font-size: medium">VİOP Diğer Duyurular</h1>
+  <div>
+   Gönderim Tarihi:06.02.2023 11:12:47
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA Vadeli İşlem Sözleşmelerinin İşleme Açılması</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            VİOP Diğer Duyurular 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p><span style="fontfamily: 'Times New Roman TUR', serif; fontsize: 12pt; lineheight: normal;">SASA vadeli işlem sözleşmeleri saat 11:15'de işleme&nbsp;açılacak, sözleşmelerde 11:15-11:25 saatleri arasında açılış seansı yapılacak ve&nbsp;11:30'dan itibaren sürekli müzayede ile devam edecektir.</span></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL A.Ş.</h1>
+  <h1 style="font-size: medium">Pay İşlem Sırası Kapatma / Açma</h1>
+  <div>
+   Gönderim Tarihi:06.02.2023 10:53:40
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Pay Sırasının İşleme Açılması</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Pay İşlem Sırası Kapatma / Açma 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Şirket Unvanı 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         SASA POLYESTER SANAYİ A.Ş. 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Kapatma / Açma İşlemi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Açma (Reactivation) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Sıra Kapatma Başlangıç Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         06/02/2023 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Sıra Açma Başlangıç Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         06/02/2023 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Sıra Açma Saati 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         11:15 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <div>
+           SASA.E sırası şirket ile ilgili özel durum açıklamasının Kamuyu Aydınlatma Platformu'nda (KAP) duyurulmuş olmasına istinaden saat 11:15'te işleme açılacak, sırada 11:15-11:25 saatleri arasında açılış seansı yapılacak ve 11:30'dan itibaren Sürekli İşlem bölümünde yeniden işleme açılacaktır. 
+         </div> 
+         <div> 
+          <br> 
+         </div> 
+         <div>
+           Dayanağı SASA olan varantlar ise saat 11:30'da sürekli işlem bölümünde yeniden işleme açılacaktır.&nbsp; 
+         </div> 
+         <div> 
+          <br> 
+         </div> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Özel Durum Açıklaması (Genel)</h1>
+  <div>
+   Gönderim Tarihi:06.02.2023 10:28:16
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Deprem</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Özel Durum Açıklaması (Genel) 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p style="textalign:justify"><span lang="EN-US" style="fontsize: 10.5pt; fontfamily: Arial, sans-serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">06.02.2023 sabahı meydana gelen 7,4&nbsp;şiddetindeki depremde Adana Seyhan'da bulunan tesislerimizde önemli bir hasar&nbsp;meydana gelmemiştir. Üretim aynı şekilde devam etmektedir. Depremden etkilenen&nbsp;yurttaşlarımıza geçmiş olsun dileklerimizi sunar, hayatını kaybedenlere&nbsp;Allah'tan rahmet, yakınlarına ve milletimize başsağlığı, yaralılara acil&nbsp;şifalar dileriz.</span></p> 
+         <p style="textalign:justify"><span lang="EN-US" style="lineheight: 1.42857; fontsize: 10.5pt; fontfamily: Arial, sans-serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-colr: rgb(255, 255, 255); backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">Sasa olarak üzerimize düşen&nbsp;sorumlulukları yerine getireceğimizden kimsenin şüphesi olmasın.</span></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">BORSA İSTANBUL A.Ş.</h1>
+  <h1 style="font-size: medium">BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu</h1>
+  <div>
+   Gönderim Tarihi:06.02.2023 09:27:30
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>İşlem Sırasının Geçici Olarak Durdurulması</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA, BOSSA, BLCYT, SANKO, HATEK, ISDMR, ARSAN, RUBNS] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <div>
+           6.02.2023 tarihinde meydana gelen deprem felaketi nedeniyle deprem bölgesinde bulunan aşağıda belirtilen ortaklık paylarına ait işlem sıralarının, şirketlerin depremden ne şekilde etkilendiklerine ilişkin KAP'ta özel durum açıklaması yapılıncaya kadar durdurulmasına karar verilmiştir. 
+         </div> 
+         <div> 
+          <br> 
+         </div> 
+         <div>
+           SASA.E (Pay, vadeli işlem sözleşmeleri ve varantlar) 
+         </div> 
+         <div>
+           BOSSA.E 
+         </div> 
+         <div>
+           BLCYT.E 
+         </div> 
+         <div>
+           SANKO.E 
+         </div> 
+         <div>
+           HATEK.E 
+         </div> 
+         <div>
+           ISDMR.E 
+         </div> 
+         <div>
+           ARSAN.E 
+         </div> 
+         <div>
+           RUBNS.E 
+         </div> 
+         <div> 
+          <br> 
+         </div> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Tertip İhraç Belgesi</h1>
+  <div>
+   Gönderim Tarihi:31.01.2023 16:50:57
+  </div>
+  <div>
+   Bildirim Tipi:DG
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Paya Dönüştürülebilir Tahvil Tertip İhraç Belgesi</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Tertip İhraç Belgesi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="-">
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p style="textalign:justify"><span style="fontsize:11.0pt;fontfamily:'Arial',sans-serif;&nbsp;mso-fareast-fontfamily:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:&nbsp;TR;mso-fareast-language:TR;mso-bidi-language:AR-SA">Tamamı nitelikli&nbsp;yatırımcılara satılmak üzere yurt dışında Euro cinsinden 5 (beş) yıl vadeli&nbsp;500.000.000 Euro (beş yüz milyon Euro) nominal değere kadar Paya&nbsp;Dönüştürülebilir Tahvil ihracına ilişkin Sermaye Piyasası Kurulu tarafından&nbsp;onaylanan Tertip İhraç Belgesi ektedir.</span><br></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">İhraç Belgesi</h1>
+  <div>
+   Gönderim Tarihi:31.01.2023 16:50:19
+  </div>
+  <div>
+   Bildirim Tipi:DG
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Paya Dönüştürülebilir Tahvil İhraç Belgesi</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            İhraç Belgesi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="-">
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p style="textalign:justify"><span style="fontfamily:'Arial',sans-serif">Tamamı&nbsp;nitelikli yatırımcılara satılmak üzere yurt dışında Euro cinsinden 5 (beş) yıl&nbsp;vadeli 500.000.000 Euro (beş yüz milyon Euro) nominal değere kadar Paya&nbsp;Dönüştürülebilir Tahvil ihracına ilişkin Sermaye Piyasası Kurulu tarafından&nbsp;onaylanan İhraç Belgesi ektedir.</span></p> 
+         <p></p> 
+         <p></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">İhraç Tavanına İlişkin Bildirim</h1>
+  <div>
+   Gönderim Tarihi:31.01.2023 16:48:59
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <table style="font-size:10px" border="1"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <table style="font-size:10px" border="1"> 
+        <tbody> 
+         <tr> 
+          <td width="30%"> 
+           <div>
+             Özet Bilgi 
+           </div></td> 
+          <td> 
+           <div>
+             Paya Dönüştürülebilir Tahvil İhraç Onayı 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Güncelleme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Evet 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Düzeltme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Yetkili Organ Karar Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            13.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            İhraç Tavanı Tutarı 
+          </div></td> 
+         <td> 
+          <div>
+            500.000.000 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Para Birimi 
+          </div></td> 
+         <td> 
+          <div>
+            EUR 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            İhraç Tavanı Kıymet Türü 
+          </div></td> 
+         <td> 
+          <div>
+            Borçlanma Aracı 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Satış Türü 
+          </div></td> 
+         <td> 
+          <div>
+            Yurtdışı Satış 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Yurt İçi / Yurt Dışı 
+          </div></td> 
+         <td> 
+          <div>
+            Yurt Dışı 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Başvuru Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            13.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Başvuru Sonucu 
+          </div></td> 
+         <td> 
+          <div>
+            ONAY 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Onay Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            26.01.2023 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            İhraç Tavanı Son Geçerlilik Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            26.01.2024 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Ek Açıklamalar 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div>
+        Şirketimizin, tamamı nitelikli yatırımcılara satılmak üzere yurt dışında Euro cinsinden 5 (beş) yıl vadeli 500.000.000 Euro (beş yüz milyon Euro) nominal değere kadar Paya Dönüştürülebilir Tahvil ihracına ilişkin Sermaye Piyasası Kuruluna yaptığı başvuru onaylanmıştır. 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:25.01.2023 11:54:17
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Esas Sözleşme</h1>
+  <div>
+   Gönderim Tarihi:23.01.2023 09:49:55
+  </div>
+  <div>
+   Bildirim Tipi:DG
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Güncel Esas Sözleşme</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Esas Sözleşme 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Evet (Yes)">
+         Evet (Yes) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="-">
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p><span lang="EN-US" style="fontsize: 11pt; fontfamily: Arial, sans-serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">Şirketimiz Esas&nbsp;Sözleşmesi'nin güncel hali ekte yer almaktadır.</span></p> 
+         <p></p> 
+         <p></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Esas Sözleşme Değişikliklerine İlişkin Kronoloji 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="9"> 
+      <div> 
+       <br> 
+       <br> 
+       <br> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="9"> 
+      <div> 
+       <div style="display: block;">
+         Esas Sözleşme Değişikliklerine İlişkin Kronoloji 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td align="center" colspan="4" style="display: table-cell;"> 
+      <div></div></td> 
+     <td> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td align="center" style="display: table-cell;"> 
+      <div style="display: block;">
+        Madde No 
+      </div></td> 
+     <td align="center" style="display: table-cell;"> 
+      <div style="display: block;">
+        Madde Değişikliğinin Tescil Tarihi 
+      </div></td> 
+     <td align="center" style="display: table-cell;"> 
+      <div style="display: block;">
+        Tescilin İlanına İlişkin TTSG Tarihi 
+      </div></td> 
+     <td align="center" style="display: table-cell;"> 
+      <div style="display: block;">
+        Tescilin İlanına İlişkin TTSG No 
+      </div></td> 
+     <td><a href="javascript:;"><i></i> </a></td> 
+    </tr> 
+    <tr> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         8 
+       </div> 
+      </div></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         20/01/2023 
+       </div> 
+      </div></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         20/01/2023 
+       </div> 
+      </div></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         10752 
+       </div> 
+      </div></td> 
+     <td><a href="javascript:;"><i></i> </a></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Esas Sözleşme Tadili</h1>
+  <div>
+   Gönderim Tarihi:23.01.2023 09:49:38
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Esas Sözleşme Tescili</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Esas Sözleşme Tadili 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Evet (Yes)">
+         Evet (Yes) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="10.01.2023">
+         10.01.2023 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p style="textalign:justify"><span style="fontsize:11.0pt;&nbsp;fontfamily:'Arial',sans-serif">Sermaye Piyasası Kurulu tarafından 16 Ocak 2023&nbsp;tarihinde onaylanmış olan Şirketimiz Esas Sözleşmesi'nin tadil edilmiş&nbsp;8.maddesi Adana Ticaret Sicil Müdürlüğü tarafından 20 Ocak 2023&nbsp;tarihinde&nbsp;tescil edilmiş ve </span><span lang="EN-US" style="fontsize: 10.5pt; fontfamily: Arial, sans-serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">20 Ocak 2023 tarihli ve </span><span lang="EN-US" style="fontsize: 10.5pt; fontfamily: Arial, sans-serif; backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">10752&nbsp;say<span style="colr:#333333">ılı </span></span><span style="fontsize:11.0pt;&nbsp;fontfamily:'Arial',sans-serif">Türkiye Ticaret Sicili Gazetesinde ilan&nbsp;edilmiştir.</span></p> 
+         <p></p> 
+         <p></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim</h1>
+  <div>
+   Gönderim Tarihi:23.01.2023 09:49:20
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <table style="font-size:10px" border="1"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <table style="font-size:10px" border="1"> 
+        <tbody> 
+         <tr> 
+          <td width="30%"> 
+           <div>
+             Özet Bilgi 
+           </div></td> 
+          <td> 
+           <div>
+             Şarta bağlı sermaye artırımı tescili 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Güncelleme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Evet 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Düzeltme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Yönetim Kurulu Karar Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            19.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Kayıtlı Sermaye Tavanı (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            3.000.000.000 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Mevcut Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            2.263.633.096 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Ulaşılacak Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            2.302.591.217 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Bedelli Sermaye Artırımı (Tahsisli) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div>
+            Pay Grup Bilgileri 
+          </div></td> 
+         <td> 
+          <div>
+            Mevcut Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 
+          </div></td> 
+         <td> 
+          <div>
+            Verilecek Menkul Kıymet 
+          </div></td> 
+         <td> 
+          <div>
+            Nevi 
+          </div></td> 
+         <td> 
+          <div>
+            İptal Edilen Pay Tutarı (TL) 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SASA, TRASASAW91E4 
+          </div></td> 
+         <td> 
+          <div>
+            2.263.633.096 
+          </div></td> 
+         <td> 
+          <div>
+            38.958.121 
+          </div></td> 
+         <td> 
+          <div>
+            1,72104 
+          </div></td> 
+         <td> 
+          <div>
+            SASA, TRASASAW91E4 
+          </div></td> 
+         <td> 
+          <div>
+            Nâma 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div></div></td> 
+         <td> 
+          <div>
+            Mevcut Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 
+          </div></td> 
+         <td> 
+          <div>
+            İptal Edilen Pay Tutarı (TL) 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            TOPLAM 
+          </div></td> 
+         <td> 
+          <div>
+            2.263.633.096 
+          </div></td> 
+         <td> 
+          <div>
+            38.958.121,000 
+          </div></td> 
+         <td> 
+          <div>
+            1,72104 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Bildirilmesi Gereken Diğer Hususlar 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Tadil Edilecek Ana Sözleşme Madde No 
+          </div></td> 
+         <td> 
+          <div>
+            8 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Başvuru Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            09.01.2023 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Başvuru Sonucu 
+          </div></td> 
+         <td> 
+          <div>
+            ONAY 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Onay Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            16.01.2023 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Başvuru Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            19.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Başvuru Sonucu 
+          </div></td> 
+         <td> 
+          <div>
+            Onay 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Onay Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            29.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Artırılan Sermayeyi Temsil Eden Payların Niteliği 
+          </div></td> 
+         <td> 
+          <div>
+            Kaydi Pay 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Sermaye Tescil Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            20.01.2023 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Ek Açıklamalar 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <p style="textalign:justify"><span style="fontsize:11.0pt; fontfamily:&quot;Arial&quot;,sans-serif">Şirketimiz Esas Sözleşmesi'nin tadil edilmiş 8.maddesi Adana Ticaret Sicil Müdürlüğü tarafından </span><span style="colr: rgb(51, 51, 51); fontfamily: Arial, sans-serif;">20 Ocak 2023</span><span style="fontsize:11.0pt; fontfamily:&quot;Arial&quot;,sans-serif"> tarihinde tescil edilmiş ve </span><span lang="EN-US" style="fontsize: 10.5pt; fontfamily: Arial, sans-serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">20 Ocak 2023 tarihli ve </span><span lang="EN-US" style="fontsize: 10.5pt; fontfamily: Arial, sans-serif; colr: red; backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">10752 </span><span lang="EN-US" style="fontsize: 10.5pt; fontfamily: Arial, sans-serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;">sayılı </span><span style="fontsize: 11.0pt;fontfamily:&quot;Arial&quot;,sans-serif">Türkiye Ticaret Sicili Gazetesinde ilan edilmiştir.</span></p> 
+       <p></p> 
+       <p></p> 
+       <div style="textalign: justify;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div> 
+           <div>
+             Eklenen Dökümanlar 
+           </div> 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <table style="font-size:10px" border="1"> 
+           <tbody> 
+            <tr> 
+             <td width="30%"> 
+              <div>
+                EK: 1 
+              </div></td> 
+             <td> 
+              <div>
+                ES Tadil Tasarısı.pdf 
+              </div></td> 
+            </tr> 
+            <tr> 
+             <td> 
+              <div>
+                EK: 2 
+              </div></td> 
+             <td> 
+              <div>
+                AA Amendment Draft.pdf 
+              </div></td> 
+            </tr> 
+           </tbody> 
+          </table></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">BORSA İSTANBUL A.Ş.</h1>
+  <h1 style="font-size: medium">Borsa İstanbul A.Ş. Duyurusu</h1>
+  <div>
+   Gönderim Tarihi:20.01.2023 18:19:26
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Yatırım Aracı Bazında Tedbir Uygulanması</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Borsa İstanbul A.Ş. Duyurusu 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p style="margn-bottom: 6pt; textalign: justify; lineheight: 115%; backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;"><span style="fontsize:12.0pt;lineheight:115%;&nbsp;fontfamily:'Times New Roman',serif;mso-fareast-fontfamily:'Times New Roman'">Borsa&nbsp;İstanbul A.Ş. Piyasalarında Uygulanacak Gözetim Tedbirleri Yönergesi'nin 5. ve&nbsp;6. maddelerindeki hükümler çerçevesinde, Tedbir Yönetim Sistemi kapsamında,&nbsp;piyasasında gerçekleşen işlemler nedeniyle </span><span style="fontsize:12.0pt;&nbsp;mso-bidi-fontsize:11.0pt;lineheight:115%;fontfamily:'Times New Roman',serif;&nbsp;mso-fareast-fontfamily:'Times New Roman';mso-bidi-fontfamily:Calibri;&nbsp;mso-bidi-font-weight:bold">Sasa Polyester Sanayi A.Ş. (SASA</span><span style="fontsize:12.0pt;lineheight:115%;fontfamily:'Times New Roman',serif;&nbsp;mso-fareast-fontfamily:'Times New Roman'">.E) payında 23/01/2023 tarihinden&nbsp;itibaren 1 ay süreyle "Açığa Satış ve Kredili İşlem Yasağı", "Brüt Takas" ve "Emir&nbsp;İptalinin, Emir Miktar Azaltımı ile Emir Fiyat Kötüleştirmesinin Yasaklanması" tedbirleri&nbsp;uygulanacaktır. </span></p> 
+         <p></p> 
+         <p></p>&nbsp;&nbsp; 
+         <p style="margn-bottom: 6pt; textalign: justify; lineheight: 115%; backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;"><span style="fontsize:6.0pt;lineheight:115%;&nbsp;fontfamily:'Times New Roman',serif;mso-fareast-fontfamily:'Times New Roman'"></span></p> 
+         <p>&nbsp;</p> 
+         <p></p>&nbsp;&nbsp; 
+         <p style="margn-bottom: 6pt; textalign: justify; lineheight: 115%; backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;"><span style="fontsize:12.0pt;lineheight:115%;&nbsp;fontfamily:'Times New Roman',serif;mso-fareast-fontfamily:'Times New Roman'">Tedbirlerin&nbsp;uygulanacağı son tarih 22/02/2023'tür.</span></p> 
+         <p></p> 
+         <p></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Özel Durum Açıklaması (Genel)</h1>
+  <div>
+   Gönderim Tarihi:18.01.2023 16:27:23
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Honeywell UOP ile lisans, teknik hizmet ve garanti anlaşmaları imzalanması</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Özel Durum Açıklaması (Genel) 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p style="textalign:justify;textindent:35.4pt"><span lang="EN-US" style="fontsize:16.0pt;lineheight:107%;fontfamily:'Times New Roman',serif;&nbsp;colr:#333333;mso-ansi-language:EN-US;mso-fareast-language:TR">Şirketimize&nbsp;tahsis edilen Yumurtalık yatırım alanında, 2026 yılı ilk yarısında tamamlanması&nbsp;planlanan, ciroya </span><span lang="EN-US" style="fontsize:16.0pt;lineheight:&nbsp;107%;fontfamily:'Times New Roman',serif;colr:red;mso-ansi-language:EN-US;&nbsp;mso-fareast-language:TR">katkısının bugünkü şartlarla 1,2 Milyar USD, yatırım&nbsp;bedelinin ise 1,5 Milyar USD olması beklenen</span><span lang="EN-US" style="fontsize:16.0pt;lineheight:107%;fontfamily:'Times New Roman',serif;&nbsp;colr:#333333;mso-ansi-language:EN-US;mso-fareast-language:TR"> 1.000.000&nbsp;ton/yıl kapasiteli Propilen (PDH tesisi) Üretim Tesisi kurulması ile ilgili&nbsp;şirketimiz ile Honeywell UOP arasında lisans, teknik hizmet ve garanti&nbsp;anlaşmaları imzalanmıştır.</span><span style="fontsize: 16pt; lineheight: 107%; fontfamily: 'Times New Roman', serif; colr: rgb(51, 51, 51); backround-image: initial; backround-attachment: initial; backround-size: initial; backround-origin: initial; backround-clip: initial; backround-position: initial; backround-repeat: initial;"></span></p> 
+         <p></p> 
+         <p></p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:16.01.2023 10:11:49
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL A.Ş.</h1>
+  <h1 style="font-size: medium">Özsermaye Hallerine İlişkin Borsa Duyurusu</h1>
+  <div>
+   Gönderim Tarihi:10.01.2023 16:48:45
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>-</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Özsermaye Hallerine İlişkin Borsa Duyurusu 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="Hayır (No)">
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div title="-">
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div>
+          Sasa Polyester'in çıkarılmış sermayesinin 2.263.633.096 TL'den 2.302.591.217 TL'ye yükseltilmesi işlemleri gerçekleştirilmiş olduğundan 11.01.2023 tarihinden itibaren BIST Pay Endekslerinin hesaplanmasında, şirketin paylarının sayısı 2.302.591.217, fiili dolaşımdaki pay oranı %23 olarak dikkate alınacaktır. 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Esas Sözleşme Tadili</h1>
+  <div>
+   Gönderim Tarihi:10.01.2023 09:27:53
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Esas Sözleşme Değişikliği SPK Başvurusu</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Esas Sözleşme Tadili 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Güncelleme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         - 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Ertelenmiş Bir Açıklama mı? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div>
+          Paya Dönüştürülebilir Tahvillerin (Convertible Bond) itfası kapsamında gerçekleştirilen şarta bağlı sermaye artırım işlemleri nedeniyle Şirketimiz Yönetim Kurulunun 9 Ocak 2023 tarihli kararı çerçevesinde; Şirket Esas Sözleşmesinin 8.maddesinin ekteki şekilde tadil edilmesi için&nbsp; 
+         <span style="lineheight: 18.5714px;">9 Ocak 2023</span>&nbsp;tarihinde Sermaye Piyasası Kurulu'na başvuruda bulunulmuştur.&nbsp; 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim</h1>
+  <div>
+   Gönderim Tarihi:10.01.2023 09:27:28
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <table style="font-size:10px" border="1"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <table style="font-size:10px" border="1"> 
+        <tbody> 
+         <tr> 
+          <td width="30%"> 
+           <div>
+             Özet Bilgi 
+           </div></td> 
+          <td> 
+           <div>
+             Şarta Bağlı Sermaye Artırımının Tamamlanması ve Esas Sözleşme Değişikliğine İlişkin Yönetim Kurulu Kararı 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Güncelleme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Evet 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Düzeltme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Yönetim Kurulu Karar Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            19.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Kayıtlı Sermaye Tavanı (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            3.000.000.000 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Mevcut Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            2.263.633.096 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Ulaşılacak Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            2.302.591.217 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Bedelli Sermaye Artırımı (Tahsisli) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div>
+            Pay Grup Bilgileri 
+          </div></td> 
+         <td> 
+          <div>
+            Mevcut Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 
+          </div></td> 
+         <td> 
+          <div>
+            Verilecek Menkul Kıymet 
+          </div></td> 
+         <td> 
+          <div>
+            Nevi 
+          </div></td> 
+         <td> 
+          <div>
+            İptal Edilen Pay Tutarı (TL) 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SASA, TRASASAW91E4 
+          </div></td> 
+         <td> 
+          <div>
+            2.263.633.096 
+          </div></td> 
+         <td> 
+          <div>
+            38.958.121 
+          </div></td> 
+         <td> 
+          <div>
+            1,72104 
+          </div></td> 
+         <td> 
+          <div>
+            SASA, TRASASAW91E4 
+          </div></td> 
+         <td> 
+          <div>
+            Nâma 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div></div></td> 
+         <td> 
+          <div>
+            Mevcut Sermaye (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye Tutarı (TL) 
+          </div></td> 
+         <td> 
+          <div>
+            Rüçhan Hakkı Kullandırılmadan Tahsisli Artırılacak Sermaye (%) 
+          </div></td> 
+         <td> 
+          <div>
+            İptal Edilen Pay Tutarı (TL) 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            TOPLAM 
+          </div></td> 
+         <td> 
+          <div>
+            2.263.633.096 
+          </div></td> 
+         <td> 
+          <div>
+            38.958.121,000 
+          </div></td> 
+         <td> 
+          <div>
+            1,72104 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Bildirilmesi Gereken Diğer Hususlar 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Tadil Edilecek Ana Sözleşme Madde No 
+          </div></td> 
+         <td> 
+          <div>
+            8 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Ana Sözleşmenin Sermaye Maddesinin Tadiline İlişkin SPK Başvuru Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            09.01.2023 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Başvuru Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            19.12.2022 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Başvuru Sonucu 
+          </div></td> 
+         <td> 
+          <div>
+            Onay 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            SPK Onay Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            29.12.2022 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Ek Açıklamalar 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <p style="textalign:justify"><span style="colr: rgb(51, 51, 51); fontfamily: Arial, sans-serif; fontsize: 14.6667px; lineheight: 20.9524px;">Şirketimiz Yönetim Kurulunun 09.01.2023 tarihli toplantısında aşağıdaki kararlar alınmıştır:</span></p> 
+       <p style="textalign:justify"><span style="colr: rgb(51, 51, 51); fontfamily: Arial, sans-serif; fontsize: 14.6667px; lineheight: 20.9524px;">-Sermaye Piyasası Kurulunun 29.12.2022 tarihli ve 77/1869 sayılı kararı ile onaylamış olduğu, şirketimizin çıkarılmış sermayesinin 2.263.633.096 TL'den 2.302.591.217 TL'ye artırılması işlemleri 09.01.2023 tarihi itibarıyla tamamlanmıştır.</span></p> 
+       <p style="textalign:justify"><span style="colr: rgb(51, 51, 51); fontfamily: Arial, sans-serif; fontsize: 14.6667px; lineheight: 20.9524px;">-2022 Kasım ve Aralık ayı içinde dönüştürme talebinde bulunan tahvil sahiplerine tahsisli olarak gerçekleştirilen şarta bağlı sermaye artırımı işlemlerinin sermaye piyasası mevzuatı çerçevesinde tamamlanmasına bağlı olarak, Şirketimiz Esas Sözleşmesinin "Sermaye" başlıklı 8.maddesinin ekteki şekilde tadil edilmesine ve Esas Sözleşme değişikliği için gerekli izinlerin alınarak diğer işlemlerin yapılmasına karar verilmiştir.</span></p> 
+       <div style="textalign: justify;"> 
+        <br> 
+       </div> 
+       <div style="textalign: justify;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div> 
+           <div>
+             Eklenen Dökümanlar 
+           </div> 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <table style="font-size:10px" border="1"> 
+           <tbody> 
+            <tr> 
+             <td width="30%"> 
+              <div>
+                EK: 1 
+              </div></td> 
+             <td> 
+              <div>
+                ES Tadil Tasarısı.pdf 
+              </div></td> 
+            </tr> 
+            <tr> 
+             <td> 
+              <div>
+                EK: 2 
+              </div></td> 
+             <td> 
+              <div>
+                AA Amendment Draft.pdf 
+              </div></td> 
+            </tr> 
+           </tbody> 
+          </table></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">SASA POLYESTER SANAYİ A.Ş.</h1>
+  <h1 style="font-size: medium">Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)</h1>
+  <div>
+   Gönderim Tarihi:09.01.2023 18:14:20
+  </div>
+  <div>
+   Bildirim Tipi:ODA
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <table style="font-size:10px" border="1"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <table style="font-size:10px" border="1"> 
+        <tbody> 
+         <tr> 
+          <td width="30%"> 
+           <div>
+             Özet Bilgi 
+           </div></td> 
+          <td> 
+           <div>
+             Tahvil Dönüştürme İşlemlerinin Tamamlanması 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Güncelleme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Evet 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Düzeltme mi ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Yapılan Açıklama Ertelenmiş Bir Açıklama mı ? 
+           </div></td> 
+          <td> 
+           <div>
+             Hayır 
+           </div></td> 
+         </tr> 
+         <tr> 
+          <td> 
+           <div>
+             Bildirim Konusu 
+           </div></td> 
+          <td> 
+           <div>
+             Diğer 
+           </div></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Yönetim Kurulu Karar Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            27.08.2020 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         İlgili İhraç Tavanı Bilgileri 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Para Birimi 
+          </div></td> 
+         <td> 
+          <div>
+            EUR 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Tutar 
+          </div></td> 
+         <td> 
+          <div>
+            200.000.000 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            İhraç Tavanı Kıymet Türü 
+          </div></td> 
+         <td> 
+          <div>
+            Borçlanma Aracı 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Satış Türü 
+          </div></td> 
+         <td> 
+          <div>
+            Yurtdışı Satış 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Yurt İçi / Yurt Dışı 
+          </div></td> 
+         <td> 
+          <div>
+            Yurt Dışı 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Kurul Onay Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            11.02.2021 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         İhraç Edilecek Sermaye Piyasası Aracı Bilgileri 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Merkezi Saklamacı Kuruluş 
+          </div></td> 
+         <td> 
+          <div>
+            Euroclear Bank SA/NV and Clearstream Banking SA 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Türü 
+          </div></td> 
+         <td> 
+          <div>
+            Özel Sektör Tahvili 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Vadesi 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2026 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Vade (Gün Sayısı) 
+          </div></td> 
+         <td> 
+          <div>
+            1.826 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Faiz Oranı Türü 
+          </div></td> 
+         <td> 
+          <div>
+            Sabit 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Satış Şekli 
+          </div></td> 
+         <td> 
+          <div>
+            Yurtdışı Satış 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            ISIN Kodu 
+          </div></td> 
+         <td> 
+          <div>
+            XS2357838601 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Satışın Tamamlanma Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            22.06.2021 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Vade Başlangıç Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2021 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Satışı Gerçekleştirilen Nominal Tutar 
+          </div></td> 
+         <td> 
+          <div>
+            200.000.000 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Kupon Sayısı 
+          </div></td> 
+         <td> 
+          <div>
+            20 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Döviz Cinsi 
+          </div></td> 
+         <td> 
+          <div>
+            EUR 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Kupon Ödeme Sıklığı 
+          </div></td> 
+         <td> 
+          <div>
+            3 Ayda Bir 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td><span>Sermaye Piyasası Aracının İtfa Planı</span></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div>
+            Kupon Sıra No 
+          </div></td> 
+         <td> 
+          <div>
+            Ödeme Tarihi 
+          </div></td> 
+         <td> 
+          <div>
+            Ödemesi Gerçekleştirildi mi? 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            1 
+          </div></td> 
+         <td> 
+          <div>
+            30.09.2021 
+          </div></td> 
+         <td> 
+          <div>
+            Evet 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            2 
+          </div></td> 
+         <td> 
+          <div>
+            30.12.2021 
+          </div></td> 
+         <td> 
+          <div>
+            Evet 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            3 
+          </div></td> 
+         <td> 
+          <div>
+            30.03.2022 
+          </div></td> 
+         <td> 
+          <div>
+            Evet 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            4 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2022 
+          </div></td> 
+         <td> 
+          <div>
+            Evet 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            5 
+          </div></td> 
+         <td> 
+          <div>
+            30.09.2022 
+          </div></td> 
+         <td> 
+          <div>
+            Evet 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            6 
+          </div></td> 
+         <td> 
+          <div>
+            30.12.2022 
+          </div></td> 
+         <td> 
+          <div>
+            Evet 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            7 
+          </div></td> 
+         <td> 
+          <div>
+            30.03.2023 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            8 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2023 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            9 
+          </div></td> 
+         <td> 
+          <div>
+            30.09.2023 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            10 
+          </div></td> 
+         <td> 
+          <div>
+            30.12.2023 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            11 
+          </div></td> 
+         <td> 
+          <div>
+            30.03.2024 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            12 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2024 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            13 
+          </div></td> 
+         <td> 
+          <div>
+            30.09.2024 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            14 
+          </div></td> 
+         <td> 
+          <div>
+            30.12.2024 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            15 
+          </div></td> 
+         <td> 
+          <div>
+            30.03.2025 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            16 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2025 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            17 
+          </div></td> 
+         <td> 
+          <div>
+            30.09.2025 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            18 
+          </div></td> 
+         <td> 
+          <div>
+            30.12.2025 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            19 
+          </div></td> 
+         <td> 
+          <div>
+            30.03.2026 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            20 
+          </div></td> 
+         <td> 
+          <div>
+            30.06.2026 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <div>
+            Anapara / Vadesonu Ödeme Tutarı 
+          </div></td> 
+         <td> 
+          <div></div></td> 
+         <td> 
+          <div></div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td><span> * Hak sahiplerinin belirlendiği tarih.</span></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Derecelendirme 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            İhraççının Derecelendirme Notu var mı? 
+          </div></td> 
+         <td> 
+          <div>
+            Hayır 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Sermaye Piyasası Aracının Derecelendirme Notu Var mı? 
+          </div></td> 
+         <td> 
+          <div>
+            Hayır 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td width="30%"> 
+          <div>
+            Kaynak Kuruluş'un Derecelendirme Notu Var mı? 
+          </div></td> 
+         <td> 
+          <div>
+            Hayır 
+          </div></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         İhraca İlişkin Diğer Gelişmeler 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div>
+        22.06.2021 tarihinde ihraç edilen 200.000.000 Euro nominal tutarlı Paya Dönüştürülebilir Tahvillerin (Convertible Bond) 69.400.000 Euro nominal tutarlı kısmı, tahvil sahibi yatırımcıların 2022 Kasım ve Aralık ayı içinde iletilen talepleri doğrultusunda paya dönüştürülerek itfa edilmiştir. 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div>
+         Ek Açıklamalar 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div>
+        Paya dönüştürülen 69.400.000 Euro nominal tutarlı tahvil karşılığı verilen 38.958.121 TL nominal değerli paylar, Şirketimiz çıkarılmış sermayesinin şarta bağlı ve tahsisli olarak 2.263.633.096 TL'den 2.302.591.217 TL'ye yükseltilmesi karşılığında ihraç edilen SASA paylarından karşılanmıştır. 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <table style="font-size:10px" border="1"> 
+       <tbody> 
+        <tr> 
+         <td> 
+          <div> 
+           <div>
+             Eklenen Dökümanlar 
+           </div> 
+          </div></td> 
+        </tr> 
+        <tr> 
+         <td> 
+          <table style="font-size:10px" border="1"> 
+           <tbody> 
+            <tr> 
+             <td width="30%"> 
+              <div>
+                EK: 1 
+              </div></td> 
+             <td> 
+              <div>
+                Convertible Bond-Conversion Price Press Release.pdf 
+              </div></td> 
+            </tr> 
+            <tr> 
+             <td> 
+              <div>
+                EK: 2 
+              </div></td> 
+             <td> 
+              <div>
+                Paya Dönüştürülebilir Tahvil-Dönüştürme Fiyatı Basın Açıklaması.pdf 
+              </div></td> 
+            </tr> 
+           </tbody> 
+          </table></td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <div>
+   <div>
+    Yukarıdaki açıklamalarımızın, Sermaye Piyasası Kurulunun yürürlükteki Özel Durumlar Tebliğinde yer alan esaslara uygun olduğunu, bu konuda/konularda tarafımıza ulaşan bilgileri tam olarak yansıttığını, bilgilerin defter, kayıt ve belgelerimize uygun olduğunu, konuyla ilgili bilgileri tam ve doğru olarak elde etmek için gerekli tüm çabaları gösterdiğimizi ve yapılan bu açıklamalardan sorumlu olduğumuzu beyan ederiz.
+   </div>
+  </div>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:09.01.2023 11:35:01
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:05.01.2023 10:48:29
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:04.01.2023 17:04:44
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI</h1>
+  <h1 style="font-size: medium">İşlem Sırası Durdurma Bildirimi</h1>
+  <div>
+   Gönderim Tarihi:03.01.2023 15:41:32
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>SASA.E İşlem Sırasında Devre Kesici Uygulaması Başlamıştır</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td rowspan="0" style="white-space: nowrap;"> 
+      <div> 
+       <div style="display: block;"> 
+        <br> 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Devre Kesici Uygulaması 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <p>SASA.E işlem sırasında sürekli işleme ara verilmiş, tek fiyat emir toplama başlamıştır.</p> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+  <h1 style="font-size: medium">MERKEZİ KAYIT KURULUŞU A.Ş.</h1>
+  <h1 style="font-size: medium">Merkezi Kayıt Kuruluşu A.Ş. Duyurusu</h1>
+  <div>
+   Gönderim Tarihi:02.01.2023 14:59:59
+  </div>
+  <div>
+   Bildirim Tipi:DUY
+  </div>
+  <div>
+   Yıl:
+  </div>
+  <div>
+   Periyot:
+  </div>
+  <h1 style="font-size: medium">Özet Bilgi</h1>
+  <p>Hak Kullanım İşlemleri</p>
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+   </tbody> 
+  </table> 
+  <table border="1" style="font-size:10px"> 
+   <tbody> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Şirketler 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [SASA] 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td> 
+      <div> 
+       <div style="display: block;">
+         İlgili Fonlar 
+       </div> 
+      </div></td> 
+     <td> 
+      <div> 
+       <div>
+         [] 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" rowspan="3"> 
+      <div></div></td> 
+    </tr> 
+    <tr> 
+     <td colspan="0" align="center" parent="0" rowspan="1" style="display: table-cell;"> 
+      <div> 
+       <div style="display: block;">
+         Türkçe 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Merkezi Kayıt Kuruluşu A.Ş. Duyurusu 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Yapılan Açıklama Düzeltme mi? 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div>
+         Hayır (No) 
+       </div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Konuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+     <td style="display: table-cell;"> 
+      <div> 
+       <div></div> 
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Bildirim İçeriği 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td> 
+      <table cellspacing="0" cellpadding="0" border="1" style="font-size:10px"> 
+       <tbody> 
+        <tr> 
+         <td align="left" style="vertical-align: top;"> 
+          <div style="display: block;">
+            Açıklamalar 
+          </div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+         <td align="left" style="vertical-align: top;"> 
+          <div aria-hidden="true" style="display: inline-block;"></div></td> 
+         <td align="left" style="vertical-align: top;"> </td> 
+        </tr> 
+       </tbody> 
+      </table></td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td colspan="2" style="display: table-cell;"> 
+      <div> 
+       <div> 
+        <div> 
+         <b style="colr: rgb(51, 51, 51); fontfamily: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; textalign: justify; widows: 2;"><i>SASA POLYESTER SANAYİ A.Ş.</i></b> 
+         <span style="colr: rgb(51, 51, 51); fontfamily: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; textalign: justify; widows: 2;">'nin&nbsp;gerçekleştireceğini bildirdiği&nbsp;tahsisli sermaye artırım işleminde, 38.958.121 TL nominal değerde kaydi bakiye&nbsp;(ISIN Kod: TRASASAW91E4), Şirketin talebi&nbsp;üzerine 02.01.2023 tarihinde&nbsp;<i><u>borsada&nbsp;işlem gören statüde</u></i>&nbsp;ihraç&nbsp;edilmiştir.</span> 
+        </div> 
+       </div> 
+      </div></td> 
+    </tr> 
+   </tbody> 
+  </table>
+ </body>
+</html>

@@ -1,4 +1,4 @@
-from database.vectordb_client import chroma_client 
+from backend.database.vectordb_client import chroma_client, collection
 from backend.services.openai.openai_client import openai_client
 
 from typing import List
@@ -6,13 +6,16 @@ from datetime import datetime
 from pydantic import BaseModel
 
 
-def search_db(collection, query_texts, n_results, include= ["metadatas","documents"]):
-    collection = chroma_client.create_collection(name=collection)
+def search_db(query_texts, n_results, include= ["metadatas","documents"]):
+    #try:
+    #    collection = chroma_client.create_collection(name=collection)
+    #except:
+    #    pass
     
     return collection.query(
         query_texts=query_texts, # Chroma will embed this for you
         n_results=n_results, # how many results to return
-        include=["metadatas","documents"]   
+        include=include
     )
 
 
@@ -71,3 +74,24 @@ def vector_db_search_query_agent(query, stock_name):
     )
 
     return response.choices[0].message.parsed.search_query
+
+
+
+def vectordb_agent(query, symbol):
+    search_queries = vector_db_search_query_agent(query, symbol)
+
+    prompt_compatible_vector_result = ""
+    raw_vector_results = []
+
+    for search_query in search_queries: 
+        content = search_db(search_query,n_results=1,)  
+        metadata = content["metadatas"][0][0]["file_chunk"]
+        txt = content["documents"][0][0]
+        prompt_compatible_vector_result += "---"
+
+        prompt_compatible_vector_result += "File Name : {metadata}"
+        prompt_compatible_vector_result += txt
+        raw_vector_results.append({"file_name":metadata, "content":txt})
+        prompt_compatible_vector_result += "---"
+
+    return prompt_compatible_vector_result, raw_vector_results
